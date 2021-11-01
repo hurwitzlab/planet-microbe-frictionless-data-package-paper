@@ -1,0 +1,867 @@
+﻿Project Name,Sample ID,latlong,Latitude,Longitude,Biome,Environmental Feature,Environmental Material,Acidity
+CDEBI Juan de Fuca Ridge Flank,SAMN03166097,"(47.76,-127.76),(47.76,-127.76)",47.76,-127.76,marine abyssal zone biome,oceanic zone,sea water,7.7
+CDEBI Juan de Fuca Ridge Flank,SAMN03166099,"(47.76,-127.76),(47.76,-127.76)",47.76,-127.76,marine abyssal zone biome,oceanic zone,sea water,7.8
+CDEBI Juan de Fuca Ridge Flank,SAMN03166100,"(47.76,-127.76),(47.76,-127.76)",47.76,-127.76,marine abyssal zone biome,oceanic zone,sea water,7.8
+CDEBI Juan de Fuca Ridge Flank,SAMN03166101,"(47.76,-127.76),(47.76,-127.76)",47.76,-127.76,marine abyssal zone biome,oceanic zone,sea water,7.8
+CDEBI Juan de Fuca Ridge Flank,SAMN03166102,"(47.89,-128.65),(47.89,-128.65)",47.89,-128.65,marine abyssal zone biome,oceanic zone,sea water,7.9
+CDEBI Juan de Fuca Ridge Flank,SAMN03166103,"(47.89,-128.65),(47.89,-128.65)",47.89,-128.65,marine abyssal zone biome,oceanic zone,sea water,7.9
+CDEBI Juan de Fuca Ridge Flank,SAMN03166104,"(47.89,-128.65),(47.89,-128.65)",47.89,-128.65,marine abyssal zone biome,oceanic zone,sea water,7.9
+CDEBI Juan de Fuca Ridge Flank,SAMN03166105,"(47.76,-127.76),(47.76,-127.76)",47.76,-127.76,marine abyssal zone biome,oceanic zone,sea water,7.8
+CDEBI Juan de Fuca Ridge Flank,SAMN03166106,"(47.76,-127.76),(47.76,-127.76)",47.76,-127.76,marine abyssal zone biome,oceanic zone,sea water,7.8
+CDEBI Juan de Fuca Ridge Flank,SAMN03166107,"(47.76,-127.76),(47.76,-127.76)",47.76,-127.76,marine abyssal zone biome,oceanic zone,sea water,7.8
+CDEBI Juan de Fuca Ridge Flank,SAMN03166108,"(47.76,-127.76),(47.76,-127.76)",47.76,-127.76,marine abyssal zone biome,oceanic zone,sea water,7.8
+CDEBI Juan de Fuca Ridge Flank,SAMN03166109,"(47.76,-127.76),(47.76,-127.76)",47.76,-127.76,marine abyssal zone biome,oceanic zone,sea water,7.8
+CDEBI Juan de Fuca Ridge Flank,SAMN03166113,"(47.76,-127.76),(47.76,-127.76)",47.76,-127.76,marine abyssal zone biome,oceanic zone,sea water,7.8
+CDEBI Juan de Fuca Ridge Flank,SAMN03166114,"(47.76,-127.76),(47.76,-127.76)",47.76,-127.76,marine abyssal zone biome,oceanic zone,sea water,7.8
+CDEBI Juan de Fuca Ridge Flank,SAMN03166115,"(47.76,-127.76),(47.76,-127.76)",47.76,-127.76,marine abyssal zone biome,oceanic zone,sea water,7.8
+CDEBI Juan de Fuca Ridge Flank,SAMN03166116,"(47.76,-127.76),(47.76,-127.76)",47.76,-127.76,marine abyssal zone biome,oceanic zone,sea water,7.8
+GOS,SAMEA3512125,"(20.094784,-105.63443)",20.094784,-105.63443,ocean biome,coastal water body,sea water,8.01
+GOS,SAMEA3512124,"(20.094784,-105.63443)",20.094784,-105.63443,ocean biome,coastal water body,sea water,8.01
+GOS,SAMEA3512123,"(20.094784,-105.63443)",20.094784,-105.63443,ocean biome,coastal water body,sea water,8.01
+GOS,SAMEA3512131,"(7.1635003,-81.71476)",7.1635003,-81.71476,ocean biome,coastal water body,sea water,8.12
+GOS,SAMEA3512130,"(7.1635003,-81.71476)",7.1635003,-81.71476,ocean biome,coastal water body,sea water,8.12
+GOS,SAMEA3512129,"(7.1635003,-81.71476)",7.1635003,-81.71476,ocean biome,coastal water body,sea water,8.12
+GOS,SAMEA3512137,"(50.249832,-4.216942)",50.249832,-4.216942,ocean biome,coastal water body,sea water,8.4
+GOS,SAMEA3512136,"(50.249832,-4.216942)",50.249832,-4.216942,ocean biome,coastal water body,sea water,8.4
+GOS,SAMEA3512135,"(50.249832,-4.216942)",50.249832,-4.216942,ocean biome,coastal water body,sea water,8.4
+GOS,SAMEA3512140,"(50.249832,-4.216942)",50.249832,-4.216942,ocean biome,coastal water body,sea water,8.4
+GOS,SAMEA3512139,"(50.249832,-4.216942)",50.249832,-4.216942,ocean biome,coastal water body,sea water,8.4
+GOS,SAMEA3512138,"(50.249832,-4.216942)",50.249832,-4.216942,ocean biome,coastal water body,sea water,8.4
+GOS,SAMEA3512143,"(50.02885,-4.3367)",50.02885,-4.3367,ocean biome,coastal water body,sea water,8.3
+GOS,SAMEA3512142,"(50.02885,-4.3367)",50.02885,-4.3367,ocean biome,coastal water body,sea water,8.3
+GOS,SAMEA3512141,"(50.02885,-4.3367)",50.02885,-4.3367,ocean biome,coastal water body,sea water,8.3
+GOS,SAMEA3512146,"(50.02885,-4.3367)",50.02885,-4.3367,ocean biome,coastal water body,sea water,8.4
+GOS,SAMEA3512145,"(50.02885,-4.3367)",50.02885,-4.3367,ocean biome,coastal water body,sea water,8.4
+GOS,SAMEA3512144,"(50.02885,-4.3367)",50.02885,-4.3367,ocean biome,coastal water body,sea water,8.4
+GOS,SAMEA3512148,"(54.268715,7.1871166)",54.268715,7.1871166,ocean biome,coastal water body,sea water,8.47
+GOS,SAMEA3512147,"(54.268715,7.1871166)",54.268715,7.1871166,ocean biome,coastal water body,sea water,8.47
+GOS,SAMEA3512150,"(54.268715,7.1871166)",54.268715,7.1871166,ocean biome,coastal water body,sea water,8.4
+GOS,SAMEA3512149,"(54.268715,7.1871166)",54.268715,7.1871166,ocean biome,coastal water body,sea water,8.4
+GOS,SAMEA3512168,"(40.808464,14.249701)",40.808464,14.249701,ocean biome,coastal water body,sea water,8.08
+GOS,SAMEA3512167,"(40.808464,14.249701)",40.808464,14.249701,ocean biome,coastal water body,sea water,8.08
+GOS,SAMEA3512166,"(40.808464,14.249701)",40.808464,14.249701,ocean biome,coastal water body,sea water,8.08
+GOS,SAMEA3512169,"(38.25325,15.629167)",38.25325,15.629167,ocean biome,coastal water body,sea water,8.02
+GOS,SAMEA3512170,"(38.25325,15.629167)",38.25325,15.629167,ocean biome,coastal water body,sea water,8
+GOS,SAMEA3512181,"(38.827732,22.772516)",38.827732,22.772516,ocean biome,coastal water body,sea water,8.1
+GOS,SAMEA3512180,"(38.827732,22.772516)",38.827732,22.772516,ocean biome,coastal water body,sea water,8.1
+GOS,SAMEA3512179,"(38.827732,22.772516)",38.827732,22.772516,ocean biome,coastal water body,sea water,8.1
+GOS,SAMEA3512184,"(38.827732,22.772516)",38.827732,22.772516,ocean biome,coastal water body,sea water,8
+GOS,SAMEA3512183,"(38.827732,22.772516)",38.827732,22.772516,ocean biome,coastal water body,sea water,8
+GOS,SAMEA3512182,"(38.827732,22.772516)",38.827732,22.772516,ocean biome,coastal water body,sea water,8
+GOS,SAMEA3512185,"(36.383133,25.393566)",36.383133,25.393566,ocean biome,coastal water body,sea water,7.9
+GOS,SAMEA3512186,"(36.400368,25.390034)",36.400368,25.390034,ocean biome,coastal water body,sea water,5.3
+GOS,SAMEA3512128,"(20.094784,-105.63443)",20.094784,-105.63443,ocean biome,coastal water body,sea water,8.47
+GOS,SAMEA3512127,"(20.094784,-105.63443)",20.094784,-105.63443,ocean biome,coastal water body,sea water,8.47
+GOS,SAMEA3512126,"(20.094784,-105.63443)",20.094784,-105.63443,ocean biome,coastal water body,sea water,8.47
+GOS,SAMEA3512134,"(7.1635003,-81.71143)",7.1635003,-81.71143,ocean biome,coastal water body,sea water,8.62
+GOS,SAMEA3512133,"(7.1635003,-81.71143)",7.1635003,-81.71143,ocean biome,coastal water body,sea water,8.62
+GOS,SAMEA3512132,"(7.1635003,-81.71143)",7.1635003,-81.71143,ocean biome,coastal water body,sea water,8.62
+GOS,SAMEA3512160,"(39.49235,2.127316)",39.49235,2.127316,ocean biome,ocean,sea water,8.3
+GOS,SAMEA3512161,"(39.49235,2.127316)",39.49235,2.127316,ocean biome,ocean,sea water,8.3
+GOS,SAMEA3512165,"(39.897102,11.7578335)",39.897102,11.7578335,ocean biome,ocean,sea water,7.99
+GOS,SAMEA3512171,"(38.528267,18.074806)",38.528267,18.074806,ocean biome,ocean,sea water,8
+GOS,SAMEA3512172,"(41.213516,17.8776)",41.213516,17.8776,ocean biome,ocean,sea water,8.02
+GOS,SAMEA3512175,"(42.435883,28.135767)",42.435883,28.135767,ocean biome,ocean,sea water,8.2
+GOS,SAMEA3512174,"(42.435883,28.135767)",42.435883,28.135767,ocean biome,ocean,sea water,8.2
+GOS,SAMEA3512173,"(42.435883,28.135767)",42.435883,28.135767,ocean biome,ocean,sea water,8.2
+GOS,SAMEA3512178,"(42.435883,28.135767)",42.435883,28.135767,ocean biome,ocean,sea water,7.8
+GOS,SAMEA3512177,"(42.435883,28.135767)",42.435883,28.135767,ocean biome,ocean,sea water,7.8
+GOS,SAMEA3512176,"(42.435883,28.135767)",42.435883,28.135767,ocean biome,ocean,sea water,7.8
+GOS,SAMEA3512190,"(27.863716,-13.68155)",27.863716,-13.68155,ocean biome,ocean,sea water,8.1
+GOS,SAMEA3512191,"(27.863716,-13.68155)",27.863716,-13.68155,ocean biome,ocean,sea water,8.1
+GOS,SAMEA3512192,"(17.540632,-51.638252)",17.540632,-51.638252,ocean biome,ocean,sea water,8.2
+GOS,SAMEA3512193,"(17.540632,-51.638252)",17.540632,-51.638252,ocean biome,ocean,sea water,8.2
+HOT ALOHA time/depth series,SAMN05991650,"(22.7555,-157.988),(22.75,-158),(22.7555,-157.988)",22.7555,-157.988,marine biome,marine wind mixed layer,sea water,8.08
+HOT ALOHA time/depth series,SAMN05991651,"(22.7555,-157.988),(22.75,-158),(22.7555,-157.988)",22.7555,-157.988,marine biome,marine wind mixed layer,sea water,8.07
+HOT ALOHA time/depth series,SAMN05991652,"(22.7555,-157.988),(22.75,-158),(22.7555,-157.988)",22.7555,-157.988,marine biome,marine wind mixed layer,sea water,8.07
+HOT ALOHA time/depth series,SAMN05991653,"(22.8337,-157.949),(22.75,-158),(22.8337,-157.949)",22.8337,-157.949,marine biome,marine wind mixed layer,sea water,8.05
+HOT ALOHA time/depth series,SAMN05991654,"(22.8337,-157.949),(22.75,-158),(22.8337,-157.949)",22.8337,-157.949,marine biome,oceanic zone,sea water,7.98
+HOT ALOHA time/depth series,SAMN05991655,"(22.745,-157.979),(22.75,-158),(22.745,-157.979)",22.745,-157.979,marine biome,marine mesopelagic zone,sea water,7.49
+HOT ALOHA time/depth series,SAMN05991656,"(22.745,-157.979),(22.75,-158),(22.745,-157.979)",22.745,-157.979,marine biome,marine mesopelagic zone,sea water,7.36
+HOT ALOHA time/depth series,SAMN05991657,"(22.745,-157.979),(22.75,-158),(22.745,-157.979)",22.745,-157.979,marine biome,marine mesopelagic zone,sea water,7.39
+HOT ALOHA time/depth series,SAMN05991658,"(22.7492,-158.06),(22.75,-158),(22.7492,-158.06)",22.7492,-158.06,marine biome,marine wind mixed layer,sea water,8.08
+HOT ALOHA time/depth series,SAMN05991659,"(22.7492,-158.06),(22.75,-158),(22.7492,-158.06)",22.7492,-158.06,marine biome,marine wind mixed layer,sea water,8.08
+HOT ALOHA time/depth series,SAMN05991660,"(22.7492,-158.06),(22.75,-158),(22.7492,-158.06)",22.7492,-158.06,marine biome,marine wind mixed layer,sea water,8.07
+HOT ALOHA time/depth series,SAMN05991661,"(22.7908,-158.003),(22.75,-158),(22.7908,-158.003)",22.7908,-158.003,marine biome,marine wind mixed layer,sea water,8.02
+HOT ALOHA time/depth series,SAMN05991662,"(22.7908,-158.003),(22.75,-158),(22.7908,-158.003)",22.7908,-158.003,marine biome,oceanic zone,sea water,7.97
+HOT ALOHA time/depth series,SAMN05991663,"(22.7293,-157.926),(22.75,-158),(22.7293,-157.926)",22.7293,-157.926,marine biome,marine mesopelagic zone,sea water,7.49
+HOT ALOHA time/depth series,SAMN05991664,"(22.7293,-157.926),(22.75,-158),(22.7293,-157.926)",22.7293,-157.926,marine biome,marine mesopelagic zone,sea water,7.36
+HOT ALOHA time/depth series,SAMN05991665,"(22.7293,-157.926),(22.75,-158),(22.7293,-157.926)",22.7293,-157.926,marine biome,marine mesopelagic zone,sea water,7.39
+HOT ALOHA time/depth series,SAMN05991666,"(22.7328,-157.971),(22.75,-158),(22.7328,-157.971)",22.7328,-157.971,marine biome,marine wind mixed layer,sea water,8.08
+HOT ALOHA time/depth series,SAMN05991667,"(22.7328,-157.971),(22.75,-158),(22.7328,-157.971)",22.7328,-157.971,marine biome,marine wind mixed layer,sea water,8.08
+HOT ALOHA time/depth series,SAMN05991668,"(22.7328,-157.971),(22.75,-158),(22.7328,-157.971)",22.7328,-157.971,marine biome,marine wind mixed layer,sea water,8.07
+HOT ALOHA time/depth series,SAMN05991669,"(22.7502,-157.999),(22.75,-158),(22.7502,-157.999)",22.7502,-157.999,marine biome,oceanic zone,sea water,7.99
+HOT ALOHA time/depth series,SAMN05991670,"(22.6822,-157.956),(22.75,-158),(22.6822,-157.956)",22.6822,-157.956,marine biome,marine mesopelagic zone,sea water,7.53
+HOT ALOHA time/depth series,SAMN05991671,"(22.6822,-157.956),(22.75,-158),(22.6822,-157.956)",22.6822,-157.956,marine biome,marine mesopelagic zone,sea water,7.36
+HOT ALOHA time/depth series,SAMN05991672,"(22.6822,-157.956),(22.75,-158),(22.6822,-157.956)",22.6822,-157.956,marine biome,marine mesopelagic zone,sea water,7.39
+HOT ALOHA time/depth series,SAMN05991673,"(22.7452,-157.982),(22.75,-158),(22.7452,-157.982)",22.7452,-157.982,marine biome,marine wind mixed layer,sea water,8.08
+HOT ALOHA time/depth series,SAMN05991674,"(22.7452,-157.982),(22.75,-158),(22.7452,-157.982)",22.7452,-157.982,marine biome,marine wind mixed layer,sea water,8.08
+HOT ALOHA time/depth series,SAMN05991675,"(22.7703,-158.016),(22.75,-158),(22.7703,-158.016)",22.7703,-158.016,marine biome,marine wind mixed layer,sea water,8.07
+HOT ALOHA time/depth series,SAMN05991676,"(22.7703,-158.016),(22.75,-158),(22.7703,-158.016)",22.7703,-158.016,marine biome,marine wind mixed layer,sea water,8.05
+HOT ALOHA time/depth series,SAMN05991677,"(22.7468,-157.988),(22.75,-158),(22.7468,-157.988)",22.7468,-157.988,marine biome,marine mesopelagic zone,sea water,7.49
+HOT ALOHA time/depth series,SAMN05991678,"(22.7468,-157.988),(22.75,-158),(22.7468,-157.988)",22.7468,-157.988,marine biome,marine mesopelagic zone,sea water,7.31
+HOT ALOHA time/depth series,SAMN05991679,"(22.7468,-157.988),(22.75,-158),(22.7468,-157.988)",22.7468,-157.988,marine biome,marine mesopelagic zone,sea water,7.38
+HOT ALOHA time/depth series,SAMN05991680,"(22.674,-158.009),(22.75,-158),(22.674,-158.009)",22.674,-158.009,marine biome,marine wind mixed layer,sea water,8.07
+HOT ALOHA time/depth series,SAMN05991681,"(22.6655,-157.994),(22.75,-158),(22.6655,-157.994)",22.6655,-157.994,marine biome,marine wind mixed layer,sea water,8.01
+HOT ALOHA time/depth series,SAMN05991682,"(22.6655,-157.994),(22.75,-158),(22.6655,-157.994)",22.6655,-157.994,marine biome,oceanic zone,sea water,7.92
+HOT ALOHA time/depth series,SAMN05991683,"(22.7498,-158.001),(22.75,-158),(22.7498,-158.001)",22.7498,-158.001,marine biome,marine mesopelagic zone,sea water,7.51
+HOT ALOHA time/depth series,SAMN05991684,"(22.7498,-158.001),(22.75,-158),(22.7498,-158.001)",22.7498,-158.001,marine biome,marine mesopelagic zone,sea water,7.34
+HOT ALOHA time/depth series,SAMN05991685,"(22.7498,-158.001),(22.75,-158),(22.7498,-158.001)",22.7498,-158.001,marine biome,marine mesopelagic zone,sea water,7.39
+HOT ALOHA time/depth series,SAMN05991686,"(22.6877,-157.994),(22.75,-158),(22.6877,-157.994)",22.6877,-157.994,marine biome,marine wind mixed layer,sea water,8.07
+HOT ALOHA time/depth series,SAMN05991687,"(22.6877,-157.994),(22.75,-158),(22.6877,-157.994)",22.6877,-157.994,marine biome,marine wind mixed layer,sea water,8.07
+HOT ALOHA time/depth series,SAMN05991688,"(22.7425,-158.001),(22.75,-158),(22.7425,-158.001)",22.7425,-158.001,marine biome,marine wind mixed layer,sea water,8.02
+HOT ALOHA time/depth series,SAMN05991689,"(22.7425,-158.001),(22.75,-158),(22.7425,-158.001)",22.7425,-158.001,marine biome,oceanic zone,sea water,7.97
+HOT ALOHA time/depth series,SAMN05991690,"(22.7942,-158.087),(22.75,-158),(22.7942,-158.087)",22.7942,-158.087,marine biome,marine mesopelagic zone,sea water,7.51
+HOT ALOHA time/depth series,SAMN05991691,"(22.7942,-158.087),(22.75,-158),(22.7942,-158.087)",22.7942,-158.087,marine biome,marine mesopelagic zone,sea water,7.35
+HOT ALOHA time/depth series,SAMN05991692,"(22.7942,-158.087),(22.75,-158),(22.7942,-158.087)",22.7942,-158.087,marine biome,marine mesopelagic zone,sea water,7.39
+HOT ALOHA time/depth series,SAMN05991693,"(22.7347,-157.999),(22.75,-158),(22.7347,-157.999)",22.7347,-157.999,marine biome,marine wind mixed layer,sea water,8.07
+HOT ALOHA time/depth series,SAMN05991694,"(22.7347,-157.999),(22.75,-158),(22.7347,-157.999)",22.7347,-157.999,marine biome,marine wind mixed layer,sea water,8.05
+HOT ALOHA time/depth series,SAMN05991695,"(22.7288,-157.953),(22.75,-158),(22.7288,-157.953)",22.7288,-157.953,marine biome,marine wind mixed layer,sea water,8.02
+HOT ALOHA time/depth series,SAMN05991696,"(22.7288,-157.953),(22.75,-158),(22.7288,-157.953)",22.7288,-157.953,marine biome,oceanic zone,sea water,7.95
+HOT ALOHA time/depth series,SAMN05991697,"(22.6908,-157.989),(22.75,-158),(22.6908,-157.989)",22.6908,-157.989,marine biome,marine mesopelagic zone,sea water,7.48
+HOT ALOHA time/depth series,SAMN05991698,"(22.6908,-157.989),(22.75,-158),(22.6908,-157.989)",22.6908,-157.989,marine biome,marine mesopelagic zone,sea water,7.35
+HOT ALOHA time/depth series,SAMN05991699,"(22.6908,-157.989),(22.75,-158),(22.6908,-157.989)",22.6908,-157.989,marine biome,marine mesopelagic zone,sea water,7.39
+HOT ALOHA time/depth series,SAMN05991700,"(22.716,-158.001),(22.75,-158),(22.716,-158.001)",22.716,-158.001,marine biome,marine wind mixed layer,sea water,8.08
+HOT ALOHA time/depth series,SAMN05991701,"(22.716,-158.001),(22.75,-158),(22.716,-158.001)",22.716,-158.001,marine biome,marine wind mixed layer,sea water,8.07
+HOT ALOHA time/depth series,SAMN05991702,"(22.727,-158.003),(22.75,-158),(22.727,-158.003)",22.727,-158.003,marine biome,marine wind mixed layer,sea water,8.05
+HOT ALOHA time/depth series,SAMN05991703,"(22.727,-158.003),(22.75,-158),(22.727,-158.003)",22.727,-158.003,marine biome,oceanic zone,sea water,7.94
+HOT ALOHA time/depth series,SAMN05991704,"(22.7252,-158.02),(22.75,-158),(22.7252,-158.02)",22.7252,-158.02,marine biome,marine mesopelagic zone,sea water,7.41
+HOT ALOHA time/depth series,SAMN05991705,"(22.7252,-158.02),(22.75,-158),(22.7252,-158.02)",22.7252,-158.02,marine biome,marine mesopelagic zone,sea water,7.36
+HOT ALOHA time/depth series,SAMN05991706,"(22.727,-158.003),(22.75,-158),(22.727,-158.003)",22.727,-158.003,marine biome,marine mesopelagic zone,sea water,7.39
+HOT ALOHA time/depth series,SAMN05991707,"(22.6678,-158),(22.75,-158),(22.6678,-158)",22.6678,-158,marine biome,marine wind mixed layer,sea water,8.09
+HOT ALOHA time/depth series,SAMN05991708,"(22.6678,-158),(22.75,-158),(22.6678,-158)",22.6678,-158,marine biome,marine wind mixed layer,sea water,8.05
+HOT ALOHA time/depth series,SAMN05991709,"(22.7408,-157.982),(22.75,-158),(22.7408,-157.982)",22.7408,-157.982,marine biome,marine wind mixed layer,sea water,7.99
+HOT ALOHA time/depth series,SAMN05991710,"(22.7408,-157.982),(22.75,-158),(22.7408,-157.982)",22.7408,-157.982,marine biome,oceanic zone,sea water,7.93
+HOT ALOHA time/depth series,SAMN05991711,"(22.6712,-157.99),(22.75,-158),(22.6712,-157.99)",22.6712,-157.99,marine biome,marine mesopelagic zone,sea water,7.53
+HOT ALOHA time/depth series,SAMN05991712,"(22.6712,-157.99),(22.75,-158),(22.6712,-157.99)",22.6712,-157.99,marine biome,marine mesopelagic zone,sea water,7.32
+HOT ALOHA time/depth series,SAMN05991713,"(22.7408,-157.982),(22.75,-158),(22.7408,-157.982)",22.7408,-157.982,marine biome,marine mesopelagic zone,sea water,7.38
+HOT ALOHA time/depth series,SAMN05991714,"(22.735,-158.002),(22.75,-158),(22.735,-158.002)",22.735,-158.002,marine biome,marine wind mixed layer,sea water,8.09
+HOT ALOHA time/depth series,SAMN05991715,"(22.735,-158.002),(22.75,-158),(22.735,-158.002)",22.735,-158.002,marine biome,marine wind mixed layer,sea water,8.06
+HOT ALOHA time/depth series,SAMN05991716,"(22.7565,-157.995),(22.75,-158),(22.7565,-157.995)",22.7565,-157.995,marine biome,marine wind mixed layer,sea water,8
+HOT ALOHA time/depth series,SAMN05991717,"(22.7565,-157.995),(22.75,-158),(22.7565,-157.995)",22.7565,-157.995,marine biome,oceanic zone,sea water,7.91
+HOT ALOHA time/depth series,SAMN05991718,"(22.75,-158),(22.75,-158),(22.75,-158)",22.75,-158,marine biome,marine mesopelagic zone,sea water,7.51
+HOT ALOHA time/depth series,SAMN05991719,"(22.75,-158),(22.75,-158),(22.75,-158)",22.75,-158,marine biome,marine mesopelagic zone,sea water,7.33
+HOT ALOHA time/depth series,SAMN05991720,"(22.75,-158),(22.75,-158),(22.75,-158)",22.75,-158,marine biome,marine mesopelagic zone,sea water,7.39
+HOT ALOHA time/depth series,SAMN05991721,"(22.7583,-158.027),(22.75,-158),(22.7583,-158.027)",22.7583,-158.027,marine biome,marine wind mixed layer,sea water,8.08
+HOT ALOHA time/depth series,SAMN05991722,"(22.7583,-158.027),(22.75,-158),(22.7583,-158.027)",22.7583,-158.027,marine biome,marine wind mixed layer,sea water,8.08
+HOT ALOHA time/depth series,SAMN05991723,"(22.7612,-158.009),(22.75,-158),(22.7612,-158.009)",22.7612,-158.009,marine biome,marine wind mixed layer,sea water,8.02
+HOT ALOHA time/depth series,SAMN05991724,"(22.7612,-158.009),(22.75,-158),(22.7612,-158.009)",22.7612,-158.009,marine biome,oceanic zone,sea water,7.91
+HOT ALOHA time/depth series,SAMN05991725,"(22.7505,-158.03),(22.75,-158),(22.7505,-158.03)",22.7505,-158.03,marine biome,marine mesopelagic zone,sea water,7.5
+HOT ALOHA time/depth series,SAMN05991726,"(22.7505,-158.03),(22.75,-158),(22.7505,-158.03)",22.7505,-158.03,marine biome,marine mesopelagic zone,sea water,7.33
+HOT ALOHA time/depth series,SAMN05991727,"(22.7505,-158.03),(22.75,-158),(22.7505,-158.03)",22.7505,-158.03,marine biome,marine mesopelagic zone,sea water,7.39
+HOT ALOHA time/depth series,SAMN05991728,"(22.7498,-158),(22.75,-158),(22.7498,-158)",22.7498,-158,marine biome,marine wind mixed layer,sea water,8.07
+HOT ALOHA time/depth series,SAMN05991729,"(22.7498,-158),(22.75,-158),(22.7498,-158)",22.7498,-158,marine biome,marine wind mixed layer,sea water,8.07
+HOT ALOHA time/depth series,SAMN05991730,"(22.7498,-158.001),(22.75,-158),(22.7498,-158.001)",22.7498,-158.001,marine biome,marine wind mixed layer,sea water,8.01
+HOT ALOHA time/depth series,SAMN05991731,"(22.7498,-158.001),(22.75,-158),(22.7498,-158.001)",22.7498,-158.001,marine biome,oceanic zone,sea water,7.95
+HOT ALOHA time/depth series,SAMN05991732,"(22.75,-158),(22.75,-158),(22.75,-158)",22.75,-158,marine biome,marine mesopelagic zone,sea water,7.5
+HOT ALOHA time/depth series,SAMN05991733,"(22.75,-158),(22.75,-158),(22.75,-158)",22.75,-158,marine biome,marine mesopelagic zone,sea water,7.32
+HOT ALOHA time/depth series,SAMN05991734,"(22.75,-158),(22.75,-158),(22.75,-158)",22.75,-158,marine biome,marine mesopelagic zone,sea water,7.38
+HOT ALOHA time/depth series,SAMN11874501,"(22.7498,-158),(22.75,-158),(22.7498,-158)",22.7498,-158,marine biome,marine photic zone,sea water,8.09
+HOT ALOHA time/depth series,SAMN11874502,"(22.7498,-158),(22.75,-158),(22.7498,-158)",22.7498,-158,marine biome,marine photic zone,sea water,8.09
+HOT ALOHA time/depth series,SAMN11874503,"(22.7498,-158),(22.75,-158),(22.7498,-158)",22.7498,-158,marine biome,marine photic zone,sea water,8.09
+HOT ALOHA time/depth series,SAMN11874504,"(22.7498,-158),(22.75,-158),(22.7498,-158)",22.7498,-158,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874509,"(22.7237,-157.98),(22.75,-158),(22.7237,-157.98)",22.7237,-157.98,marine biome,marine photic zone,sea water,7.92
+HOT ALOHA time/depth series,SAMN11874512,"(22.7453,-158.007),(22.75,-158),(22.7453,-158.007)",22.7453,-158.007,marine biome,marine photic zone,sea water,7.47
+HOT ALOHA time/depth series,SAMN11874513,"(22.7495,-157.999),(22.75,-158),(22.7495,-157.999)",22.7495,-157.999,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874515,"(22.7495,-157.999),(22.75,-158),(22.7495,-157.999)",22.7495,-157.999,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874516,"(22.7495,-157.999),(22.75,-158),(22.7495,-157.999)",22.7495,-157.999,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874517,"(22.7518,-158.021),(22.75,-158),(22.7518,-158.021)",22.7518,-158.021,marine biome,marine photic zone,sea water,7.54
+HOT ALOHA time/depth series,SAMN11874518,"(22.7493,-158),(22.75,-158),(22.7493,-158)",22.7493,-158,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874520,"(22.7493,-158),(22.75,-158),(22.7493,-158)",22.7493,-158,marine biome,marine photic zone,sea water,8
+HOT ALOHA time/depth series,SAMN11874522,"(22.8053,-158.046),(22.75,-158),(22.8053,-158.046)",22.8053,-158.046,marine biome,marine photic zone,sea water,7.95
+HOT ALOHA time/depth series,SAMN11874525,"(22.7715,-157.986),(22.75,-158),(22.7715,-157.986)",22.7715,-157.986,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874526,"(22.7715,-157.986),(22.75,-158),(22.7715,-157.986)",22.7715,-157.986,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874527,"(22.7715,-157.986),(22.75,-158),(22.7715,-157.986)",22.7715,-157.986,marine biome,marine photic zone,sea water,8.05
+HOT ALOHA time/depth series,SAMN11874528,"(22.7715,-157.986),(22.75,-158),(22.7715,-157.986)",22.7715,-157.986,marine biome,marine photic zone,sea water,8.05
+HOT ALOHA time/depth series,SAMN11874530,"(22.7485,-158.021),(22.75,-158),(22.7485,-158.021)",22.7485,-158.021,marine biome,marine photic zone,sea water,8.04
+HOT ALOHA time/depth series,SAMN11874532,"(22.7485,-158.021),(22.75,-158),(22.7485,-158.021)",22.7485,-158.021,marine biome,marine photic zone,sea water,7.98
+HOT ALOHA time/depth series,SAMN11874533,"(22.7918,-157.996),(22.75,-158),(22.7918,-157.996)",22.7918,-157.996,marine biome,marine photic zone,sea water,7.98
+HOT ALOHA time/depth series,SAMN11874536,"(22.7937,-158.064),(22.75,-158),(22.7937,-158.064)",22.7937,-158.064,marine biome,marine photic zone,sea water,7.48
+HOT ALOHA time/depth series,SAMN11874537,"(22.7627,-157.959),(22.75,-158),(22.7627,-157.959)",22.7627,-157.959,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874538,"(22.7627,-157.959),(22.75,-158),(22.7627,-157.959)",22.7627,-157.959,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874539,"(22.7627,-157.959),(22.75,-158),(22.7627,-157.959)",22.7627,-157.959,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874540,"(22.7627,-157.959),(22.75,-158),(22.7627,-157.959)",22.7627,-157.959,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874541,"(22.775,-157.939),(22.75,-158),(22.775,-157.939)",22.775,-157.939,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874543,"(22.775,-157.939),(22.75,-158),(22.775,-157.939)",22.775,-157.939,marine biome,marine photic zone,sea water,8.04
+HOT ALOHA time/depth series,SAMN11874545,"(22.7903,-158.03),(22.75,-158),(22.7903,-158.03)",22.7903,-158.03,marine biome,marine photic zone,sea water,7.5
+HOT ALOHA time/depth series,SAMN11874546,"(22.7508,-157.994),(22.75,-158),(22.7508,-157.994)",22.7508,-157.994,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874547,"(22.7508,-157.994),(22.75,-158),(22.7508,-157.994)",22.7508,-157.994,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874548,"(22.7508,-157.994),(22.75,-158),(22.7508,-157.994)",22.7508,-157.994,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874549,"(22.7508,-157.994),(22.75,-158),(22.7508,-157.994)",22.7508,-157.994,marine biome,marine photic zone,sea water,8.04
+HOT ALOHA time/depth series,SAMN11874552,"(22.7263,-158.05),(22.75,-158),(22.7263,-158.05)",22.7263,-158.05,marine biome,marine photic zone,sea water,8
+HOT ALOHA time/depth series,SAMN11874554,"(22.7523,-158.043),(22.75,-158),(22.7523,-158.043)",22.7523,-158.043,marine biome,marine photic zone,sea water,7.92
+HOT ALOHA time/depth series,SAMN11874556,"(22.7523,-158.043),(22.75,-158),(22.7523,-158.043)",22.7523,-158.043,marine biome,marine photic zone,sea water,7.84
+HOT ALOHA time/depth series,SAMN11874559,"(22.7657,-157.992),(22.75,-158),(22.7657,-157.992)",22.7657,-157.992,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874563,"(22.7703,-158.066),(22.75,-158),(22.7703,-158.066)",22.7703,-158.066,marine biome,marine photic zone,sea water,8.05
+HOT ALOHA time/depth series,SAMN11874564,"(22.7703,-158.066),(22.75,-158),(22.7703,-158.066)",22.7703,-158.066,marine biome,marine photic zone,sea water,8.05
+HOT ALOHA time/depth series,SAMN11874569,"(22.8132,-158),(22.75,-158),(22.8132,-158)",22.8132,-158,marine biome,marine photic zone,sea water,7.49
+HOT ALOHA time/depth series,SAMN11874570,"(22.7547,-157.992),(22.75,-158),(22.7547,-157.992)",22.7547,-157.992,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874571,"(22.7547,-157.992),(22.75,-158),(22.7547,-157.992)",22.7547,-157.992,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874572,"(22.7547,-157.992),(22.75,-158),(22.7547,-157.992)",22.7547,-157.992,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874574,"(22.7397,-158.022),(22.75,-158),(22.7397,-158.022)",22.7397,-158.022,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874576,"(22.7397,-158.022),(22.75,-158),(22.7397,-158.022)",22.7397,-158.022,marine biome,marine photic zone,sea water,8.03
+HOT ALOHA time/depth series,SAMN11874581,"(22.7792,-157.929),(22.75,-158),(22.7792,-157.929)",22.7792,-157.929,marine biome,marine photic zone,sea water,7.52
+HOT ALOHA time/depth series,SAMN11874582,"(22.7532,-157.993),(22.75,-158),(22.7532,-157.993)",22.7532,-157.993,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874583,"(22.7532,-157.993),(22.75,-158),(22.7532,-157.993)",22.7532,-157.993,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874584,"(22.7532,-157.993),(22.75,-158),(22.7532,-157.993)",22.7532,-157.993,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874585,"(22.7532,-157.993),(22.75,-158),(22.7532,-157.993)",22.7532,-157.993,marine biome,marine photic zone,sea water,8.05
+HOT ALOHA time/depth series,SAMN11874586,"(22.7215,-158.045),(22.75,-158),(22.7215,-158.045)",22.7215,-158.045,marine biome,marine photic zone,sea water,8.02
+HOT ALOHA time/depth series,SAMN11874588,"(22.7215,-158.045),(22.75,-158),(22.7215,-158.045)",22.7215,-158.045,marine biome,marine photic zone,sea water,7.98
+HOT ALOHA time/depth series,SAMN11874591,"(22.7665,-158.016),(22.75,-158),(22.7665,-158.016)",22.7665,-158.016,marine biome,marine photic zone,sea water,7.82
+HOT ALOHA time/depth series,SAMN11874592,"(22.7985,-158.051),(22.75,-158),(22.7985,-158.051)",22.7985,-158.051,marine biome,marine photic zone,sea water,7.94
+HOT ALOHA time/depth series,SAMN11874593,"(22.7892,-158.055),(22.75,-158),(22.7892,-158.055)",22.7892,-158.055,marine biome,marine photic zone,sea water,7.44
+HOT ALOHA time/depth series,SAMN11874594,"(22.7578,-158.006),(22.75,-158),(22.7578,-158.006)",22.7578,-158.006,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874595,"(22.7578,-158.006),(22.75,-158),(22.7578,-158.006)",22.7578,-158.006,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874596,"(22.7578,-158.006),(22.75,-158),(22.7578,-158.006)",22.7578,-158.006,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874598,"(22.7498,-158.029),(22.75,-158),(22.7498,-158.029)",22.7498,-158.029,marine biome,marine photic zone,sea water,8.01
+HOT ALOHA time/depth series,SAMN11874600,"(22.7498,-158.029),(22.75,-158),(22.7498,-158.029)",22.7498,-158.029,marine biome,marine photic zone,sea water,7.91
+HOT ALOHA time/depth series,SAMN11874602,"(22.75,-157.999),(22.75,-158),(22.75,-157.999)",22.75,-157.999,marine biome,marine photic zone,sea water,7.86
+HOT ALOHA time/depth series,SAMN11874605,"(22.7502,-158),(22.75,-158),(22.7502,-158)",22.7502,-158,marine biome,marine photic zone,sea water,7.43
+HOT ALOHA time/depth series,SAMN11874606,"(22.781,-158.025),(22.75,-158),(22.781,-158.025)",22.781,-158.025,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874607,"(22.781,-158.025),(22.75,-158),(22.781,-158.025)",22.781,-158.025,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874608,"(22.781,-158.025),(22.75,-158),(22.781,-158.025)",22.781,-158.025,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874612,"(22.753,-157.998),(22.75,-158),(22.753,-157.998)",22.753,-157.998,marine biome,marine photic zone,sea water,7.95
+HOT ALOHA time/depth series,SAMN11874614,"(22.7495,-158.001),(22.75,-158),(22.7495,-158.001)",22.7495,-158.001,marine biome,marine photic zone,sea water,7.88
+HOT ALOHA time/depth series,SAMN11874617,"(22.8108,-158.056),(22.75,-158),(22.8108,-158.056)",22.8108,-158.056,marine biome,marine photic zone,sea water,7.47
+HOT ALOHA time/depth series,SAMN11874618,"(22.75,-157.991),(22.75,-158),(22.75,-157.991)",22.75,-157.991,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874619,"(22.75,-157.991),(22.75,-158),(22.75,-157.991)",22.75,-157.991,marine biome,marine photic zone,sea water,8.09
+HOT ALOHA time/depth series,SAMN11874626,"(22.7528,-158.017),(22.75,-158),(22.7528,-158.017)",22.7528,-158.017,marine biome,marine photic zone,sea water,7.9
+HOT ALOHA time/depth series,SAMN11874628,"(22.7528,-158.017),(22.75,-158),(22.7528,-158.017)",22.7528,-158.017,marine biome,marine photic zone,sea water,7.82
+HOT ALOHA time/depth series,SAMN11874629,"(22.7588,-157.989),(22.75,-158),(22.7588,-157.989)",22.7588,-157.989,marine biome,marine photic zone,sea water,7.45
+HOT ALOHA time/depth series,SAMN11874630,"(22.751,-158.003),(22.75,-158),(22.751,-158.003)",22.751,-158.003,marine biome,marine photic zone,sea water,8.09
+HOT ALOHA time/depth series,SAMN11874631,"(22.751,-158.003),(22.75,-158),(22.751,-158.003)",22.751,-158.003,marine biome,marine photic zone,sea water,8.09
+HOT ALOHA time/depth series,SAMN11874632,"(22.751,-158.003),(22.75,-158),(22.751,-158.003)",22.751,-158.003,marine biome,marine photic zone,sea water,8.09
+HOT ALOHA time/depth series,SAMN11874633,"(22.751,-158.003),(22.75,-158),(22.751,-158.003)",22.751,-158.003,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874634,"(22.758,-158.03),(22.75,-158),(22.758,-158.03)",22.758,-158.03,marine biome,marine photic zone,sea water,8.05
+HOT ALOHA time/depth series,SAMN11874636,"(22.758,-158.03),(22.75,-158),(22.758,-158.03)",22.758,-158.03,marine biome,marine photic zone,sea water,7.98
+HOT ALOHA time/depth series,SAMN11874638,"(22.7467,-158.01),(22.75,-158),(22.7467,-158.01)",22.7467,-158.01,marine biome,marine photic zone,sea water,7.91
+HOT ALOHA time/depth series,SAMN11874641,"(22.7468,-158.057),(22.75,-158),(22.7468,-158.057)",22.7468,-158.057,marine biome,marine photic zone,sea water,7.49
+HOT ALOHA time/depth series,SAMN11874643,"(22.7268,-157.996),(22.75,-158),(22.7268,-157.996)",22.7268,-157.996,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874644,"(22.7268,-157.996),(22.75,-158),(22.7268,-157.996)",22.7268,-157.996,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874645,"(22.7268,-157.996),(22.75,-158),(22.7268,-157.996)",22.7268,-157.996,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874648,"(22.8113,-158.028),(22.75,-158),(22.8113,-158.028)",22.8113,-158.028,marine biome,marine photic zone,sea water,7.97
+HOT ALOHA time/depth series,SAMN11874653,"(22.6887,-157.972),(22.75,-158),(22.6887,-157.972)",22.6887,-157.972,marine biome,marine photic zone,sea water,7.45
+HOT ALOHA time/depth series,SAMN11874654,"(22.7533,-158.001),(22.75,-158),(22.7533,-158.001)",22.7533,-158.001,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874655,"(22.7533,-158.001),(22.75,-158),(22.7533,-158.001)",22.7533,-158.001,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874657,"(22.7533,-158.001),(22.75,-158),(22.7533,-158.001)",22.7533,-158.001,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874661,"(22.7667,-157.913),(22.75,-158),(22.7667,-157.913)",22.7667,-157.913,marine biome,marine photic zone,sea water,7.94
+HOT ALOHA time/depth series,SAMN11874662,"(22.7322,-158.008),(22.75,-158),(22.7322,-158.008)",22.7322,-158.008,marine biome,marine photic zone,sea water,7.94
+HOT ALOHA time/depth series,SAMN11874664,"(22.7322,-158.008),(22.75,-158),(22.7322,-158.008)",22.7322,-158.008,marine biome,marine photic zone,sea water,7.86
+HOT ALOHA time/depth series,SAMN11874665,"(22.6968,-157.933),(22.75,-158),(22.6968,-157.933)",22.6968,-157.933,marine biome,marine photic zone,sea water,7.45
+HOT ALOHA time/depth series,SAMN11874666,"(22.75,-158.001),(22.75,-158),(22.75,-158.001)",22.75,-158.001,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874667,"(22.75,-158.001),(22.75,-158),(22.75,-158.001)",22.75,-158.001,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874669,"(22.75,-158.001),(22.75,-158),(22.75,-158.001)",22.75,-158.001,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874671,"(22.6703,-157.999),(22.75,-158),(22.6703,-157.999)",22.6703,-157.999,marine biome,marine photic zone,sea water,7.89
+HOT ALOHA time/depth series,SAMN11874673,"(22.6783,-158.036),(22.75,-158),(22.6783,-158.036)",22.6783,-158.036,marine biome,marine photic zone,sea water,7.42
+HOT ALOHA time/depth series,SAMN11874674,"(22.6883,-158.056),(22.75,-158),(22.6883,-158.056)",22.6883,-158.056,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874678,"(22.7493,-157.991),(22.75,-158),(22.7493,-157.991)",22.7493,-157.991,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874679,"(22.7493,-157.991),(22.75,-158),(22.7493,-157.991)",22.7493,-157.991,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874681,"(22.7493,-157.991),(22.75,-158),(22.7493,-157.991)",22.7493,-157.991,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874682,"(22.7567,-157.985),(22.75,-158),(22.7567,-157.985)",22.7567,-157.985,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874684,"(22.7567,-157.985),(22.75,-158),(22.7567,-157.985)",22.7567,-157.985,marine biome,marine photic zone,sea water,8.04
+HOT ALOHA time/depth series,SAMN11874686,"(22.7497,-158.001),(22.75,-158),(22.7497,-158.001)",22.7497,-158.001,marine biome,marine photic zone,sea water,7.94
+HOT ALOHA time/depth series,SAMN11874688,"(22.7497,-158.001),(22.75,-158),(22.7497,-158.001)",22.7497,-158.001,marine biome,marine photic zone,sea water,7.92
+HOT ALOHA time/depth series,SAMN11874690,"(22.7498,-158),(22.75,-158),(22.7498,-158)",22.7498,-158,marine biome,marine photic zone,sea water,8.09
+HOT ALOHA time/depth series,SAMN11874691,"(22.7498,-158),(22.75,-158),(22.7498,-158)",22.7498,-158,marine biome,marine photic zone,sea water,8.09
+HOT ALOHA time/depth series,SAMN11874692,"(22.7498,-158),(22.75,-158),(22.7498,-158)",22.7498,-158,marine biome,marine photic zone,sea water,8.09
+HOT ALOHA time/depth series,SAMN11874693,"(22.7498,-158),(22.75,-158),(22.7498,-158)",22.7498,-158,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874698,"(22.7237,-157.98),(22.75,-158),(22.7237,-157.98)",22.7237,-157.98,marine biome,marine photic zone,sea water,7.92
+HOT ALOHA time/depth series,SAMN11874701,"(22.7453,-158.007),(22.75,-158),(22.7453,-158.007)",22.7453,-158.007,marine biome,marine photic zone,sea water,7.47
+HOT ALOHA time/depth series,SAMN11874702,"(22.7495,-157.999),(22.75,-158),(22.7495,-157.999)",22.7495,-157.999,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874704,"(22.7495,-157.999),(22.75,-158),(22.7495,-157.999)",22.7495,-157.999,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874705,"(22.7495,-157.999),(22.75,-158),(22.7495,-157.999)",22.7495,-157.999,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874706,"(22.7518,-158.021),(22.75,-158),(22.7518,-158.021)",22.7518,-158.021,marine biome,marine photic zone,sea water,7.54
+HOT ALOHA time/depth series,SAMN11874707,"(22.7493,-158),(22.75,-158),(22.7493,-158)",22.7493,-158,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874709,"(22.7493,-158),(22.75,-158),(22.7493,-158)",22.7493,-158,marine biome,marine photic zone,sea water,8
+HOT ALOHA time/depth series,SAMN11874711,"(22.8053,-158.046),(22.75,-158),(22.8053,-158.046)",22.8053,-158.046,marine biome,marine photic zone,sea water,7.95
+HOT ALOHA time/depth series,SAMN11874714,"(22.7715,-157.986),(22.75,-158),(22.7715,-157.986)",22.7715,-157.986,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874715,"(22.7715,-157.986),(22.75,-158),(22.7715,-157.986)",22.7715,-157.986,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874716,"(22.7715,-157.986),(22.75,-158),(22.7715,-157.986)",22.7715,-157.986,marine biome,marine photic zone,sea water,8.05
+HOT ALOHA time/depth series,SAMN11874717,"(22.7715,-157.986),(22.75,-158),(22.7715,-157.986)",22.7715,-157.986,marine biome,marine photic zone,sea water,8.05
+HOT ALOHA time/depth series,SAMN11874719,"(22.7485,-158.021),(22.75,-158),(22.7485,-158.021)",22.7485,-158.021,marine biome,marine photic zone,sea water,8.04
+HOT ALOHA time/depth series,SAMN11874721,"(22.7485,-158.021),(22.75,-158),(22.7485,-158.021)",22.7485,-158.021,marine biome,marine photic zone,sea water,7.98
+HOT ALOHA time/depth series,SAMN11874722,"(22.7918,-157.996),(22.75,-158),(22.7918,-157.996)",22.7918,-157.996,marine biome,marine photic zone,sea water,7.98
+HOT ALOHA time/depth series,SAMN11874725,"(22.7937,-158.064),(22.75,-158),(22.7937,-158.064)",22.7937,-158.064,marine biome,marine photic zone,sea water,7.48
+HOT ALOHA time/depth series,SAMN11874726,"(22.7627,-157.959),(22.75,-158),(22.7627,-157.959)",22.7627,-157.959,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874727,"(22.7627,-157.959),(22.75,-158),(22.7627,-157.959)",22.7627,-157.959,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874728,"(22.7627,-157.959),(22.75,-158),(22.7627,-157.959)",22.7627,-157.959,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874729,"(22.7627,-157.959),(22.75,-158),(22.7627,-157.959)",22.7627,-157.959,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874730,"(22.775,-157.939),(22.75,-158),(22.775,-157.939)",22.775,-157.939,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874732,"(22.775,-157.939),(22.75,-158),(22.775,-157.939)",22.775,-157.939,marine biome,marine photic zone,sea water,8.04
+HOT ALOHA time/depth series,SAMN11874734,"(22.7903,-158.03),(22.75,-158),(22.7903,-158.03)",22.7903,-158.03,marine biome,marine photic zone,sea water,7.5
+HOT ALOHA time/depth series,SAMN11874735,"(22.7508,-157.994),(22.75,-158),(22.7508,-157.994)",22.7508,-157.994,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874736,"(22.7508,-157.994),(22.75,-158),(22.7508,-157.994)",22.7508,-157.994,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874737,"(22.7508,-157.994),(22.75,-158),(22.7508,-157.994)",22.7508,-157.994,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874738,"(22.7508,-157.994),(22.75,-158),(22.7508,-157.994)",22.7508,-157.994,marine biome,marine photic zone,sea water,8.04
+HOT ALOHA time/depth series,SAMN11874741,"(22.7263,-158.05),(22.75,-158),(22.7263,-158.05)",22.7263,-158.05,marine biome,marine photic zone,sea water,8
+HOT ALOHA time/depth series,SAMN11874743,"(22.7523,-158.043),(22.75,-158),(22.7523,-158.043)",22.7523,-158.043,marine biome,marine photic zone,sea water,7.92
+HOT ALOHA time/depth series,SAMN11874745,"(22.7523,-158.043),(22.75,-158),(22.7523,-158.043)",22.7523,-158.043,marine biome,marine photic zone,sea water,7.84
+HOT ALOHA time/depth series,SAMN11874748,"(22.7657,-157.992),(22.75,-158),(22.7657,-157.992)",22.7657,-157.992,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874752,"(22.7703,-158.066),(22.75,-158),(22.7703,-158.066)",22.7703,-158.066,marine biome,marine photic zone,sea water,8.05
+HOT ALOHA time/depth series,SAMN11874753,"(22.7703,-158.066),(22.75,-158),(22.7703,-158.066)",22.7703,-158.066,marine biome,marine photic zone,sea water,8.05
+HOT ALOHA time/depth series,SAMN11874758,"(22.8132,-158),(22.75,-158),(22.8132,-158)",22.8132,-158,marine biome,marine photic zone,sea water,7.49
+HOT ALOHA time/depth series,SAMN11874759,"(22.7547,-157.992),(22.75,-158),(22.7547,-157.992)",22.7547,-157.992,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874760,"(22.7547,-157.992),(22.75,-158),(22.7547,-157.992)",22.7547,-157.992,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874761,"(22.7547,-157.992),(22.75,-158),(22.7547,-157.992)",22.7547,-157.992,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874763,"(22.7397,-158.022),(22.75,-158),(22.7397,-158.022)",22.7397,-158.022,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874765,"(22.7397,-158.022),(22.75,-158),(22.7397,-158.022)",22.7397,-158.022,marine biome,marine photic zone,sea water,8.03
+HOT ALOHA time/depth series,SAMN11874770,"(22.7792,-157.929),(22.75,-158),(22.7792,-157.929)",22.7792,-157.929,marine biome,marine photic zone,sea water,7.52
+HOT ALOHA time/depth series,SAMN11874771,"(22.7532,-157.993),(22.75,-158),(22.7532,-157.993)",22.7532,-157.993,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874772,"(22.7532,-157.993),(22.75,-158),(22.7532,-157.993)",22.7532,-157.993,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874773,"(22.7532,-157.993),(22.75,-158),(22.7532,-157.993)",22.7532,-157.993,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874774,"(22.7532,-157.993),(22.75,-158),(22.7532,-157.993)",22.7532,-157.993,marine biome,marine photic zone,sea water,8.05
+HOT ALOHA time/depth series,SAMN11874775,"(22.7215,-158.045),(22.75,-158),(22.7215,-158.045)",22.7215,-158.045,marine biome,marine photic zone,sea water,8.02
+HOT ALOHA time/depth series,SAMN11874777,"(22.7215,-158.045),(22.75,-158),(22.7215,-158.045)",22.7215,-158.045,marine biome,marine photic zone,sea water,7.98
+HOT ALOHA time/depth series,SAMN11874780,"(22.7665,-158.016),(22.75,-158),(22.7665,-158.016)",22.7665,-158.016,marine biome,marine photic zone,sea water,7.82
+HOT ALOHA time/depth series,SAMN11874781,"(22.7985,-158.051),(22.75,-158),(22.7985,-158.051)",22.7985,-158.051,marine biome,marine photic zone,sea water,7.94
+HOT ALOHA time/depth series,SAMN11874782,"(22.7892,-158.055),(22.75,-158),(22.7892,-158.055)",22.7892,-158.055,marine biome,marine photic zone,sea water,7.44
+HOT ALOHA time/depth series,SAMN11874783,"(22.7578,-158.006),(22.75,-158),(22.7578,-158.006)",22.7578,-158.006,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874784,"(22.7578,-158.006),(22.75,-158),(22.7578,-158.006)",22.7578,-158.006,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874785,"(22.7578,-158.006),(22.75,-158),(22.7578,-158.006)",22.7578,-158.006,marine biome,marine photic zone,sea water,8.06
+HOT ALOHA time/depth series,SAMN11874787,"(22.7498,-158.029),(22.75,-158),(22.7498,-158.029)",22.7498,-158.029,marine biome,marine photic zone,sea water,8.01
+HOT ALOHA time/depth series,SAMN11874789,"(22.7498,-158.029),(22.75,-158),(22.7498,-158.029)",22.7498,-158.029,marine biome,marine photic zone,sea water,7.91
+HOT ALOHA time/depth series,SAMN11874791,"(22.75,-157.999),(22.75,-158),(22.75,-157.999)",22.75,-157.999,marine biome,marine photic zone,sea water,7.86
+HOT ALOHA time/depth series,SAMN11874794,"(22.7502,-158),(22.75,-158),(22.7502,-158)",22.7502,-158,marine biome,marine photic zone,sea water,7.43
+HOT ALOHA time/depth series,SAMN11874795,"(22.781,-158.025),(22.75,-158),(22.781,-158.025)",22.781,-158.025,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874796,"(22.781,-158.025),(22.75,-158),(22.781,-158.025)",22.781,-158.025,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874797,"(22.781,-158.025),(22.75,-158),(22.781,-158.025)",22.781,-158.025,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874801,"(22.753,-157.998),(22.75,-158),(22.753,-157.998)",22.753,-157.998,marine biome,marine photic zone,sea water,7.95
+HOT ALOHA time/depth series,SAMN11874803,"(22.7495,-158.001),(22.75,-158),(22.7495,-158.001)",22.7495,-158.001,marine biome,marine photic zone,sea water,7.88
+HOT ALOHA time/depth series,SAMN11874806,"(22.8108,-158.056),(22.75,-158),(22.8108,-158.056)",22.8108,-158.056,marine biome,marine photic zone,sea water,7.47
+HOT ALOHA time/depth series,SAMN11874807,"(22.75,-157.991),(22.75,-158),(22.75,-157.991)",22.75,-157.991,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874808,"(22.75,-157.991),(22.75,-158),(22.75,-157.991)",22.75,-157.991,marine biome,marine photic zone,sea water,8.09
+HOT ALOHA time/depth series,SAMN11874815,"(22.7528,-158.017),(22.75,-158),(22.7528,-158.017)",22.7528,-158.017,marine biome,marine photic zone,sea water,7.9
+HOT ALOHA time/depth series,SAMN11874817,"(22.7528,-158.017),(22.75,-158),(22.7528,-158.017)",22.7528,-158.017,marine biome,marine photic zone,sea water,7.82
+HOT ALOHA time/depth series,SAMN11874818,"(22.7588,-157.989),(22.75,-158),(22.7588,-157.989)",22.7588,-157.989,marine biome,marine photic zone,sea water,7.45
+HOT ALOHA time/depth series,SAMN11874819,"(22.751,-158.003),(22.75,-158),(22.751,-158.003)",22.751,-158.003,marine biome,marine photic zone,sea water,8.09
+HOT ALOHA time/depth series,SAMN11874820,"(22.751,-158.003),(22.75,-158),(22.751,-158.003)",22.751,-158.003,marine biome,marine photic zone,sea water,8.09
+HOT ALOHA time/depth series,SAMN11874821,"(22.751,-158.003),(22.75,-158),(22.751,-158.003)",22.751,-158.003,marine biome,marine photic zone,sea water,8.09
+HOT ALOHA time/depth series,SAMN11874822,"(22.751,-158.003),(22.75,-158),(22.751,-158.003)",22.751,-158.003,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874823,"(22.758,-158.03),(22.75,-158),(22.758,-158.03)",22.758,-158.03,marine biome,marine photic zone,sea water,8.05
+HOT ALOHA time/depth series,SAMN11874825,"(22.758,-158.03),(22.75,-158),(22.758,-158.03)",22.758,-158.03,marine biome,marine photic zone,sea water,7.98
+HOT ALOHA time/depth series,SAMN11874830,"(22.7468,-158.057),(22.75,-158),(22.7468,-158.057)",22.7468,-158.057,marine biome,marine photic zone,sea water,7.49
+HOT ALOHA time/depth series,SAMN11874832,"(22.7268,-157.996),(22.75,-158),(22.7268,-157.996)",22.7268,-157.996,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874833,"(22.7268,-157.996),(22.75,-158),(22.7268,-157.996)",22.7268,-157.996,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874834,"(22.7268,-157.996),(22.75,-158),(22.7268,-157.996)",22.7268,-157.996,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874837,"(22.8113,-158.028),(22.75,-158),(22.8113,-158.028)",22.8113,-158.028,marine biome,marine photic zone,sea water,7.97
+HOT ALOHA time/depth series,SAMN11874842,"(22.6887,-157.972),(22.75,-158),(22.6887,-157.972)",22.6887,-157.972,marine biome,marine photic zone,sea water,7.45
+HOT ALOHA time/depth series,SAMN11874843,"(22.7533,-158.001),(22.75,-158),(22.7533,-158.001)",22.7533,-158.001,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874844,"(22.7533,-158.001),(22.75,-158),(22.7533,-158.001)",22.7533,-158.001,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874846,"(22.7533,-158.001),(22.75,-158),(22.7533,-158.001)",22.7533,-158.001,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874850,"(22.7667,-157.913),(22.75,-158),(22.7667,-157.913)",22.7667,-157.913,marine biome,marine photic zone,sea water,7.94
+HOT ALOHA time/depth series,SAMN11874851,"(22.7322,-158.008),(22.75,-158),(22.7322,-158.008)",22.7322,-158.008,marine biome,marine photic zone,sea water,7.94
+HOT ALOHA time/depth series,SAMN11874853,"(22.7322,-158.008),(22.75,-158),(22.7322,-158.008)",22.7322,-158.008,marine biome,marine photic zone,sea water,7.86
+HOT ALOHA time/depth series,SAMN11874854,"(22.6968,-157.933),(22.75,-158),(22.6968,-157.933)",22.6968,-157.933,marine biome,marine photic zone,sea water,7.45
+HOT ALOHA time/depth series,SAMN11874855,"(22.75,-158.001),(22.75,-158),(22.75,-158.001)",22.75,-158.001,marine biome,marine photic zone,sea water,8.08
+HOT ALOHA time/depth series,SAMN11874856,"(22.75,-158.001),(22.75,-158),(22.75,-158.001)",22.75,-158.001,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874858,"(22.75,-158.001),(22.75,-158),(22.75,-158.001)",22.75,-158.001,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874860,"(22.6703,-157.999),(22.75,-158),(22.6703,-157.999)",22.6703,-157.999,marine biome,marine photic zone,sea water,7.89
+HOT ALOHA time/depth series,SAMN11874862,"(22.6783,-158.036),(22.75,-158),(22.6783,-158.036)",22.6783,-158.036,marine biome,marine photic zone,sea water,7.42
+HOT ALOHA time/depth series,SAMN11874863,"(22.6883,-158.056),(22.75,-158),(22.6883,-158.056)",22.6883,-158.056,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874867,"(22.7493,-157.991),(22.75,-158),(22.7493,-157.991)",22.7493,-157.991,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874868,"(22.7493,-157.991),(22.75,-158),(22.7493,-157.991)",22.7493,-157.991,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874870,"(22.7493,-157.991),(22.75,-158),(22.7493,-157.991)",22.7493,-157.991,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874871,"(22.7567,-157.985),(22.75,-158),(22.7567,-157.985)",22.7567,-157.985,marine biome,marine photic zone,sea water,8.07
+HOT ALOHA time/depth series,SAMN11874875,"(22.7497,-158.001),(22.75,-158),(22.7497,-158.001)",22.7497,-158.001,marine biome,marine photic zone,sea water,7.94
+HOT ALOHA time/depth series,SAMN11874877,"(22.7497,-158.001),(22.75,-158),(22.7497,-158.001)",22.7497,-158.001,marine biome,marine photic zone,sea water,7.92
+HOT DeLong,SAMN02798443,"(22.8027,-158.074),(22.75,-158),(22.8027,-158.0742)",22.8027,-158.074,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,7.53
+HOT DeLong,SAMN02798444,"(22.668,-158.02),(22.75,-158),(22.668,-158.0198)",22.668,-158.02,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,7.57
+HOT DeLong,SAMN02798445,"(22.7553,-157.993),(22.75,-158),(22.7553,-157.9928)",22.7553,-157.993,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,7.53
+HOT DeLong,SAMN02798446,"(22.794,-157.923),(22.75,-158),(22.794,-157.9235)",22.794,-157.923,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,7.46
+HOT DeLong,SAMN02798447,"(22.7025,-157.987),(22.75,-158),(22.7025,-157.987)",22.7025,-157.987,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,7.53
+HOT DeLong,SAMN02798448,"(22.6922,-157.958),(22.75,-158),(22.6922,-157.9578)",22.6922,-157.958,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,7.52
+HOT DeLong,SAMN02798449,"(22.8117,-157.972),(22.75,-158),(22.8117,-157.9718)",22.8117,-157.972,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,7.49
+HOT DeLong,SAMN02798450,"(22.7312,-158.061),(22.75,-158),(22.7312,-158.0612)",22.7312,-158.061,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,7.52
+HOT DeLong,SAMN02798451,"(22.7878,-157.995),(22.75,-158),(22.7878,-157.9953)",22.7878,-157.995,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,7.54
+HOT DeLong,SAMN02798453,"(22.7762,-158.004),(22.75,-158),(22.7762,-158.0038)",22.7762,-158.004,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,7.51
+HOT DeLong,SAMN02798454,"(22.8022,-158.029),(22.75,-158),(22.8022,-158.0288)",22.8022,-158.029,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,7.47
+HOT DeLong,SAMN02798455,"(22.6712,-157.983),(22.75,-158),(22.6712,-157.983)",22.6712,-157.983,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,7.49
+HOT DeLong,SAMN02798456,"(22.7022,-158.052),(22.75,-158),(22.7022,-158.052)",22.7022,-158.052,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,7.52
+HOT DeLong,SAMN02798457,"(22.7255,-158.071),(22.75,-158),(22.7255,-158.0708)",22.7255,-158.071,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,7.56
+HOT DeLong,SAMN02798459,"(22.7562,-157.97),(22.75,-158),(22.7562,-157.97)",22.7562,-157.97,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,7.56
+HOT DeLong,SAMN02798460,"(22.796,-158.017),(22.75,-158),(22.796,-158.0167)",22.796,-158.017,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,7.55
+HOT DeLong,SAMN02798461,"(22.7148,-158.036),(22.75,-158),(22.7148,-158.0365)",22.7148,-158.036,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,7.52
+HOT DeLong,SAMN02798462,"(22.7717,-157.999),(22.75,-158),(22.7717,-157.9987)",22.7717,-157.999,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,7.53
+HOT DeLong,SAMN02798463,"(22.7507,-158.001),(22.75,-158),(22.7507,-158.0013)",22.7507,-158.001,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,7.53
+OSD,SAMEA3275582,"(33.32306,-79.16763),(33.32306,-79.16763)",33.32306,-79.16763,marine biome,coastal water body,brackish water,7.92
+OSD,SAMEA3275603,"(45.502,12.4176),(45.502,12.4176)",45.502,12.4176,mediterranean sea biome,lagoon,brackish water,7.67
+OSD,SAMEA3275576,"(45.4568,12.2605),(45.4568,12.2605)",45.4568,12.2605,mediterranean sea biome,lagoon,brackish water,7.83
+OSD,SAMEA3275571,"(41.6835,-8.8341),(41.6835,-8.8341)",41.6835,-8.8341,estuarine biome,estuary,coastal sea water,8.25
+OSD,SAMEA3275570,"(41.1416,-8.6668),(41.1416,-8.6668)",41.1416,-8.6668,estuarine biome,estuary,coastal sea water,7.83
+OSD,SAMEA3275499,"(36.997655,-7.981656),(36.997655,-7.981656)",36.997655,-7.981656,marine biome,ocean,coastal sea water,8.15
+OSD,SAMEA3275577,"(-36.292794,174.818567),(-36.292794,174.818567)",-36.292794,174.818567,marine biome,ocean,coastal sea water,8.34
+OSD,SAMEA3275484,"(38.41333,27.03421),(38.41333,27.03421)",38.41333,27.03421,marine biome,sea,coastal sea water,8.29
+OSD,SAMEA3275598,"(9.3485,-82.266),(9.3485,-82.266)",9.3485,-82.266,marine pelagic biome,sea,coastal sea water,8.12
+OSD,SAMEA3275624,"(35.1927,-2.88005),(35.1927,-2.88005)",35.1927,-2.88005,mediterranean sea biome,brackish estuary,coastal sea water,7.89
+OSD,SAMEA3275623,"(35.086353,-2.214658),(35.086353,-2.214658)",35.086353,-2.214658,mediterranean sea biome,sea,coastal sea water,8.03
+OSD,SAMEA3275601,"(45.325568,13.33189),(45.325568,13.33189)",45.325568,13.33189,mediterranean sea biome,sea,coastal sea water,8.3
+OSD,SAMEA3275555,"(35.086353,-2.214658),(35.086353,-2.214658)",35.086353,-2.214658,mediterranean sea biome,sea,coastal sea water,8.01
+OSD,SAMEA3275645,"(48.7778,-3.9375),(48.7778,-3.9375)",48.7778,-3.9375,neritic epipelagic zone biome,coastal water body,coastal sea water,8.02
+OSD,SAMEA3275503,"(44.6936,-63.6403),(44.6936,-63.6403)",44.6936,-63.6403,neritic epipelagic zone biome,natural harbor,coastal sea water,8.2
+OSD,SAMEA3275500,"(44.6936,-63.6403),(44.6936,-63.6403)",44.6936,-63.6403,neritic epipelagic zone biome,natural harbor,coastal sea water,8.2
+OSD,SAMEA3275502,"(44.6936,-63.6403),(44.6936,-63.6403)",44.6936,-63.6403,neritic epipelagic zone biome,natural harbor,coastal sea water,8.2
+OSD,SAMEA3275558,"(32.74675,-9.036667),(32.74675,-9.036667)",32.74675,-9.036667,neritic mesopelagic zone biome,ocean,coastal sea water,8.15
+OSD,SAMEA3275557,"(33.583917,-7.700639),(33.583917,-7.700639)",33.583917,-7.700639,neritic mesopelagic zone biome,ocean,coastal sea water,8.15
+OSD,SAMEA3275556,"(33.259611,-8.499222),(33.259611,-8.499222)",33.259611,-8.499222,neritic mesopelagic zone biome,ocean,coastal sea water,8.36
+OSD,SAMEA3275552,"(38.5297,-28.601778),(38.5297,-28.601778)",38.5297,-28.601778,oceanic epipelagic zone biome,ocean,coastal sea water,8.082
+OSD,SAMEA3275615,"(38.6792,-76.1742),(38.6792,-76.1742)",38.6792,-76.1742,marine biome,ocean,estuarine water,7.98
+OSD,SAMEA3275559,"(38.48435,21.31689),(38.48435,21.31689)",38.48435,21.31689,freshwater lake biome,freshwater lake,fresh water,8.36
+OSD,SAMEA3275636,"(41.839834,-83.18995),(41.839834,-83.18995)",41.839834,-83.18995,large lake biome,freshwater lake,fresh water,8.78
+OSD,SAMEA3275535,"(34.41,-9.51),(34.41,-9.51)",34.41,-9.51,marine biome,ocean,mesotrophic water,8.14
+OSD,SAMEA3282985,"(38.6667,-9.4367),(38.6667,-9.4367)",38.6667,-9.4367,marine biome,pelagic isothermal surface,mesotrophic water,8.5
+OSD,SAMEA3275486,"(43.2655,-2.89966),(43.43287,-2.90056)",43.2655,-2.89966,marine pelagic biome,pelagic isothermal surface,oligotrophic water,8.1
+OSD,SAMEA3275519,"(32.0694,34.843),(32.0694,34.843)",32.0694,34.843,mediterranean sea biome,sea,oligotrophic water,8.18
+OSD,SAMEA3275639,"(35.661,24.99),(35.661,24.99)",35.661,24.99,oceanic epipelagic zone biome,deep chlorophyll maximum layer,oligotrophic water,8.2
+OSD,SAMEA3275547,"(35.35,25.29),(35.35,25.29)",35.35,25.29,oceanic epipelagic zone biome,sea,oligotrophic water,8.2
+OSD,SAMEA3275640,"(35.661,24.99),(35.661,24.99)",35.661,24.99,oceanic epipelagic zone biome,sea,oligotrophic water,8.2
+OSD,SAMEA3275509,"(31.98282,-81.01667),(31.98282,-81.01667)",31.98282,-81.01667,estuarine biome,estuary,sea water,7.53
+OSD,SAMEA3275610,"(32.7524,-79.89954),(32.7524,-79.89954)",32.7524,-79.89954,estuarine biome,harbor,sea water,8
+OSD,SAMEA3275505,"(8.873739,81.077344),(8.873739,81.077344)",8.873739,81.077344,marine biome,bay,sea water,8.06
+OSD,SAMEA3275600,"(43.333333,-1.925),(43.333333,-1.925)",43.333333,-1.925,marine biome,bay,sea water,8.34
+OSD,SAMEA3275605,"(27.61578,-82.72587),(27.61578,-82.72587)",27.61578,-82.72587,marine biome,coastal inlet,sea water,8.23
+OSD,SAMEA3275512,"(31.383607,-80.866685),(31.383607,-80.866685)",31.383607,-80.866685,marine biome,continental shelf,sea water,7.97
+OSD,SAMEA3275548,"(35.35,25.29),(35.35,25.29)",35.35,25.29,marine biome,deep chlorophyll maximum layer,sea water,8.2
+OSD,SAMEA3275514,"(60.16121,5.11504),(60.16121,5.11504)",60.16121,5.11504,marine biome,fjord,sea water,7.91
+OSD,SAMEA3275578,"(46.44155,30.77595),(46.44155,30.77595)",46.44155,30.77595,marine biome,landlocked sea,sea water,8.4
+OSD,SAMEA3275518,"(-33.897069,18.386825),(-33.93572,18.47147)",-33.897069,18.386825,marine biome,ocean,sea water,6.5
+OSD,SAMEA3282986,"(-34.7,-54.266),(-34.7,-54.266)",-34.7,-54.266,marine biome,ocean,sea water,8.16
+OSD,SAMEA3275491,"(37.4328,-25.19),(37.4328,-25.19)",37.4328,-25.19,marine biome,ocean,sea water,7.43
+OSD,SAMEA3275612,"(26.10293,-80.09315),(26.10293,-80.09315)",26.10293,-80.09315,marine biome,ocean,sea water,8.03
+OSD,SAMEA3275611,"(24.7449,-80.78375),(24.7449,-80.78375)",24.7449,-80.78375,marine biome,ocean,sea water,7.89
+OSD,SAMEA3275607,"(32.86698,-117.25725),(32.86698,-117.25725)",32.86698,-117.25725,marine biome,ocean,sea water,7.92
+OSD,SAMEA3275561,"(37.005053,-7.973119),(37.005053,-7.973119)",37.005053,-7.973119,marine biome,ocean,sea water,7.99
+OSD,SAMEA3275553,"(37.4257,-25.3156),(37.4257,-25.3156)",37.4257,-25.3156,marine biome,ocean,sea water,7.6
+OSD,SAMEA3275526,"(55.03306,-1.43278),(55.03306,-1.43278)",55.03306,-1.43278,marine biome,sea,sea water,8.5
+OSD,SAMEA3275490,"(48.359,-4.552),(48.359,-4.552)",48.359,-4.552,marine biome,sea,sea water,8.1
+OSD,SAMEA3275483,"(51.796139,1.012958),(51.796139,1.012958)",51.796139,1.012958,marine biome,sea,sea water,8.28
+OSD,SAMEA3275643,"(54.18194,7.9),(54.18194,7.9)",54.18194,7.9,marine biome,sea,sea water,8.11
+OSD,SAMEA3275591,"(27.02527,33.91255),(27.02527,33.91253)",27.02527,33.91255,marine biome,sea,sea water,8.22
+OSD,SAMEA3275590,"(27.04153,33.90703),(27.04153,33.9082)",27.04153,33.90703,marine biome,sea,sea water,8.218
+OSD,SAMEA3275579,"(45.31435,12.508317),(45.31435,12.508317)",45.31435,12.508317,marine biome,sea,sea water,8.65
+OSD,SAMEA3275573,"(54.8333,10),(54.8333,10)",54.8333,10,marine biome,sea,sea water,7.01
+OSD,SAMEA3275568,"(43.9475,12.935),(43.9475,12.935)",43.9475,12.935,marine biome,sea,sea water,8.4
+OSD,SAMEA3275567,"(43.8514,13.0731),(43.8514,13.0731)",43.8514,13.0731,marine biome,sea,sea water,8.5
+OSD,SAMEA3275549,"(45.70092,13.71003),(45.70092,13.71003)",45.70092,13.71003,marine biome,sea,sea water,8.27
+OSD,SAMEA3275554,"(1.2685,103.9168),(1.2726,103.9206)",1.2685,103.9168,marine biome,strait,sea water,7.9
+OSD,SAMEA3275498,"(44.66666,-1.16666),(44.66666,-1.16666)",44.66666,-1.16666,marine pelagic biome,bay,sea water,8.05
+OSD,SAMEA3282984,"(59.8822,23.2538),(59.8822,23.2538)",59.8822,23.2538,marine pelagic biome,coastal inlet,sea water,7.85
+OSD,SAMEA3275465,"(-12.3382,130.6952),(-12.3382,130.6952)",-12.3382,130.6952,marine pelagic biome,sea,sea water,8.03
+OSD,SAMEA3275575,"(45.4142,12.4378),(45.4142,12.4378)",45.4142,12.4378,mediterranean sea biome,coastal inlet,sea water,8.24
+OSD,SAMEA3275602,"(45.4125,12.5265),(45.4125,12.5265)",45.4125,12.5265,mediterranean sea biome,coastal water body,sea water,8.28
+OSD,SAMEA3275633,"(42.49,3.14),(42.49,3.14)",42.49,3.14,mediterranean sea biome,sea,sea water,8.278
+OSD,SAMEA3275629,"(35.363732,33.289649),(35.362826,33.287118)",35.363732,33.289649,mediterranean sea biome,sea,sea water,8.37
+OSD,SAMEA3275616,"(31.21667,29.96667),(31.21667,29.96667)",31.21667,29.96667,mediterranean sea biome,sea,sea water,8.01
+OSD,SAMEA3275642,"(40.808,14.25),(40.808,14.25)",40.808,14.25,mediterranean sea biome,sea,sea water,8.11
+OSD,SAMEA3275622,"(35.82,-5.75),(35.82,-5.75)",35.82,-5.75,mediterranean sea biome,strait,sea water,7.69
+OSD,SAMEA3275574,"(-45.7442,170.7706),(-45.7442,170.7706)",-45.7442,170.7706,neritic epipelagic zone biome,ocean,sea water,8.35
+Tara Oceans,SAMEA2731676,"(43.6879,-16.8523),(43.6858,-16.8474)",43.6879,-16.8523,marine biome,sea surface layer,particulate matter,8.09486
+Tara Oceans,SAMEA2732078,"(32.9596,-66.5519),(32.9701,-66.5548)",32.9596,-66.5519,marine biome,sea surface layer,particulate matter,8.11269
+Tara Oceans,SAMEA2732322,"(6.4959,-95.0499),(6.4946,-95.0463)",6.4959,-95.0499,marine biome,sea surface layer,particulate matter,7.98132
+Tara Oceans,SAMEA2732277,"(6.4807,-95.0179),(6.48,-95.0153)",6.4807,-95.0179,marine biome,sea surface layer,particulate matter,7.98132
+Tara Oceans,SAMEA2732443,"(11.2485,-152.4647),(11.2521,-152.4543)",11.2485,-152.4647,marine biome,sea surface layer,particulate matter,8.05152
+Tara Oceans,SAMEA2732442,"(11.2663,-152.4036),(11.2678,-152.3972)",11.2663,-152.4036,marine biome,sea surface layer,particulate matter,8.05152
+Tara Oceans,SAMEA2731578,"(-23.1,-135),(-23.1571,-135.0181)",-23.1,-135,marine biome,sea surface layer,particulate matter,8.03142
+Tara Oceans,SAMEA2731531,"(-23.1,-135),(-23.1571,-135.0182)",-23.1,-135,marine biome,sea surface layer,particulate matter,8.03142
+Tara Oceans,SAMEA2731721,"(-23.1,-135),(-23.1571,-135.0182)",-23.1,-135,marine biome,sea surface layer,particulate matter,8.03142
+Tara Oceans,SAMEA2731720,"(-23.1,-135),(-23.1571,-135.031)",-23.1,-135,marine biome,sea surface layer,particulate matter,8.03142
+Tara Oceans,SAMEA2731658,"(-23.2,-134.9),(-23.233,-134.9608)",-23.2,-134.9,marine biome,sea surface layer,particulate matter,8.04205
+Tara Oceans,SAMEA2731626,"(-23.2,-134.9),(-23.2229,-134.9607)",-23.2,-134.9,marine biome,sea surface layer,particulate matter,8.04205
+Tara Oceans,SAMEA2731525,"(-23.2,-134.9),(-23.2319,-134.9617)",-23.2,-134.9,marine biome,sea surface layer,particulate matter,8.05268
+Tara Oceans,SAMEA2731524,"(-23.2,-134.9),(-23.2318,-134.9279)",-23.2,-134.9,marine biome,sea surface layer,particulate matter,8.05268
+Tara Oceans,SAMEA2731573,"(-23.1195,-134.8995),(-23.1162,-134.9329)",-23.1195,-134.8995,marine biome,sea surface layer,particulate matter,8.04161
+Tara Oceans,SAMEA2731517,"(-23.1107,-134.9326),(-23.1107,-134.9326)",-23.1107,-134.9326,marine biome,sea surface layer,particulate matter,8.04161
+Tara Oceans,SAMEA2731613,"(-23.2165,-129.6279),(-23.2166,-129.6234)",-23.2165,-129.6279,marine biome,sea surface layer,particulate matter,7.79373
+Tara Oceans,SAMEA2731973,"(-23.2512,-129.4536),(-23.2545,-129.4465)",-23.2512,-129.4536,marine biome,sea surface layer,particulate matter,7.79373
+Tara Oceans,SAMEA2622538,"(-23.24,-129.4851),(-23.2811,-129.3947)",-23.24,-129.4851,marine biome,sea surface layer,particulate matter,7.79373
+Tara Oceans,SAMEA2732643,"(0.053,-84.6196),(0.0561,-84.6261)",0.053,-84.6196,marine biome,sea surface layer,particulate matter,7.97007
+Tara Oceans,SAMEA2732589,"(0.0294,-84.6065),(0.0247,-84.6024)",0.0294,-84.6065,marine biome,sea surface layer,particulate matter,7.97007
+Tara Oceans,SAMEA2732548,"(-0.0116,-84.5908),(-0.0141,-84.5899)",-0.0116,-84.5908,marine biome,sea surface layer,particulate matter,7.97007
+Tara Oceans,SAMEA2732369,"(-28.1261,-107.5399),(-28.1237,-107.5498)",-28.1261,-107.5399,marine biome,sea surface layer,particulate matter,8.03373
+Tara Oceans,SAMEA2732838,"(-29.6485,-101.2832),(-29.646,-101.2916)",-29.6485,-101.2832,marine biome,sea surface layer,particulate matter,8.02852
+Tara Oceans,SAMEA2732425,"(-29.6559,-101.2403),(-29.6597,-101.2351)",-29.6559,-101.2403,marine biome,sea surface layer,particulate matter,8.02852
+Tara Oceans,SAMEA2732363,"(-29.6907,-101.1937),(-29.6954,-101.1897)",-29.6907,-101.1937,marine biome,sea surface layer,particulate matter,8.02852
+Tara Oceans,SAMEA2732120,"(-31.3778,-93.9397),(-31.3727,-93.9387)",-31.3778,-93.9397,marine biome,sea surface layer,particulate matter,8.03336
+Tara Oceans,SAMEA2732968,"(-31.4087,-93.9461),(-31.409,-93.9464)",-31.4087,-93.9461,marine biome,sea surface layer,particulate matter,8.03336
+Tara Oceans,SAMEA2621855,"(-31.4372,-93.9573),(-31.4424,-93.9597)",-31.4372,-93.9573,marine biome,sea surface layer,particulate matter,8.03336
+Tara Oceans,SAMEA2621794,"(-33.8785,-73.0369),(-34.0614,-73.1066)",-33.8785,-73.0369,marine biome,sea surface layer,particulate matter,8.09286
+Tara Oceans,SAMEA2732362,"(-57.7789,-66.9554),(-57.7739,-66.9698)",-57.7789,-66.9554,marine biome,sea surface layer,particulate matter,8.1004
+Tara Oceans,SAMEA2732304,"(-57.7608,-67.0136),(-57.7558,-67.0324)",-57.7608,-67.0136,marine biome,sea surface layer,particulate matter,8.1004
+Tara Oceans,SAMEA2732543,"(-64.3307,-53.0536),(-64.3327,-53.0731)",-64.3307,-53.0536,marine biome,sea surface layer,particulate matter,8.20545
+Tara Oceans,SAMEA2732484,"(-64.3567,-53.0487),(-64.358,-53.0534)",-64.3567,-53.0487,marine biome,sea surface layer,particulate matter,8.20545
+Tara Oceans,SAMEA2732419,"(-64.3366,-52.9842),(-64.3373,-52.9847)",-64.3366,-52.9842,marine biome,sea surface layer,particulate matter,8.20545
+Tara Oceans,SAMEA2732412,"(-54.3833,-65.0135),(-54.3826,-65.051)",-54.3833,-65.0135,marine biome,sea surface layer,particulate matter,8.10457
+Tara Oceans,SAMEA2732895,"(-44.6517,-52.1264),(-44.6474,-52.1308)",-44.6517,-52.1264,marine biome,sea surface layer,particulate matter,8.13301
+Tara Oceans,SAMEA2732891,"(-44.629,-52.147),(-44.6241,-52.1505)",-44.629,-52.147,marine biome,sea surface layer,particulate matter,8.13301
+Tara Oceans,SAMEA2621364,"(-44.539,-52.4083),(-44.5342,-52.455)",-44.539,-52.4083,marine biome,sea surface layer,particulate matter,8.13301
+Tara Oceans,SAMEA2731859,"(43.691,-16.857),(43.6904,-16.8544)",43.691,-16.857,marine biome,sea surface layer,particulate matter,8.09486
+Tara Oceans,SAMEA2731672,"(43.6838,-16.8442),(43.6825,-16.8412)",43.6838,-16.8442,marine biome,sea surface layer,particulate matter,8.09486
+Tara Oceans,SAMEA2623899,"(43.6906,-16.8555),(43.6792,-16.8344)",43.6906,-16.8555,marine biome,sea surface layer,particulate matter,8.09486
+Tara Oceans,SAMEA2732056,"(36.1483,-28.996),(36.15,-28.9989)",36.1483,-28.996,marine biome,sea surface layer,particulate matter,8.09894
+Tara Oceans,SAMEA2732052,"(36.1592,-29.0114),(36.1631,-29.0143)",36.1592,-29.0114,marine biome,sea surface layer,particulate matter,8.09894
+Tara Oceans,SAMEA2623859,"(36.139,-28.9598),(36.1715,-29.023)",36.139,-28.9598,marine biome,sea surface layer,particulate matter,8.09894
+Tara Oceans,SAMEA2732095,"(35.8606,-37.176),(35.8641,-37.1831)",35.8606,-37.176,marine biome,sea surface layer,particulate matter,8.11196
+Tara Oceans,SAMEA2731788,"(35.8885,-37.2318),(35.8913,-37.2369)",35.8885,-37.2318,marine biome,sea surface layer,particulate matter,8.11196
+Tara Oceans,SAMEA2731784,"(35.9108,-37.2671),(35.9167,-37.2761)",35.9108,-37.2671,marine biome,sea surface layer,particulate matter,8.11196
+Tara Oceans,SAMEA2731634,"(31.8002,-64.1443),(31.7913,-64.1522)",31.8002,-64.1443,marine biome,sea surface layer,particulate matter,8.10764
+Tara Oceans,SAMEA2732099,"(31.7515,-64.189),(31.7432,-64.1967)",31.7515,-64.189,marine biome,sea surface layer,particulate matter,8.10764
+Tara Oceans,SAMEA2623741,"(31.8366,-64.109),(31.6948,-64.2489)",31.8366,-64.109,marine biome,sea surface layer,particulate matter,8.10764
+Tara Oceans,SAMEA2732044,"(32.9956,-66.5512),(32.9997,-66.5655)",32.9956,-66.5512,marine biome,sea surface layer,particulate matter,8.11269
+Tara Oceans,SAMEA2731996,"(33.0075,-66.5476),(33.0096,-66.547)",33.0075,-66.5476,marine biome,sea surface layer,particulate matter,8.11269
+Tara Oceans,SAMEA2623721,"(32.9705,-66.531),(33.061,-66.5435)",32.9705,-66.531,marine biome,sea surface layer,particulate matter,8.11269
+Tara Oceans,SAMEA2730873,"(34.804,-71.218),(34.7942,-71.2229)",34.804,-71.218,marine biome,sea surface layer,particulate matter,8.11404
+Tara Oceans,SAMEA2730869,"(34.7726,-71.2361),(34.7631,-71.2422)",34.7726,-71.2361,marine biome,sea surface layer,particulate matter,8.11404
+Tara Oceans,SAMEA2730594,"(39.1889,-70.0346),(39.194,-70.0499)",39.1889,-70.0346,marine biome,sea surface layer,particulate matter,7.8821
+Tara Oceans,SAMEA2731031,"(39.218,-70.0325),(39.2214,-70.0322)",39.218,-70.0325,marine biome,sea surface layer,particulate matter,7.8821
+Tara Oceans,SAMEA2623639,"(39.2173,-72.0327),(39.2305,-70.0377)",39.2173,-72.0327,marine biome,sea surface layer,particulate matter,7.8821
+Tara Oceans,SAMEA2730956,"(29.7879,-79.64),(29.7812,-79.6299)",29.7879,-79.64,marine biome,sea surface layer,particulate matter,8.08884
+Tara Oceans,SAMEA2730657,"(29.6757,-79.6016),(29.6721,-79.5929)",29.6757,-79.6016,marine biome,sea surface layer,particulate matter,8.08884
+Tara Oceans,SAMEA2730918,"(25.5662,-88.417),(25.5593,-88.4126)",25.5662,-88.417,marine biome,sea surface layer,particulate matter,8.0769
+Tara Oceans,SAMEA2623477,"(25.5416,-88.4044),(25.5264,-88.394)",25.5416,-88.4044,marine biome,sea surface layer,particulate matter,8.0769
+Tara Oceans,SAMEA2732983,"(6.4791,-94.9751),(6.4808,-94.9704)",6.4791,-94.9751,marine biome,sea surface layer,particulate matter,7.98132
+Tara Oceans,SAMEA2623417,"(6.4791,-94.9752),(6.4998,-94.9527)",6.4791,-94.9752,marine biome,sea surface layer,particulate matter,7.98132
+Tara Oceans,SAMEA2732658,"(6.3168,-102.9602),(6.3199,-102.96)",6.3168,-102.9602,marine biome,sea surface layer,particulate matter,8.07
+Tara Oceans,SAMEA2732654,"(14.3284,-102.9557),(14.3284,-102.9531)",14.3284,-102.9557,marine biome,sea surface layer,particulate matter,8.07
+Tara Oceans,SAMEA2732607,"(14.1829,-116.6895),(14.1853,-116.6842)",14.1829,-116.6895,marine biome,sea surface layer,particulate matter,7.99483
+Tara Oceans,SAMEA2732378,"(14.1903,-118.6722),(14.1927,-116.6474)",14.1903,-118.6722,marine biome,sea surface layer,particulate matter,7.99483
+Tara Oceans,SAMEA2623282,"(14.2017,-116.6336),(14.2035,-116.6261)",14.2017,-116.6336,marine biome,sea surface layer,particulate matter,7.99483
+Tara Oceans,SAMEA2732139,"(22.7028,-158.0335),(22.7091,-158.0247)",22.7028,-158.0335,marine biome,sea surface layer,particulate matter,8.06317
+Tara Oceans,SAMEA2732906,"(22.7601,-157.9731),(22.7511,-157.9632)",22.7601,-157.9731,marine biome,sea surface layer,particulate matter,8.06317
+Tara Oceans,SAMEA2731795,"(-1.9667,-84.6001),(-1.9778,-84.5992)",-1.9667,-84.6001,marine biome,sea surface layer,particulate matter,7.48487
+Tara Oceans,SAMEA2732192,"(-34.025,-73.0878),(-34.0374,-73.09)",-34.025,-73.0878,marine biome,sea surface layer,particulate matter,8.09286
+Tara Oceans,SAMEA2621795,"(-33.8785,-73.0369),(-34.0614,-73.1066)",-33.8785,-73.0369,marine biome,sea surface layer,particulate matter,8.09286
+Tara Oceans,SAMEA2621793,"(-33.8785,-73.0369),(-34.0614,-73.1066)",-33.8785,-73.0369,marine biome,sea surface layer,particulate matter,8.09286
+Tara Oceans,SAMEA2732696,"(-33.673,-71.962),(-33.6737,-71.9641)",-33.673,-71.962,marine biome,sea surface layer,particulate matter,8.11471
+Tara Oceans,SAMEA2732628,"(-33.6766,-71.97),(-33.6771,-71.9719)",-33.6766,-71.97,marine biome,sea surface layer,particulate matter,8.11471
+Tara Oceans,SAMEA2732583,"(-33.6866,-71.9861),(-33.688,-71.9903)",-33.6866,-71.9861,marine biome,sea surface layer,particulate matter,8.11471
+Tara Oceans,SAMEA2621768,"(-33.6703,-71.9535),(-33.6895,-71.998)",-33.6703,-71.9535,marine biome,sea surface layer,particulate matter,8.11471
+Tara Oceans,SAMEA2732299,"(-40.6289,-52.0479),(-40.6297,-52.0503)",-40.6289,-52.0479,marine biome,sea surface layer,particulate matter,8.10473
+Tara Oceans,SAMEA2732231,"(-40.6468,-52.1415),(-40.6487,-52.1511)",-40.6468,-52.1415,marine biome,sea surface layer,particulate matter,8.10473
+Tara Oceans,SAMEA2621316,"(-40.6494,-52.1546),(-40.6511,-52.182)",-40.6494,-52.1546,marine biome,sea surface layer,particulate matter,8.10473
+Tara Oceans,SAMEA2732085,"(36.1392,-28.9617),(36.1399,-28.9689)",36.1392,-28.9617,marine biome,sea surface layer,particulate matter,8.09894
+Tara Oceans,SAMEA2623815,"(35.8591,-37.1728),(35.9346,-37.3032)",35.8591,-37.1728,marine biome,sea surface layer,particulate matter,8.11196
+Tara Oceans,SAMEA2731821,"(31.8248,-64.1213),(31.8103,-64.1348)",31.8248,-64.1213,marine biome,sea surface layer,particulate matter,8.10764
+Tara Oceans,SAMEA2730877,"(34.8355,-71.2034),(34.8217,-71.21)",34.8355,-71.2034,marine biome,sea surface layer,particulate matter,8.11404
+Tara Oceans,SAMEA2731035,"(39.2032,-70.034),(39.2077,-70.034)",39.2032,-70.034,marine biome,sea surface layer,particulate matter,7.8821
+Tara Oceans,SAMEA2730804,"(25.595,-88.4317),(25.5877,-88.4275)",25.595,-88.4317,marine biome,sea surface layer,particulate matter,8.0769
+Tara Oceans,SAMEA2732604,"(16.1982,-116.6458),(14.2004,-116.6398)",16.1982,-116.6458,marine biome,sea surface layer,particulate matter,7.99483
+Tara Oceans,SAMEA2732135,"(22.7211,-158.0047),(22.7267,-157.9955)",22.7211,-158.0047,marine biome,sea surface layer,particulate matter,8.06317
+Tara Oceans,SAMEA2623016,"(22.7306,-158.0492),(22.7598,-157.9568)",22.7306,-158.0492,marine biome,sea surface layer,particulate matter,8.06317
+Tara Oceans,SAMEA2731833,"(-1.9344,-84.6121),(-1.9389,-84.611)",-1.9344,-84.6121,marine biome,sea surface layer,particulate matter,7.48487
+Tara Oceans,SAMEA2622393,"(-1.972,-84.601),(-2.0133,-84.589)",-1.972,-84.601,marine biome,sea surface layer,particulate matter,7.48487
+Tara Oceans,SAMEA2622389,"(-1.972,-84.601),(-2.0133,-84.589)",-1.972,-84.601,marine biome,sea surface layer,particulate matter,7.48487
+Tara Oceans,SAMEA2621789,"(-33.8785,-73.0369),(-34.0614,-73.1066)",-33.8785,-73.0369,marine biome,sea surface layer,particulate matter,8.09286
+Tara Oceans,SAMEA2621468,"(-54.3793,-65.0211),(-54.3739,-65.1342)",-54.3793,-65.0211,marine biome,sea surface layer,particulate matter,8.10457
+Tara Oceans,SAMEA2730900,"(-0.6671,73.1628),(-0.6623,73.1629)",-0.6671,73.1628,marine biome,sea surface layer,particulate matter,8.01617
+Tara Oceans,SAMEA2730898,"(-0.6625,73.161),(-0.6625,73.1611)",-0.6625,73.161,marine biome,sea surface layer,particulate matter,8.01617
+Tara Oceans,SAMEA2620379,"(-0.6623,73.1611),(-0.6625,73.161)",-0.6623,73.1611,marine biome,sea surface layer,particulate matter,8.01617
+Tara Oceans,SAMEA2730950,"(29.727,-79.6715),(29.7186,-79.6636)",29.727,-79.6715,marine biome,sea surface layer,particulate matter,8.08884
+Tara Oceans,SAMEA2732453,"(6.3256,-102.9453),(6.3305,-102.9464)",6.3256,-102.9453,marine biome,sea surface layer,particulate matter,8.07
+Tara Oceans,SAMEA2621474,"(-54.3793,-65.0211),(-54.3739,-65.1342)",-54.3793,-65.0211,marine biome,sea surface layer,particulate matter,8.10457
+Tara Oceans,SAMEA2623901,"(43.6906,-16.8555),(43.6792,-16.8344)",43.6906,-16.8555,marine biome,sea surface layer,particulate matter,8.09486
+Tara Oceans,SAMEA2623861,"(36.139,-28.9598),(36.1715,-29.023)",36.139,-28.9598,marine biome,sea surface layer,particulate matter,8.09894
+Tara Oceans,SAMEA2623817,"(35.8591,-37.1728),(35.9346,-37.3032)",35.8591,-37.1728,marine biome,sea surface layer,particulate matter,8.11196
+Tara Oceans,SAMEA2623743,"(31.8366,-64.109),(31.6948,-64.2489)",31.8366,-64.109,marine biome,sea surface layer,particulate matter,8.10764
+Tara Oceans,SAMEA2623723,"(32.9705,-66.531),(33.061,-66.5435)",32.9705,-66.531,marine biome,sea surface layer,particulate matter,8.11269
+Tara Oceans,SAMEA2623685,"(34.8341,-71.204),(34.6712,-71.3093)",34.8341,-71.204,marine biome,sea surface layer,particulate matter,8.11404
+Tara Oceans,SAMEA2623641,"(39.2173,-72.0327),(39.2305,-70.0377)",39.2173,-72.0327,marine biome,sea surface layer,particulate matter,7.8821
+Tara Oceans,SAMEA2623621,"(36.3473,-72.7081),(36.4121,-72.9289)",36.3473,-72.7081,marine biome,marine mesopelagic zone,particulate matter,8.05812
+Tara Oceans,SAMEA2623543,"(29.7348,-79.6786),(29.6394,-79.5395)",29.7348,-79.6786,marine biome,sea surface layer,particulate matter,8.08884
+Tara Oceans,SAMEA2623479,"(25.5416,-88.4044),(25.5264,-88.394)",25.5416,-88.4044,marine biome,sea surface layer,particulate matter,8.0769
+Tara Oceans,SAMEA2623419,"(6.4791,-94.9752),(6.4998,-94.9527)",6.4791,-94.9752,marine biome,sea surface layer,particulate matter,7.98132
+Tara Oceans,SAMEA2623359,"(6.3315,-102.9484),(6.3332,-102.9432)",6.3315,-102.9484,marine biome,sea surface layer,particulate matter,8.07
+Tara Oceans,SAMEA2623284,"(14.2017,-116.6336),(14.2035,-116.6261)",14.2017,-116.6336,marine biome,sea surface layer,particulate matter,7.99483
+Tara Oceans,SAMEA2623018,"(22.7306,-158.0492),(22.7598,-157.9568)",22.7306,-158.0492,marine biome,sea surface layer,particulate matter,8.06317
+Tara Oceans,SAMEA2622997,"(11.24,-152.9931),(11.2723,-152.3711)",11.24,-152.9931,marine biome,sea surface layer,particulate matter,8.05152
+Tara Oceans,SAMEA2622605,"(-23.1107,-134.9327),(-23.1108,-134.9327)",-23.1107,-134.9327,marine biome,sea surface layer,particulate matter,8.04161
+Tara Oceans,SAMEA2622536,"(-23.24,-129.4851),(-23.2811,-129.3947)",-23.24,-129.4851,marine biome,sea surface layer,particulate matter,7.79373
+Tara Oceans,SAMEA2622391,"(-1.972,-84.601),(-2.0133,-84.589)",-1.972,-84.601,marine biome,sea surface layer,particulate matter,7.48487
+Tara Oceans,SAMEA2622258,"(0.0422,-84.6168),(-0.0283,-84.5862)",0.0422,-84.6168,marine biome,sea surface layer,particulate matter,7.97007
+Tara Oceans,SAMEA2621922,"(-28.1483,-107.4542),(-28.1698,-107.3833)",-28.1483,-107.4542,marine biome,sea surface layer,particulate matter,8.03373
+Tara Oceans,SAMEA2621872,"(-29.6749,-101.2137),(-29.7238,-101.1604)",-29.6749,-101.2137,marine biome,sea surface layer,particulate matter,8.02852
+Tara Oceans,SAMEA2621854,"(-31.4372,-93.9573),(-31.4424,-93.9597)",-31.4372,-93.9573,marine biome,sea surface layer,particulate matter,8.03336
+Tara Oceans,SAMEA2621791,"(-33.8785,-73.0369),(-34.0614,-73.1066)",-33.8785,-73.0369,marine biome,sea surface layer,particulate matter,8.09286
+Tara Oceans,SAMEA2621772,"(-33.6703,-71.9535),(-33.6895,-71.998)",-33.6703,-71.9535,marine biome,sea surface layer,particulate matter,8.11471
+Tara Oceans,SAMEA2621696,"(-57.7908,-66.9243),(-57.7338,-67.1084)",-57.7908,-66.9243,marine biome,sea surface layer,particulate matter,8.1004
+Tara Oceans,SAMEA2621583,"(-64.3453,-53.0231),(-64.3595,-53.0063)",-64.3453,-53.0231,marine biome,sea surface layer,particulate matter,8.20545
+Tara Oceans,SAMEA2621470,"(-54.3793,-65.0211),(-54.3739,-65.1342)",-54.3793,-65.0211,marine biome,sea surface layer,particulate matter,8.10457
+Tara Oceans,SAMEA2621362,"(-44.539,-52.4083),(-44.5342,-52.455)",-44.539,-52.4083,marine biome,sea surface layer,particulate matter,8.13301
+Tara Oceans,SAMEA2621315,"(-40.6494,-52.1546),(-40.6511,-52.182)",-40.6494,-52.1546,marine biome,sea surface layer,particulate matter,8.10473
+Tara Oceans,SAMEA2620378,"(-0.6623,73.1611),(-0.6625,73.161)",-0.6623,73.1611,marine biome,sea surface layer,particulate matter,8.01617
+Tara Oceans,SAMEA2656982,"(-8.9085,-142.5707),(-8.9124,-142.5595)",-8.9085,-142.5707,marine biome,sea surface layer,particulate matter,8.01514
+Tara Oceans,SAMEA2657032,"(-8.8913,-142.6439),(-8.894,-142.631)",-8.8913,-142.6439,marine biome,sea surface layer,particulate matter,8.01514
+Tara Oceans,SAMEA2657071,"(-8.8899,-142.6488),(-8.892,-142.6358)",-8.8899,-142.6488,marine biome,sea surface layer,particulate matter,8.01514
+Tara Oceans,SAMEA2622826,"(-8.895,-142.6228),(-8.9111,-142.5571)",-8.895,-142.6228,marine biome,sea surface layer,particulate matter,8.01514
+Tara Oceans,SAMEA2622824,"(-8.895,-142.6228),(-8.9111,-142.5571)",-8.895,-142.6228,marine biome,sea surface layer,particulate matter,8.01514
+Tara Oceans,SAMEA2657085,"(-9.1435,-140.5324),(-9.1463,-140.515)",-9.1435,-140.5324,marine biome,sea surface layer,particulate matter,7.87071
+Tara Oceans,SAMEA2656986,"(-9.1515,-140.5155),(-9.1508,-140.4969)",-9.1515,-140.5155,marine biome,sea surface layer,particulate matter,7.87071
+Tara Oceans,SAMEA2622774,"(-9.1552,-140.5284),(-9.1504,-140.5216)",-9.1552,-140.5284,marine biome,sea surface layer,particulate matter,7.87071
+Tara Oceans,SAMEA2622770,"(-9.1552,-140.5284),(-9.1504,-140.5216)",-9.1552,-140.5284,marine biome,sea surface layer,particulate matter,7.87071
+Tara Oceans,SAMEA2622769,"(-9.1552,-140.5284),(-9.1504,-140.5216)",-9.1552,-140.5284,marine biome,sea surface layer,particulate matter,7.87071
+Tara Oceans,SAMEA2622766,"(-9.1552,-140.5284),(-9.1504,-140.5216)",-9.1552,-140.5284,marine biome,sea surface layer,particulate matter,7.87071
+Tara Oceans,SAMEA2656975,"(-8.8987,-140.2856),(-8.9056,-140.2792)",-8.8987,-140.2856,marine biome,sea surface layer,particulate matter,8.01243
+Tara Oceans,SAMEA2657005,"(-8.8857,-140.2936),(-8.8932,-140.2879)",-8.8857,-140.2936,marine biome,sea surface layer,particulate matter,8.01243
+Tara Oceans,SAMEA2657109,"(-8.8967,-140.3132),(-8.8984,-140.3089)",-8.8967,-140.3132,marine biome,sea surface layer,particulate matter,8.01243
+Tara Oceans,SAMEA2622719,"(-8.8951,-140.3174),(-8.9068,-140.283)",-8.8951,-140.3174,marine biome,sea surface layer,particulate matter,8.01243
+Tara Oceans,SAMEA2622717,"(-8.8951,-140.3174),(-8.9068,-140.283)",-8.8951,-140.3174,marine biome,sea surface layer,particulate matter,8.01243
+Tara Oceans,SAMEA2657070,"(-8.9946,-139.2932),(-8.996,-139.2815)",-8.9946,-139.2932,marine biome,sea surface layer,particulate matter,7.47071
+Tara Oceans,SAMEA2657094,"(-9.0049,-139.2181),(-9.006,-139.206)",-9.0049,-139.2181,marine biome,sea surface layer,particulate matter,7.47071
+Tara Oceans,SAMEA2657010,"(-8.994,-139.2311),(-8.9948,-139.2172)",-8.994,-139.2311,marine biome,sea surface layer,particulate matter,7.47071
+Tara Oceans,SAMEA2622661,"(-8.9721,-139.2742),(-8.9971,-139.1963)",-8.9721,-139.2742,marine biome,sea surface layer,particulate matter,7.47071
+Tara Oceans,SAMEA2622660,"(-8.9721,-139.2742),(-8.9971,-139.1963)",-8.9721,-139.2742,marine biome,sea surface layer,particulate matter,7.47071
+Tara Oceans,SAMEA2656988,"(-16.9554,-100.6971),(-16.9554,-100.6911)",-16.9554,-100.6971,marine biome,sea surface layer,particulate matter,8.04974
+Tara Oceans,SAMEA2657036,"(-16.9572,-100.662),(-16.9581,-100.6588)",-16.9572,-100.662,marine biome,sea surface layer,particulate matter,8.04974
+Tara Oceans,SAMEA2622465,"(-16.9554,-100.6925),(-16.9601,-100.6335)",-16.9554,-100.6925,marine biome,sea surface layer,particulate matter,8.04974
+Tara Oceans,SAMEA2622463,"(-16.9554,-100.6925),(-16.9601,-100.6335)",-16.9554,-100.6925,marine biome,sea surface layer,particulate matter,8.04974
+Tara Oceans,SAMEA2622461,"(-16.9554,-100.6925),(-16.9601,-100.6335)",-16.9554,-100.6925,marine biome,sea surface layer,particulate matter,8.04974
+Tara Oceans,SAMEA2657088,"(2.0555,-84.5573),(2.0574,-84.5546)",2.0555,-84.5573,marine biome,sea surface layer,particulate matter,8.02178
+Tara Oceans,SAMEA2657063,"(2.0455,-84.5573),(2.0399,-84.5599)",2.0455,-84.5573,marine biome,sea surface layer,particulate matter,8.02178
+Tara Oceans,SAMEA2622325,"(2.0596,-84.553),(1.9928,-84.5766)",2.0596,-84.553,marine biome,sea surface layer,particulate matter,8.02178
+Tara Oceans,SAMEA2622324,"(2.0596,-84.553),(1.9928,-84.5766)",2.0596,-84.553,marine biome,sea surface layer,particulate matter,8.02178
+Tara Oceans,SAMEA2657008,"(2.0039,-84.5718),(1.9958,-84.576)",2.0039,-84.5718,marine biome,sea surface layer,particulate matter,8.02178
+Tara Oceans,SAMEA2657072,"(-5.254,-85.2248),(-5.2537,-85.2221)",-5.254,-85.2248,marine biome,sea surface layer,particulate matter,7.90509
+Tara Oceans,SAMEA2656991,"(-5.2527,-85.213),(-5.252,-85.2052)",-5.2527,-85.213,marine biome,sea surface layer,particulate matter,7.90509
+Tara Oceans,SAMEA2657092,"(-5.2512,-85.1718),(-5.2514,-85.1696)",-5.2512,-85.1718,marine biome,sea surface layer,particulate matter,7.90509
+Tara Oceans,SAMEA2622184,"(-5.254,-85.2248),(-5.2529,-85.1545)",-5.254,-85.2248,marine biome,sea surface layer,particulate matter,7.90509
+Tara Oceans,SAMEA2622182,"(-5.254,-85.2248),(-5.2529,-85.1545)",-5.254,-85.2248,marine biome,sea surface layer,particulate matter,7.90509
+Tara Oceans,SAMEA2656984,"(-25.8126,-111.7386),(-25.8105,-111.7329)",-25.8126,-111.7386,marine biome,sea surface layer,particulate matter,8.03111
+Tara Oceans,SAMEA2656959,"(-25.8079,-111.7438),(-25.8073,-111.7364)",-25.8079,-111.7438,marine biome,sea surface layer,particulate matter,8.03111
+Tara Oceans,SAMEA2622012,"(-25.8126,-111.7386),(-25.8051,-111.7202)",-25.8126,-111.7386,marine biome,sea surface layer,particulate matter,8.03111
+Tara Oceans,SAMEA2622010,"(-25.8126,-111.7386),(-25.8051,-111.7202)",-25.8126,-111.7386,marine biome,sea surface layer,particulate matter,8.03111
+Tara Oceans,SAMEA2657029,"(-30.2246,-43.2723),(-30.2163,-43.275)",-30.2246,-43.2723,marine biome,sea surface layer,particulate matter,8.10137
+Tara Oceans,SAMEA2657067,"(-30.1949,-43.2811),(-30.1872,-43.2834)",-30.1949,-43.2811,marine biome,sea surface layer,particulate matter,8.10137
+Tara Oceans,SAMEA2656977,"(-30.1549,-43.2869),(-30.1506,-43.2877)",-30.1549,-43.2869,marine biome,sea surface layer,particulate matter,8.10137
+Tara Oceans,SAMEA2621265,"(-30.1885,-43.2831),(-30.1367,-43.2899)",-30.1885,-43.2831,marine biome,sea surface layer,particulate matter,8.10137
+Tara Oceans,SAMEA2621263,"(-30.1885,-43.2831),(-30.1367,-43.2899)",-30.1885,-43.2831,marine biome,sea surface layer,particulate matter,8.10137
+Tara Oceans,SAMEA2657095,"(-20.9786,-35.2841),(-20.9724,-35.2724)",-20.9786,-35.2841,marine biome,sea surface layer,particulate matter,8.08471
+Tara Oceans,SAMEA2657030,"(-20.9554,-35.2366),(-20.9514,-35.2273)",-20.9554,-35.2366,marine biome,sea surface layer,particulate matter,8.08471
+Tara Oceans,SAMEA2657091,"(-20.9424,-35.2027),(-20.9406,-35.196)",-20.9424,-35.2027,marine biome,sea surface layer,particulate matter,8.08471
+Tara Oceans,SAMEA2621209,"(-21.0073,-35.3344),(-20.9354,-35.1803)",-21.0073,-35.3344,marine biome,sea surface layer,particulate matter,8.08471
+Tara Oceans,SAMEA2621208,"(-21.0073,-35.3344),(-20.9354,-35.1803)",-21.0073,-35.3344,marine biome,sea surface layer,particulate matter,8.08471
+Tara Oceans,SAMEA2656989,"(-8.7236,-17.9261),(-8.7277,-17.9235)",-8.7236,-17.9261,marine biome,sea surface layer,particulate matter,8.06029
+Tara Oceans,SAMEA2656961,"(-8.7434,-17.9174),(-8.7484,-17.9179)",-8.7434,-17.9174,marine biome,sea surface layer,particulate matter,8.06029
+Tara Oceans,SAMEA2657090,"(-8.7826,-17.916),(-8.7726,-17.915)",-8.7826,-17.916,marine biome,sea surface layer,particulate matter,8.06029
+Tara Oceans,SAMEA2621147,"(-8.7788,-17.9098),(-8.7789,-17.9099)",-8.7788,-17.9098,marine biome,sea surface layer,particulate matter,8.06029
+Tara Oceans,SAMEA2621145,"(-8.7788,-17.9098),(-8.7789,-17.9099)",-8.7788,-17.9098,marine biome,sea surface layer,particulate matter,8.06029
+Tara Oceans,SAMEA2656958,"(-20.4102,-3.181),(-20.4107,-3.1775)",-20.4102,-3.181,marine biome,sea surface layer,particulate matter,8.05776
+Tara Oceans,SAMEA2656971,"(-20.392,-3.2158),(-20.3943,-3.2085)",-20.392,-3.2158,marine biome,sea surface layer,particulate matter,8.05776
+Tara Oceans,SAMEA2657034,"(-20.4016,-3.1913),(-20.4035,-3.1859)",-20.4016,-3.1913,marine biome,sea surface layer,particulate matter,8.05776
+Tara Oceans,SAMEA2621082,"(-20.3976,-3.2009),(-20.4091,-3.1759)",-20.3976,-3.2009,marine biome,sea surface layer,particulate matter,8.05776
+Tara Oceans,SAMEA2621080,"(-20.3976,-3.2009),(-20.4091,-3.1759)",-20.3976,-3.2009,marine biome,sea surface layer,particulate matter,8.05776
+Tara Oceans,SAMEA2621029,"(-31.0263,4.6977),(-31.0266,4.665)",-31.0263,4.6977,marine biome,sea surface layer,particulate matter,8.08702
+Tara Oceans,SAMEA2621027,"(-31.0263,4.6977),(-31.0266,4.665)",-31.0263,4.6977,marine biome,sea surface layer,particulate matter,8.08702
+Tara Oceans,SAMEA2657009,"(-31.0509,4.6756),(-31.0536,4.6742)",-31.0509,4.6756,marine biome,sea surface layer,particulate matter,8.08702
+Tara Oceans,SAMEA2657082,"(-31.0543,4.6717),(-31.0551,4.668)",-31.0543,4.6717,marine biome,sea surface layer,particulate matter,8.08702
+Tara Oceans,SAMEA2657073,"(-31.0507,4.6632),(-31.0507,4.6603)",-31.0507,4.6632,marine biome,sea surface layer,particulate matter,8.08702
+Tara Oceans,SAMEA2657014,"(-32.1174,17.6988),(-32.12,17.6987)",-32.1174,17.6988,marine biome,sea surface layer,particulate matter,8.0257
+Tara Oceans,SAMEA2657065,"(-32.1725,17.6983),(-32.1745,17.6991)",-32.1725,17.6983,marine biome,sea surface layer,particulate matter,8.0257
+Tara Oceans,SAMEA2656969,"(-32.2164,17.705),(-32.2188,17.7054)",-32.2164,17.705,marine biome,sea surface layer,particulate matter,8.0257
+Tara Oceans,SAMEA2620988,"(-32.1,17.7),(-32.2401,17.7103)",-32.1,17.7,marine biome,sea surface layer,particulate matter,8.0257
+Tara Oceans,SAMEA2620985,"(-32.1,17.7),(-32.2401,17.7103)",-32.1,17.7,marine biome,sea surface layer,particulate matter,8.0257
+Tara Oceans,SAMEA2657046,"(-34.9631,18.0207),(-34.8986,18.03)",-34.9631,18.0207,marine biome,sea surface layer,particulate matter,8.10696
+Tara Oceans,SAMEA2656956,"(-34.9353,17.9401),(-34.9363,17.9366)",-34.9353,17.9401,marine biome,sea surface layer,particulate matter,8.10696
+Tara Oceans,SAMEA2620941,"(-34.8986,18.03),(-34.9449,17.9189)",-34.8986,18.03,marine biome,sea surface layer,particulate matter,8.10696
+Tara Oceans,SAMEA2620939,"(-34.8986,18.03),(-34.9449,17.9189)",-34.8986,18.03,marine biome,sea surface layer,particulate matter,8.10696
+Tara Oceans,SAMEA2656968,"(-29.4965,37.9979),(-29.4985,37.9926)",-29.4965,37.9979,marine biome,sea surface layer,particulate matter,8.10394
+Tara Oceans,SAMEA2657040,"(-29.4993,37.994),(-29.4991,37.9938)",-29.4993,37.994,marine biome,sea surface layer,particulate matter,8.10394
+Tara Oceans,SAMEA2657108,"(-29.5013,37.9888),(-29.5018,37.9887)",-29.5013,37.9888,marine biome,sea surface layer,particulate matter,8.10394
+Tara Oceans,SAMEA2620802,"(-29.5023,37.9965),(-29.5019,37.9889)",-29.5023,37.9965,marine biome,sea surface layer,particulate matter,8.10394
+Tara Oceans,SAMEA2657038,"(-16.9687,53.9293),(-16.9672,53.9337)",-16.9687,53.9293,marine biome,sea surface layer,particulate matter,7.61233
+Tara Oceans,SAMEA2656997,"(-16.9631,53.9497),(-16.9616,53.9541)",-16.9631,53.9497,marine biome,sea surface layer,particulate matter,7.61233
+Tara Oceans,SAMEA2620556,"(-17.2387,53.9775),(-16.957,53.9801)",-17.2387,53.9775,marine biome,sea surface layer,particulate matter,7.61233
+Tara Oceans,SAMEA2657047,"(-16.9581,53.9767),(-16.9567,53.9809)",-16.9581,53.9767,marine biome,sea surface layer,particulate matter,7.61233
+Tara Oceans,SAMEA2657060,"(20.8208,63.5119),(20.8215,63.512)",20.8208,63.5119,marine biome,sea surface layer,particulate matter,8.05426
+Tara Oceans,SAMEA2619943,"(20.8151,63.5046),(20.8183,63.5047)",20.8151,63.5046,marine biome,sea surface layer,particulate matter,8.05426
+Tara Oceans,SAMEA2656960,"(20.8167,63.5041),(20.8183,63.5047)",20.8167,63.5041,marine biome,sea surface layer,particulate matter,8.05426
+Tara Oceans,SAMEA2657012,"(22.0917,38.205),(22.085,38.2083)",22.0917,38.205,marine biome,sea surface layer,particulate matter,7.80708
+Tara Oceans,SAMEA2657055,"(21.9667,38.2367),(21.9467,38.2517)",21.9667,38.2367,marine biome,sea surface layer,particulate matter,7.80708
+Tara Oceans,SAMEA2619869,"(22.1283,38.1967),(21.9467,38.2517)",22.1283,38.1967,marine biome,sea surface layer,particulate matter,7.80708
+Tara Oceans,SAMEA2656970,"(23.385,37.2133),(23.3733,37.2167)",23.385,37.2133,marine biome,sea surface layer,particulate matter,7.8452
+Tara Oceans,SAMEA2619832,"(23.4017,37.2183),(23.36,37.2183)",23.4017,37.2183,marine biome,sea surface layer,particulate matter,7.8452
+Tara Oceans,SAMEA2656957,"(23.3633,37.2183),(23.36,37.2183)",23.3633,37.2183,marine biome,sea surface layer,particulate matter,7.8452
+Tara Oceans,SAMEA2657017,"(27.145,34.8067),(27.1483,34.8117)",27.145,34.8067,marine biome,sea surface layer,particulate matter,8.08671
+Tara Oceans,SAMEA2657001,"(27.1517,34.8233),(27.155,34.83)",27.1517,34.8233,marine biome,sea surface layer,particulate matter,8.08671
+Tara Oceans,SAMEA2619811,"(27.1433,34.8033),(27.16,34.835)",27.1433,34.8033,marine biome,sea surface layer,particulate matter,8.08671
+Tara Oceans,SAMEA2657021,"(38.4319,20.189),(38.4367,20.1875)",38.4319,20.189,marine biome,sea surface layer,particulate matter,8.12601
+Tara Oceans,SAMEA2657002,"(38.4663,20.1753),(38.4735,20.1718)",38.4663,20.1753,marine biome,sea surface layer,particulate matter,8.12601
+Tara Oceans,SAMEA2619798,"(38.4225,20.1922),(38.4761,20.1705)",38.4225,20.1922,marine biome,sea surface layer,particulate matter,8.12601
+Tara Oceans,SAMEA2657015,"(39.3599,19.4084),(39.2143,19.406)",39.3599,19.4084,marine biome,sea surface layer,particulate matter,8.13665
+Tara Oceans,SAMEA2656999,"(39.3837,19.3936),(39.3885,19.3906)",39.3837,19.3936,marine biome,sea surface layer,particulate matter,8.13665
+Tara Oceans,SAMEA2619778,"(39.3599,19.4084),(39.3888,19.3905)",39.3599,19.4084,marine biome,sea surface layer,particulate matter,8.13665
+Tara Oceans,SAMEA2619777,"(39.3599,19.4084),(39.3888,19.3905)",39.3599,19.4084,marine biome,sea surface layer,particulate matter,8.13665
+Tara Oceans,SAMEA2622823,"(-8.895,-142.6228),(-8.9111,-142.5571)",-8.895,-142.6228,marine biome,sea surface layer,saline water,8.01514
+Tara Oceans,SAMEA2622822,"(-8.895,-142.6228),(-8.9111,-142.5571)",-8.895,-142.6228,marine biome,sea surface layer,saline water,8.01514
+Tara Oceans,SAMEA2622821,"(-8.895,-142.6228),(-8.9111,-142.5571)",-8.895,-142.6228,marine biome,sea surface layer,saline water,8.01514
+Tara Oceans,SAMEA2622765,"(-9.1552,-140.5284),(-9.1504,-140.5216)",-9.1552,-140.5284,marine biome,sea surface layer,saline water,7.87071
+Tara Oceans,SAMEA2622764,"(-9.1552,-140.5284),(-9.1504,-140.5216)",-9.1552,-140.5284,marine biome,sea surface layer,saline water,7.87071
+Tara Oceans,SAMEA2622763,"(-9.1552,-140.5284),(-9.1504,-140.5216)",-9.1552,-140.5284,marine biome,sea surface layer,saline water,7.87071
+Tara Oceans,SAMEA2622716,"(-8.8951,-140.3174),(-8.9068,-140.283)",-8.8951,-140.3174,marine biome,sea surface layer,saline water,8.01243
+Tara Oceans,SAMEA2622715,"(-8.8951,-140.3174),(-8.9068,-140.283)",-8.8951,-140.3174,marine biome,sea surface layer,saline water,8.01243
+Tara Oceans,SAMEA2622658,"(-8.9721,-139.2742),(-8.9971,-139.1963)",-8.9721,-139.2742,marine biome,sea surface layer,saline water,7.47071
+Tara Oceans,SAMEA2622657,"(-8.9721,-139.2742),(-8.9971,-139.1963)",-8.9721,-139.2742,marine biome,sea surface layer,saline water,7.47071
+Tara Oceans,SAMEA2622656,"(-8.9721,-139.2742),(-8.9971,-139.1963)",-8.9721,-139.2742,marine biome,sea surface layer,saline water,7.47071
+Tara Oceans,SAMEA2621260,"(-30.1885,-43.2831),(-30.1367,-43.2899)",-30.1885,-43.2831,marine biome,sea surface layer,saline water,8.10137
+Tara Oceans,SAMEA2621259,"(-30.1885,-43.2831),(-30.1367,-43.2899)",-30.1885,-43.2831,marine biome,sea surface layer,saline water,8.10137
+Tara Oceans,SAMEA2621204,"(-21.0073,-35.3344),(-20.9354,-35.1803)",-21.0073,-35.3344,marine biome,sea surface layer,saline water,8.08471
+Tara Oceans,SAMEA2621203,"(-21.0073,-35.3344),(-20.9354,-35.1803)",-21.0073,-35.3344,marine biome,sea surface layer,saline water,8.08471
+Tara Oceans,SAMEA2621076,"(-20.3976,-3.2009),(-20.4091,-3.1759)",-20.3976,-3.2009,marine biome,sea surface layer,saline water,8.05776
+Tara Oceans,SAMEA2621075,"(-20.3976,-3.2009),(-20.4091,-3.1759)",-20.3976,-3.2009,marine biome,sea surface layer,saline water,8.05776
+Tara Oceans,SAMEA2621021,"(-31.0263,4.6977),(-31.0266,4.665)",-31.0263,4.6977,marine biome,sea surface layer,saline water,8.08702
+Tara Oceans,SAMEA2621020,"(-31.0263,4.6977),(-31.0266,4.665)",-31.0263,4.6977,marine biome,sea surface layer,saline water,8.08702
+Tara Oceans,SAMEA2620980,"(-32.1,17.7),(-32.2401,17.7103)",-32.1,17.7,marine biome,sea surface layer,saline water,8.0257
+Tara Oceans,SAMEA2620979,"(-32.1,17.7),(-32.2401,17.7103)",-32.1,17.7,marine biome,sea surface layer,saline water,8.0257
+Tara Oceans,SAMEA2619935,"(20.8151,63.5046),(20.8183,63.5047)",20.8151,63.5046,marine biome,sea surface layer,saline water,8.05426
+Tara Oceans,SAMEA2620373,"(-0.6623,73.1611),(-0.6625,73.161)",-0.6623,73.1611,marine biome,sea surface layer,saline water,8.01617
+Tara Oceans,SAMEA2619936,"(20.8151,63.5046),(20.8183,63.5047)",20.8151,63.5046,marine biome,sea surface layer,saline water,8.05426
+Tara Oceans,SAMEA2619808,"(27.1433,34.8033),(27.16,34.835)",27.1433,34.8033,marine biome,sea surface layer,saline water,8.08671
+Tara Oceans,SAMEA2623365,"(6.3315,-102.9484),(6.3332,-102.9432)",6.3315,-102.9484,marine biome,sea surface layer,saline water,8.07
+Tara Oceans,SAMEA2623290,"(14.2017,-116.6336),(14.2035,-116.6261)",14.2017,-116.6336,marine biome,sea surface layer,saline water,7.99483
+Tara Oceans,SAMEA2622832,"(-8.895,-142.6228),(-8.9111,-142.5571)",-8.895,-142.6228,marine biome,sea surface layer,saline water,8.01514
+Tara Oceans,SAMEA2622788,"(-9.1552,-140.5284),(-9.1504,-140.5216)",-9.1552,-140.5284,marine biome,sea surface layer,saline water,7.87071
+Tara Oceans,SAMEA2622725,"(-8.8951,-140.3174),(-8.9068,-140.283)",-8.8951,-140.3174,marine biome,sea surface layer,saline water,8.01243
+Tara Oceans,SAMEA2622667,"(-8.9721,-139.2742),(-8.9971,-139.1963)",-8.9721,-139.2742,marine biome,sea surface layer,saline water,7.47071
+Tara Oceans,SAMEA2622473,"(-16.9554,-100.6925),(-16.9601,-100.6335)",-16.9554,-100.6925,marine biome,sea surface layer,saline water,8.04974
+Tara Oceans,SAMEA2622190,"(-5.254,-85.2248),(-5.2529,-85.1545)",-5.254,-85.2248,marine biome,sea surface layer,saline water,7.90509
+Tara Oceans,SAMEA2620565,"(-17.2387,53.9775),(-16.957,53.9801)",-17.2387,53.9775,marine biome,sea surface layer,saline water,7.61233
+Tara Oceans,SAMEA2619872,"(22.1283,38.1967),(21.9467,38.2517)",22.1283,38.1967,marine biome,sea surface layer,saline water,7.80708
+Tara Oceans,SAMEA2622331,"(2.0596,-84.553),(1.9928,-84.5766)",2.0596,-84.553,marine biome,sea surface layer,saline water,8.02178
+Tara Oceans,SAMEA2621271,"(-30.1885,-43.2831),(-30.1367,-43.2899)",-30.1885,-43.2831,marine biome,sea surface layer,saline water,8.10137
+Tara Oceans,SAMEA2621213,"(-21.0073,-35.3344),(-20.9354,-35.1803)",-21.0073,-35.3344,marine biome,sea surface layer,saline water,8.08471
+Tara Oceans,SAMEA2621151,"(-8.7788,-17.9098),(-8.7789,-17.9099)",-8.7788,-17.9098,marine biome,sea surface layer,saline water,8.06029
+Tara Oceans,SAMEA2621085,"(-20.3976,-3.2009),(-20.4091,-3.1759)",-20.3976,-3.2009,marine biome,sea surface layer,saline water,8.05776
+Tara Oceans,SAMEA2621033,"(-31.0263,4.6977),(-31.0266,4.665)",-31.0263,4.6977,marine biome,sea surface layer,saline water,8.08702
+Tara Oceans,SAMEA2620991,"(-32.1,17.7),(-32.2401,17.7103)",-32.1,17.7,marine biome,sea surface layer,saline water,8.0257
+Tara Oceans,SAMEA2620947,"(-34.8986,18.03),(-34.9449,17.9189)",-34.8986,18.03,marine biome,sea surface layer,saline water,8.10696
+Tara Oceans,SAMEA2620812,"(-29.5023,37.9965),(-29.5019,37.9889)",-29.5023,37.9965,marine biome,sea surface layer,saline water,8.10394
+Tara Oceans,SAMEA2620384,"(-0.6623,73.1611),(-0.6625,73.161)",-0.6623,73.1611,marine biome,sea surface layer,saline water,8.01617
+Tara Oceans,SAMEA2619950,"(20.8151,63.5046),(20.8183,63.5047)",20.8151,63.5046,marine biome,sea surface layer,saline water,8.05426
+Tara Oceans,SAMEA2619838,"(23.4017,37.2183),(23.36,37.2183)",23.4017,37.2183,marine biome,sea surface layer,saline water,7.8452
+Tara Oceans,SAMEA2619815,"(27.1433,34.8033),(27.16,34.835)",27.1433,34.8033,marine biome,sea surface layer,saline water,8.08671
+Tara Oceans,SAMEA2619779,"(39.3599,19.4084),(39.3888,19.3905)",39.3599,19.4084,marine biome,sea surface layer,saline water,8.13665
+Tara Oceans,SAMEA2623886,"(43.6906,-16.8555),(43.6792,-16.8344)",43.6906,-16.8555,marine biome,sea surface layer,saline water,8.09486
+Tara Oceans,SAMEA2623850,"(36.139,-28.9598),(36.1715,-29.023)",36.139,-28.9598,marine biome,sea surface layer,saline water,8.09894
+Tara Oceans,SAMEA2623808,"(35.8591,-37.1728),(35.9346,-37.3032)",35.8591,-37.1728,marine biome,sea surface layer,saline water,8.11196
+Tara Oceans,SAMEA2623734,"(31.8366,-64.109),(31.6948,-64.2489)",31.8366,-64.109,marine biome,sea surface layer,saline water,8.10764
+Tara Oceans,SAMEA2623673,"(34.8341,-71.204),(34.6712,-71.3093)",34.8341,-71.204,marine biome,sea surface layer,saline water,8.11404
+Tara Oceans,SAMEA2623627,"(39.2173,-72.0327),(39.2305,-70.0377)",39.2173,-72.0327,marine biome,sea surface layer,saline water,7.8821
+Tara Oceans,SAMEA2623463,"(25.5416,-88.4044),(25.5264,-88.394)",25.5416,-88.4044,marine biome,sea surface layer,saline water,8.0769
+Tara Oceans,SAMEA2623446,"(9.846,-80.0607),(9.8481,-80.0454)",9.846,-80.0607,marine biome,sea surface layer,saline water,8.06296
+Tara Oceans,SAMEA2623426,"(7.416,-79.3102),(7.4122,-79.3017)",7.416,-79.3102,marine biome,sea surface layer,saline water,8.07801
+Tara Oceans,SAMEA2623350,"(6.3315,-102.9484),(6.3332,-102.9432)",6.3315,-102.9484,marine biome,sea surface layer,saline water,8.07
+Tara Oceans,SAMEA2623275,"(14.2017,-116.6336),(14.2035,-116.6261)",14.2017,-116.6336,marine biome,sea surface layer,saline water,7.99483
+Tara Oceans,SAMEA2622817,"(-8.895,-142.6228),(-8.9111,-142.5571)",-8.895,-142.6228,marine biome,sea surface layer,saline water,8.01514
+Tara Oceans,SAMEA2622759,"(-9.1552,-140.5284),(-9.1504,-140.5216)",-9.1552,-140.5284,marine biome,sea surface layer,saline water,7.87071
+Tara Oceans,SAMEA2622710,"(-8.8951,-140.3174),(-8.9068,-140.283)",-8.8951,-140.3174,marine biome,sea surface layer,saline water,8.01243
+Tara Oceans,SAMEA2622652,"(-8.9721,-139.2742),(-8.9971,-139.1963)",-8.9721,-139.2742,marine biome,sea surface layer,saline water,7.47071
+Tara Oceans,SAMEA2622518,"(-23.24,-129.4851),(-23.2811,-129.3947)",-23.24,-129.4851,marine biome,sea surface layer,saline water,7.79373
+Tara Oceans,SAMEA2622452,"(-16.9554,-100.6925),(-16.9601,-100.6335)",-16.9554,-100.6925,marine biome,sea surface layer,saline water,8.04974
+Tara Oceans,SAMEA2622376,"(-1.972,-84.601),(-2.0133,-84.589)",-1.972,-84.601,marine biome,sea surface layer,saline water,7.48487
+Tara Oceans,SAMEA2622316,"(2.0596,-84.553),(1.9928,-84.5766)",2.0596,-84.553,marine biome,sea surface layer,saline water,8.02178
+Tara Oceans,SAMEA2622173,"(-5.254,-85.2248),(-5.2529,-85.1545)",-5.254,-85.2248,marine biome,sea surface layer,saline water,7.90509
+Tara Oceans,SAMEA2621990,"(-25.8126,-111.7386),(-25.8051,-111.7202)",-25.8126,-111.7386,marine biome,sea surface layer,saline water,8.03111
+Tara Oceans,SAMEA2621859,"(-29.6749,-101.2137),(-29.7238,-101.1604)",-29.6749,-101.2137,marine biome,sea surface layer,saline water,8.02852
+Tara Oceans,SAMEA2621839,"(-32.7806,-87.0917),(-32.7971,-87.0693)",-32.7806,-87.0917,marine biome,sea surface layer,saline water,8.05285
+Tara Oceans,SAMEA2621779,"(-33.8785,-73.0369),(-34.0614,-73.1066)",-33.8785,-73.0369,marine biome,sea surface layer,saline water,8.09286
+Tara Oceans,SAMEA2621254,"(-30.1885,-43.2831),(-30.1367,-43.2899)",-30.1885,-43.2831,marine biome,sea surface layer,saline water,8.10137
+Tara Oceans,SAMEA2621198,"(-21.0073,-35.3344),(-20.9354,-35.1803)",-21.0073,-35.3344,marine biome,sea surface layer,saline water,8.08471
+Tara Oceans,SAMEA2621132,"(-8.7788,-17.9098),(-8.7789,-17.9099)",-8.7788,-17.9098,marine biome,sea surface layer,saline water,8.06029
+Tara Oceans,SAMEA2621066,"(-20.3976,-3.2009),(-20.4091,-3.1759)",-20.3976,-3.2009,marine biome,sea surface layer,saline water,8.05776
+Tara Oceans,SAMEA2621013,"(-31.0263,4.6977),(-31.0266,4.665)",-31.0263,4.6977,marine biome,sea surface layer,saline water,8.08702
+Tara Oceans,SAMEA2620970,"(-32.1,17.7),(-32.2401,17.7103)",-32.1,17.7,marine biome,sea surface layer,saline water,8.0257
+Tara Oceans,SAMEA2620929,"(-34.8986,18.03),(-34.9449,17.9189)",-34.8986,18.03,marine biome,sea surface layer,saline water,8.10696
+Tara Oceans,SAMEA2620786,"(-29.5023,37.9965),(-29.5019,37.9889)",-29.5023,37.9965,marine biome,sea surface layer,saline water,8.10394
+Tara Oceans,SAMEA2620542,"(-17.2387,53.9775),(-16.957,53.9801)",-17.2387,53.9775,marine biome,sea surface layer,saline water,7.61233
+Tara Oceans,SAMEA2619927,"(20.8151,63.5046),(20.8183,63.5047)",20.8151,63.5046,marine biome,sea surface layer,saline water,8.05426
+Tara Oceans,SAMEA2619857,"(22.1283,38.1967),(21.9467,38.2517)",22.1283,38.1967,marine biome,sea surface layer,saline water,7.80708
+Tara Oceans,SAMEA2619818,"(23.4017,37.2183),(23.36,37.2183)",23.4017,37.2183,marine biome,sea surface layer,saline water,7.8452
+Tara Oceans,SAMEA2619802,"(27.1433,34.8033),(27.16,34.835)",27.1433,34.8033,marine biome,sea surface layer,saline water,8.08671
+Tara Oceans,SAMEA2619766,"(39.3599,19.4084),(39.3888,19.3905)",39.3599,19.4084,marine biome,sea surface layer,saline water,8.13665
+Tara Oceans,SAMEA2732321,"(6.4959,-95.0499),(6.4946,-95.0463)",6.4959,-95.0499,marine biome,sea surface layer,particulate matter,7.98132
+Tara Oceans,SAMEA2731674,"(43.6879,-16.8523),(43.6858,-16.8474)",43.6879,-16.8523,marine biome,sea surface layer,particulate matter,8.09486
+Tara Oceans,SAMEA2732077,"(32.9596,-66.5519),(32.9701,-66.5548)",32.9596,-66.5519,marine biome,sea surface layer,particulate matter,8.11269
+Tara Oceans,SAMEA2621475,"(-54.3793,-65.0211),(-54.3739,-65.1342)",-54.3793,-65.0211,marine biome,sea surface layer,particulate matter,8.10457
+Tara Oceans,SAMEA2732954,"(-20.9786,-35.2841),(-20.9724,-35.2724)",-20.9786,-35.2841,marine biome,sea surface layer,particulate matter,8.08471
+Tara Oceans,SAMEA2731714,"(-8.7236,-17.9261),(-8.7277,-17.9235)",-8.7236,-17.9261,marine biome,sea surface layer,particulate matter,8.06029
+Tara Oceans,SAMEA2731338,"(-29.4993,37.994),(-29.4991,37.9938)",-29.4993,37.994,marine biome,sea surface layer,particulate matter,8.10394
+Tara Oceans,SAMEA2623683,"(34.8341,-71.204),(34.6712,-71.3093)",34.8341,-71.204,marine biome,sea surface layer,particulate matter,8.11404
+Tara Oceans,SAMEA2623541,"(29.7348,-79.6786),(29.6394,-79.5395)",29.7348,-79.6786,marine biome,sea surface layer,particulate matter,8.08884
+Tara Oceans,SAMEA2623481,"(25.5416,-88.4044),(25.5264,-88.394)",25.5416,-88.4044,marine biome,sea surface layer,particulate matter,8.0769
+Tara Oceans,SAMEA2623459,"(9.846,-80.0607),(9.8481,-80.0454)",9.846,-80.0607,marine biome,sea surface layer,particulate matter,8.06296
+Tara Oceans,SAMEA2623458,"(9.846,-80.0607),(9.8481,-80.0454)",9.846,-80.0607,marine biome,sea surface layer,particulate matter,8.06296
+Tara Oceans,SAMEA2623437,"(7.416,-79.3102),(7.4122,-79.3017)",7.416,-79.3102,marine biome,sea surface layer,particulate matter,8.07801
+Tara Oceans,SAMEA2623357,"(6.3315,-102.9484),(6.3332,-102.9432)",6.3315,-102.9484,marine biome,sea surface layer,particulate matter,8.07
+Tara Oceans,SAMEA2622995,"(11.24,-152.9931),(11.2723,-152.3711)",11.24,-152.9931,marine biome,sea surface layer,particulate matter,8.05152
+Tara Oceans,SAMEA2622646,"(-23.073,-135.018),(-23.073,-135.018)",-23.073,-135.018,marine biome,sea surface layer,particulate matter,8.07864
+Tara Oceans,SAMEA2622632,"(-23.1571,-135.018),(-23.1571,-135.018)",-23.1571,-135.018,marine biome,sea surface layer,particulate matter,8.03142
+Tara Oceans,SAMEA2622628,"(-23.1571,-135.018),(-23.1571,-135.018)",-23.1571,-135.018,marine biome,sea surface layer,particulate matter,8.03142
+Tara Oceans,SAMEA2622624,"(-23.2329,-134.9606),(-23.2329,-134.9606)",-23.2329,-134.9606,marine biome,sea surface layer,particulate matter,8.04205
+Tara Oceans,SAMEA2622619,"(-23.2317,-134.9611),(-23.2317,-134.9611)",-23.2317,-134.9611,marine biome,sea surface layer,particulate matter,8.05268
+Tara Oceans,SAMEA2731480,"(-23.1107,-134.9327),(-23.1107,-134.9329)",-23.1107,-134.9327,marine biome,sea surface layer,particulate matter,8.04161
+Tara Oceans,SAMEA2622603,"(-23.1107,-134.9327),(-23.1108,-134.9327)",-23.1107,-134.9327,marine biome,sea surface layer,particulate matter,8.04161
+Tara Oceans,SAMEA2622256,"(0.0422,-84.6168),(-0.0283,-84.5862)",0.0422,-84.6168,marine biome,sea surface layer,particulate matter,7.97007
+Tara Oceans,SAMEA2621924,"(-28.1483,-107.4542),(-28.1698,-107.3833)",-28.1483,-107.4542,marine biome,sea surface layer,particulate matter,8.03373
+Tara Oceans,SAMEA2621920,"(-28.1483,-107.4542),(-28.1698,-107.3833)",-28.1483,-107.4542,marine biome,sea surface layer,particulate matter,8.03373
+Tara Oceans,SAMEA2732161,"(-34.1726,-73.0898),(-34.1673,-73.0902)",-34.1726,-73.0898,marine biome,sea surface layer,particulate matter,8.07432
+Tara Oceans,SAMEA2621698,"(-57.7908,-66.9243),(-57.7338,-67.1084)",-57.7908,-66.9243,marine biome,sea surface layer,particulate matter,8.1004
+Tara Oceans,SAMEA2621694,"(-57.7908,-66.9243),(-57.7338,-67.1084)",-57.7908,-66.9243,marine biome,sea surface layer,particulate matter,8.1004
+Tara Oceans,SAMEA2621669,"(-63.3695,-56.814),(-63.4015,-56.7938)",-63.3695,-56.814,marine biome,sea surface layer,particulate matter,8.07576
+Tara Oceans,SAMEA2621665,"(-63.3695,-56.814),(-63.4015,-56.7938)",-63.3695,-56.814,marine biome,sea surface layer,particulate matter,8.07576
+Tara Oceans,SAMEA2621581,"(-64.3453,-53.0231),(-64.3595,-53.0063)",-64.3453,-53.0231,marine biome,sea surface layer,particulate matter,8.20545
+Tara Oceans,SAMEA2621472,"(-54.3793,-65.0211),(-54.3739,-65.1342)",-54.3793,-65.0211,marine biome,sea surface layer,particulate matter,8.10457
+Tara Oceans,SAMEA2621124,"(-9.2815,-9.6137),(-9.3,-9.5587)",-9.2815,-9.6137,marine biome,sea surface layer,particulate matter,8.06424
+Tara Oceans,SAMEA2620459,"(-21.4757,56.8133),(-21.4966,56.9011)",-21.4757,56.8133,marine biome,sea surface layer,particulate matter,8.06279
+Tara Oceans,SAMEA2730915,"(9.8416,-80.0663),(9.8432,-80.0621)",9.8416,-80.0663,marine biome,sea surface layer,particulate matter,8.06296
+Tara Oceans,SAMEA2730914,"(9.846,-80.054),(9.8466,-80.1338)",9.846,-80.054,marine biome,sea surface layer,particulate matter,8.06296
+Tara Oceans,SAMEA2623457,"(9.846,-80.0607),(9.8481,-80.0454)",9.846,-80.0607,marine biome,sea surface layer,particulate matter,8.06296
+Tara Oceans,SAMEA2730625,"(7.4236,-79.3215),(7.4236,-79.3211)",7.4236,-79.3215,marine biome,sea surface layer,particulate matter,8.07801
+Tara Oceans,SAMEA2730909,"(7.4174,-79.3017),(7.4169,-79.317)",7.4174,-79.3017,marine biome,sea surface layer,particulate matter,8.07801
+Tara Oceans,SAMEA2730908,"(6.416,-79.3102),(7.4161,-79.3071)",6.416,-79.3102,marine biome,sea surface layer,particulate matter,8.07801
+Tara Oceans,SAMEA2623439,"(7.416,-79.3102),(7.4122,-79.3017)",7.416,-79.3102,marine biome,sea surface layer,particulate matter,8.07801
+Tara Oceans,SAMEA2731583,"(-23.1,-135),(-23.0731,-135.0179)",-23.1,-135,marine biome,sea surface layer,particulate matter,8.07864
+Tara Oceans,SAMEA2731582,"(-23.1,-135),(-23.0731,-135.018)",-23.1,-135,marine biome,sea surface layer,particulate matter,8.07864
+Tara Oceans,SAMEA2732834,"(-32.7971,-87.0857),(-32.7969,-87.086)",-32.7971,-87.0857,marine biome,sea surface layer,particulate matter,8.05285
+Tara Oceans,SAMEA2732773,"(-32.7959,-87.0874),(-32.7954,-87.0839)",-32.7959,-87.0874,marine biome,sea surface layer,particulate matter,8.05285
+Tara Oceans,SAMEA2732772,"(-32.733,-87.1005),(-32.7404,-87.0992)",-32.733,-87.1005,marine biome,sea surface layer,particulate matter,8.05285
+Tara Oceans,SAMEA2621844,"(-32.7806,-87.0917),(-32.7971,-87.0693)",-32.7806,-87.0917,marine biome,sea surface layer,particulate matter,8.05285
+Tara Oceans,SAMEA2732238,"(-34.1736,-73.075),(-34.173,-73.0814)",-34.1736,-73.075,marine biome,sea surface layer,particulate matter,8.07432
+Tara Oceans,SAMEA2732187,"(-34.1693,-73.0886),(-34.1684,-73.0906)",-34.1693,-73.0886,marine biome,sea surface layer,particulate matter,8.07432
+Tara Oceans,SAMEA2621748,"(-34.1866,-73.0712),(-34.161,-73.0995)",-34.1866,-73.0712,marine biome,sea surface layer,particulate matter,8.07432
+Tara Oceans,SAMEA2732768,"(-39.5725,-76.9967),(-39.5788,-76.9941)",-39.5725,-76.9967,marine biome,sea surface layer,particulate matter,8.09341
+Tara Oceans,SAMEA2732691,"(-39.5979,-76.9839),(-39.6049,-76.9812)",-39.5979,-76.9839,marine biome,sea surface layer,particulate matter,8.09341
+Tara Oceans,SAMEA2621726,"(-39.5283,-77.0165),(-39.6466,-76.9634)",-39.5283,-77.0165,marine biome,sea surface layer,particulate matter,8.09341
+Tara Oceans,SAMEA2621724,"(-39.5283,-77.0165),(-39.6466,-76.9634)",-39.5283,-77.0165,marine biome,sea surface layer,particulate matter,8.09341
+Tara Oceans,SAMEA2732833,"(-63.3795,-56.8056),(-63.3815,-56.8047)",-63.3795,-56.8056,marine biome,sea surface layer,particulate matter,8.07576
+Tara Oceans,SAMEA2732765,"(-63.3918,-56.7978),(-63.3944,-56.7958)",-63.3918,-56.7978,marine biome,sea surface layer,particulate matter,8.07576
+Tara Oceans,SAMEA2621667,"(-63.3695,-56.814),(-63.4015,-56.7938)",-63.3695,-56.814,marine biome,sea surface layer,particulate matter,8.07576
+Tara Oceans,SAMEA2731966,"(-9.2599,-9.6848),(-9.2612,-9.68)",-9.2599,-9.6848,marine biome,sea surface layer,particulate matter,8.06424
+Tara Oceans,SAMEA2731962,"(-9.628,-9.628),(-9.28,-9.6193)",-9.628,-9.628,marine biome,sea surface layer,particulate matter,8.06424
+Tara Oceans,SAMEA2731877,"(-9.2931,-9.575),(-9.2942,-9.5714)",-9.2931,-9.575,marine biome,sea surface layer,particulate matter,8.06424
+Tara Oceans,SAMEA2621126,"(-9.2815,-9.6137),(-9.3,-9.5587)",-9.2815,-9.6137,marine biome,sea surface layer,particulate matter,8.06424
+Tara Oceans,SAMEA2730982,"(-21.4779,56.8242),(-21.4788,56.8291)",-21.4779,56.8242,marine biome,sea surface layer,particulate matter,8.06279
+Tara Oceans,SAMEA2730728,"(-21.4924,56.8828),(-21.493,56.8858)",-21.4924,56.8828,marine biome,sea surface layer,particulate matter,8.06279
+Tara Oceans,SAMEA2620457,"(-21.4757,56.8133),(-21.4966,56.9011)",-21.4757,56.8133,marine biome,sea surface layer,particulate matter,8.06279
+Tara Oceans,SAMEA2622772,"(-9.1552,-140.5284),(-9.1504,-140.5216)",-9.1552,-140.5284,marine biome,sea surface layer,particulate matter,7.87071
+Tara Oceans,SAMEA2619944,"(20.8151,63.5046),(20.8183,63.5047)",20.8151,63.5046,marine biome,sea surface layer,particulate matter,8.05426
+Tara Oceans,SAMEA2619833,"(23.4017,37.2183),(23.36,37.2183)",23.4017,37.2183,marine biome,sea surface layer,particulate matter,7.8452
+Tara Oceans,SAMEA2623622,"(36.3473,-72.7081),(36.4121,-72.9289)",36.3473,-72.7081,marine biome,marine mesopelagic zone,particulate matter,8.05812
+Tara Oceans,SAMEA2620377,"(-0.6623,73.1611),(-0.6625,73.161)",-0.6623,73.1611,marine biome,sea surface layer,particulate matter,8.01617
+Tara Oceans,SAMEA2620932,"(-34.8986,18.03),(-34.9449,17.9189)",-34.8986,18.03,marine biome,sea surface layer,saline water,8.10696
+Tara Oceans,SAMEA2620372,"(-0.6623,73.1611),(-0.6625,73.161)",-0.6623,73.1611,marine biome,sea surface layer,saline water,8.01617
+Tara Oceans,SAMEA2623851,"(36.139,-28.9598),(36.1715,-29.023)",36.139,-28.9598,marine biome,sea surface layer,saline water,8.09894
+Tara Polar Circle Expedition,SAMEA4398193,"(70.9706,-53.5968),(70.9574,-53.5989)",70.9706,-53.5968,polar biome,marine layer,liquid water,7.973
+Tara Polar Circle Expedition,SAMEA4398111,"(72.4769,-71.9329),(72.4693,-71.892)",72.4769,-71.9329,polar biome,marine layer,liquid water,7.898
+Tara Polar Circle Expedition,SAMEA4398027,"(74.3218,-85.9117),(74.2987,-85.7806)",74.3218,-85.9117,polar biome,marine layer,liquid water,7.802
+Tara Polar Circle Expedition,SAMEA4398001,"(74.3047,-85.7415),(74.305,-85.6552)",74.3047,-85.7415,polar biome,marine mesopelagic zone,liquid water,7.705
+Tara Polar Circle Expedition,SAMEA4397948,"(71.9208,-154.9367),(71.8895,-154.9101)",71.9208,-154.9367,polar biome,marine layer,liquid water,7.913
+Tara Polar Circle Expedition,SAMEA4397859,"(73.3833,-168.3333),(73.3833,-168.1333)",73.3833,-168.3333,polar biome,marine layer,liquid water,7.963
+Tara Polar Circle Expedition,SAMEA4397815,"(71.0704,174.9916)",71.0704,174.9916,polar biome,marine layer,liquid water,7.964
+Tara Polar Circle Expedition,SAMEA4397772,"(71.5439,160.9423),(71.5955,160.9383)",71.5439,160.9423,polar biome,marine layer,liquid water,7.74
+Tara Polar Circle Expedition,SAMEA4397666,"(77.9295,116.9938),(77.9028,117.1545)",77.9295,116.9938,polar biome,marine layer,liquid water,7.857
+Tara Polar Circle Expedition,SAMEA4397586,"(78.3192,91.7203),(78.2518,91.8557)",78.3192,91.7203,polar biome,marine layer,liquid water,7.952
+Tara Polar Circle Expedition,SAMEA4397489,"(74.7997,76.0879),(74.8023,76.1478)",74.7997,76.0879,polar biome,marine layer,liquid water,7.816
+Tara Polar Circle Expedition,SAMEA4397445,"(77.3025,73.2438),(77.1604,73.2057)",77.3025,73.2438,polar biome,marine layer,liquid water,7.996
+Tara Polar Circle Expedition,SAMEA4397330,"(79.2023,66.5078),(79.2233,66.3435)",79.2023,66.5078,polar biome,marine layer,liquid water,7.983
+Tara Polar Circle Expedition,SAMEA4397255,"(78.9222,79.2246),(78.9564,79.4201)",78.9222,79.2246,polar biome,marine layer,liquid water,8.051
+Tara Polar Circle Expedition,SAMEA4397118,"(72.6601,44.1569),(72.5128,44.0775)",72.6601,44.1569,polar biome,marine layer,liquid water,8.016
+Tara Polar Circle Expedition,SAMEA4397051,"(76.1663,1.8689),(76.1825,1.3918)",76.1663,1.8689,polar biome,marine layer,liquid water,8.006
+Tara Polar Circle Expedition,SAMEA4396941,"(67.1385,0.2443),(67.141,0.2355)",67.1385,0.2443,polar biome,marine layer,liquid water,7.852
+Tara Polar Circle Expedition,SAMEA4396441,"(54.5745,-16.8264),(54.5305,-16.9377)",54.5745,-16.8264,marine biome,marine layer,liquid water,7.948
