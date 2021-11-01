@@ -1,0 +1,1064 @@
+﻿Project Name,Sample ID,Depth,Biome,Environmental Feature,Environmental Material,Nitrate,Phosphate,Silicic Acid
+CDEBI Juan de Fuca Ridge Flank,SAMN03166097,2644,marine abyssal zone biome,oceanic zone,sea water,40.7,2.93,162
+CDEBI Juan de Fuca Ridge Flank,SAMN03166099,2650,marine abyssal zone biome,oceanic zone,sea water,41.3,2.95,183
+CDEBI Juan de Fuca Ridge Flank,SAMN03166100,2650,marine abyssal zone biome,oceanic zone,sea water,41.3,2.95,183
+CDEBI Juan de Fuca Ridge Flank,SAMN03166101,2650,marine abyssal zone biome,oceanic zone,sea water,41.3,2.95,183
+CDEBI Juan de Fuca Ridge Flank,SAMN03166102,2571,marine abyssal zone biome,oceanic zone,sea water,27.3,2.14,104
+CDEBI Juan de Fuca Ridge Flank,SAMN03166103,2571,marine abyssal zone biome,oceanic zone,sea water,27.3,2.14,104
+CDEBI Juan de Fuca Ridge Flank,SAMN03166104,2571,marine abyssal zone biome,oceanic zone,sea water,27.3,2.14,104
+CDEBI Juan de Fuca Ridge Flank,SAMN03166105,2648,marine abyssal zone biome,oceanic zone,sea water,40.3,2.8,174
+CDEBI Juan de Fuca Ridge Flank,SAMN03166106,2648,marine abyssal zone biome,oceanic zone,sea water,40.3,2.8,174
+CDEBI Juan de Fuca Ridge Flank,SAMN03166107,2648,marine abyssal zone biome,oceanic zone,sea water,40.3,2.8,174
+CDEBI Juan de Fuca Ridge Flank,SAMN03166108,2575,marine abyssal zone biome,oceanic zone,sea water,41,2.8,166
+CDEBI Juan de Fuca Ridge Flank,SAMN03166109,2575,marine abyssal zone biome,oceanic zone,sea water,41,2.8,166
+CDEBI Juan de Fuca Ridge Flank,SAMN03166113,2661,marine abyssal zone biome,oceanic zone,sea water,42.4,2.7,188
+CDEBI Juan de Fuca Ridge Flank,SAMN03166114,2661,marine abyssal zone biome,oceanic zone,sea water,42.4,2.7,188
+CDEBI Juan de Fuca Ridge Flank,SAMN03166115,2500,marine abyssal zone biome,oceanic zone,sea water,42.8,2.7,177
+CDEBI Juan de Fuca Ridge Flank,SAMN03166116,2500,marine abyssal zone biome,oceanic zone,sea water,42.8,2.7,177
+GOS,SAMEA3512125,35,ocean biome,coastal water body,sea water,25.949,2.268,27.099
+GOS,SAMEA3512124,35,ocean biome,coastal water body,sea water,25.949,2.268,27.099
+GOS,SAMEA3512123,35,ocean biome,coastal water body,sea water,25.949,2.268,27.099
+GOS,SAMEA3512131,50.5,ocean biome,coastal water body,sea water,29.151,2.039,27.144
+GOS,SAMEA3512130,50.5,ocean biome,coastal water body,sea water,29.151,2.039,27.144
+GOS,SAMEA3512129,50.5,ocean biome,coastal water body,sea water,29.151,2.039,27.144
+GOS,SAMEA3512137,17,ocean biome,coastal water body,sea water,0.252,0.035,1.171
+GOS,SAMEA3512136,17,ocean biome,coastal water body,sea water,0.252,0.035,1.171
+GOS,SAMEA3512135,17,ocean biome,coastal water body,sea water,0.252,0.035,1.171
+GOS,SAMEA3512140,2,ocean biome,coastal water body,sea water,0.559,0.025,1.576
+GOS,SAMEA3512139,2,ocean biome,coastal water body,sea water,0.559,0.025,1.576
+GOS,SAMEA3512138,2,ocean biome,coastal water body,sea water,0.559,0.025,1.576
+GOS,SAMEA3512143,70,ocean biome,coastal water body,sea water,1.365,0.202,2.078
+GOS,SAMEA3512142,70,ocean biome,coastal water body,sea water,1.365,0.202,2.078
+GOS,SAMEA3512141,70,ocean biome,coastal water body,sea water,1.365,0.202,2.078
+GOS,SAMEA3512150,17,ocean biome,coastal water body,sea water,2.63,0.032,1.241
+GOS,SAMEA3512149,17,ocean biome,coastal water body,sea water,2.63,0.032,1.241
+GOS,SAMEA3512186,0.304878,ocean biome,coastal water body,sea water,0.693,0.062,130.335
+GOS,SAMEA3512128,8,ocean biome,coastal water body,sea water,1.436,0.586,3.078
+GOS,SAMEA3512127,8,ocean biome,coastal water body,sea water,1.436,0.586,3.078
+GOS,SAMEA3512126,8,ocean biome,coastal water body,sea water,1.436,0.586,3.078
+GOS,SAMEA3512134,20,ocean biome,coastal water body,sea water,5.182,0.509,6.13
+GOS,SAMEA3512133,20,ocean biome,coastal water body,sea water,5.182,0.509,6.13
+GOS,SAMEA3512132,20,ocean biome,coastal water body,sea water,5.182,0.509,6.13
+GOS,SAMEA3512153,1,freshwater lake biome,freshwater lake,fresh water,37.875,0.037,17.525
+GOS,SAMEA3512152,1,freshwater lake biome,freshwater lake,fresh water,37.875,0.037,17.525
+GOS,SAMEA3512151,1,freshwater lake biome,freshwater lake,fresh water,37.875,0.037,17.525
+GOS,SAMEA3512156,9,freshwater lake biome,freshwater lake,fresh water,39.813,0.045,23.473
+GOS,SAMEA3512155,9,freshwater lake biome,freshwater lake,fresh water,39.813,0.045,23.473
+GOS,SAMEA3512154,9,freshwater lake biome,freshwater lake,fresh water,39.813,0.045,23.473
+HOT ALOHA time/depth series,SAMN05991650,25.8351,marine biome,marine wind mixed layer,sea water,3.082,0.092124,1.08502
+HOT ALOHA time/depth series,SAMN05991651,45.7061,marine biome,marine wind mixed layer,sea water,2.146,0.081888,1.11572
+HOT ALOHA time/depth series,SAMN05991652,75.5089,marine biome,marine wind mixed layer,sea water,2.661,0.092124,1.10549
+HOT ALOHA time/depth series,SAMN05991653,125.17,marine biome,marine wind mixed layer,sea water,0.193,0.106336,1.2331
+HOT ALOHA time/depth series,SAMN05991654,200.632,marine biome,oceanic zone,sea water,0.815,0.15354,1.97555
+HOT ALOHA time/depth series,SAMN05991655,500.226,marine biome,marine mesopelagic zone,sea water,29.157,2.26216,46.0006
+HOT ALOHA time/depth series,SAMN05991656,769.687,marine biome,marine mesopelagic zone,sea water,40.433,3.02986,93.8744
+HOT ALOHA time/depth series,SAMN05991657,999.246,marine biome,marine mesopelagic zone,sea water,40.676,3.05033,111.429
+HOT ALOHA time/depth series,SAMN05991658,25.8351,marine biome,marine wind mixed layer,sea water,1.576,0.081888,1.1669
+HOT ALOHA time/depth series,SAMN05991659,45.7061,marine biome,marine wind mixed layer,sea water,1.252,0.10236,1.12596
+HOT ALOHA time/depth series,SAMN05991660,75.5089,marine biome,marine wind mixed layer,sea water,1.146,0.10236,1.18738
+HOT ALOHA time/depth series,SAMN05991661,125.17,marine biome,marine wind mixed layer,sea water,1.358,0.133068,1.47398
+HOT ALOHA time/depth series,SAMN05991662,200.633,marine biome,oceanic zone,sea water,2.118,0.143304,1.96531
+HOT ALOHA time/depth series,SAMN05991663,500.227,marine biome,marine mesopelagic zone,sea water,30.172,2.24168,46.1234
+HOT ALOHA time/depth series,SAMN05991664,769.688,marine biome,marine mesopelagic zone,sea water,39.982,3.02986,92.4925
+HOT ALOHA time/depth series,SAMN05991665,999.247,marine biome,marine mesopelagic zone,sea water,41.576,3.05033,113.057
+HOT ALOHA time/depth series,SAMN05991666,25.8352,marine biome,marine wind mixed layer,sea water,1.959,0.071652,1.09525
+HOT ALOHA time/depth series,SAMN05991667,45.7061,marine biome,marine wind mixed layer,sea water,1.957,0.071652,1.08502
+HOT ALOHA time/depth series,SAMN05991668,75.509,marine biome,marine wind mixed layer,sea water,1.717,0.071652,1.18738
+HOT ALOHA time/depth series,SAMN05991669,200.634,marine biome,oceanic zone,sea water,1.119,0.143304,1.92437
+HOT ALOHA time/depth series,SAMN05991670,500.228,marine biome,marine mesopelagic zone,sea water,29.912,2.31334,48.2116
+HOT ALOHA time/depth series,SAMN05991671,769.691,marine biome,marine mesopelagic zone,sea water,40.279,2.99915,93.5263
+HOT ALOHA time/depth series,SAMN05991672,999.25,marine biome,marine mesopelagic zone,sea water,43.249,3.05033,114.561
+HOT ALOHA time/depth series,SAMN05991673,25.8351,marine biome,marine wind mixed layer,sea water,2.225,0.112596,1.11572
+HOT ALOHA time/depth series,SAMN05991674,45.7061,marine biome,marine wind mixed layer,sea water,2.292,0.10236,1.12596
+HOT ALOHA time/depth series,SAMN05991675,75.5088,marine biome,marine wind mixed layer,sea water,2.902,0.10236,1.1362
+HOT ALOHA time/depth series,SAMN05991676,125.171,marine biome,marine wind mixed layer,sea water,1.956,0.112596,1.06454
+HOT ALOHA time/depth series,SAMN05991677,500.226,marine biome,marine mesopelagic zone,sea water,31.533,2.20074,46.6352
+HOT ALOHA time/depth series,SAMN05991678,769.687,marine biome,marine mesopelagic zone,sea water,42.169,3.15269,102.718
+HOT ALOHA time/depth series,SAMN05991679,999.246,marine biome,marine mesopelagic zone,sea water,42.289,3.09127,116.823
+HOT ALOHA time/depth series,SAMN05991680,25.8353,marine biome,marine wind mixed layer,sea water,2.622,0.040944,0.911004
+HOT ALOHA time/depth series,SAMN05991681,125.171,marine biome,marine wind mixed layer,sea water,2.027,0.081888,1.48422
+HOT ALOHA time/depth series,SAMN05991682,200.635,marine biome,oceanic zone,sea water,5.191,0.327552,3.93062
+HOT ALOHA time/depth series,SAMN05991683,500.226,marine biome,marine mesopelagic zone,sea water,29.819,2.17003,45.7447
+HOT ALOHA time/depth series,SAMN05991684,769.687,marine biome,marine mesopelagic zone,sea water,43.078,3.12198,102.288
+HOT ALOHA time/depth series,SAMN05991685,999.246,marine biome,marine mesopelagic zone,sea water,42.822,3.08104,113.149
+HOT ALOHA time/depth series,SAMN05991686,25.8352,marine biome,marine wind mixed layer,sea water,0.814,0.10236,0.951948
+HOT ALOHA time/depth series,SAMN05991687,75.5092,marine biome,marine wind mixed layer,sea water,0.662,0.081888,0.890532
+HOT ALOHA time/depth series,SAMN05991688,125.171,marine biome,marine wind mixed layer,sea water,-0.149,0.112596,1.35115
+HOT ALOHA time/depth series,SAMN05991689,200.634,marine biome,oceanic zone,sea water,2.508,0.133068,2.03696
+HOT ALOHA time/depth series,SAMN05991690,500.225,marine biome,marine mesopelagic zone,sea water,28.161,2.12909,45.4376
+HOT ALOHA time/depth series,SAMN05991691,769.685,marine biome,marine mesopelagic zone,sea water,41.416,3.06056,91.8169
+HOT ALOHA time/depth series,SAMN05991692,999.243,marine biome,marine mesopelagic zone,sea water,42.295,3.0708,104.295
+HOT ALOHA time/depth series,SAMN05991693,25.8352,marine biome,marine wind mixed layer,sea water,1.868,0.030708,0.788172
+HOT ALOHA time/depth series,SAMN05991694,75.509,marine biome,marine wind mixed layer,sea water,2.691,0.020472,0.900768
+HOT ALOHA time/depth series,SAMN05991695,125.171,marine biome,marine wind mixed layer,sea water,0.95,0.040944,1.60705
+HOT ALOHA time/depth series,SAMN05991696,200.634,marine biome,oceanic zone,sea water,3.568,0.225192,3.94086
+HOT ALOHA time/depth series,SAMN05991697,500.228,marine biome,marine mesopelagic zone,sea water,31.54,2.28263,50.6477
+HOT ALOHA time/depth series,SAMN05991698,769.69,marine biome,marine mesopelagic zone,sea water,40.856,3.0708,90.0768
+HOT ALOHA time/depth series,SAMN05991699,999.25,marine biome,marine mesopelagic zone,sea water,42.604,3.0708,106.25
+HOT ALOHA time/depth series,SAMN05991700,25.8352,marine biome,marine wind mixed layer,sea water,2.243,0.092124,1.07478
+HOT ALOHA time/depth series,SAMN05991701,75.5091,marine biome,marine wind mixed layer,sea water,2.37,0.112596,1.14643
+HOT ALOHA time/depth series,SAMN05991702,125.171,marine biome,marine wind mixed layer,sea water,2.781,0.086826,1.01228
+HOT ALOHA time/depth series,SAMN05991703,200.634,marine biome,oceanic zone,sea water,3.863,0.266136,2.58971
+HOT ALOHA time/depth series,SAMN05991704,500.227,marine biome,marine mesopelagic zone,sea water,33.367,2.59994,56.8405
+HOT ALOHA time/depth series,SAMN05991705,769.688,marine biome,marine mesopelagic zone,sea water,42.072,3.02986,92.8098
+HOT ALOHA time/depth series,SAMN05991706,999.247,marine biome,marine mesopelagic zone,sea water,42.359,3.05033,107.089
+HOT ALOHA time/depth series,SAMN05991707,25.8353,marine biome,marine wind mixed layer,sea water,2.261,0.020472,0.911004
+HOT ALOHA time/depth series,SAMN05991708,75.5093,marine biome,marine wind mixed layer,sea water,1.528,0.030708,1.15667
+HOT ALOHA time/depth series,SAMN05991709,125.171,marine biome,marine wind mixed layer,sea water,2.596,0.10236,1.50469
+HOT ALOHA time/depth series,SAMN05991710,200.634,marine biome,oceanic zone,sea water,5.777,0.296844,3.55189
+HOT ALOHA time/depth series,SAMN05991711,500.229,marine biome,marine mesopelagic zone,sea water,29.98,2.08814,46.1644
+HOT ALOHA time/depth series,SAMN05991712,769.691,marine biome,marine mesopelagic zone,sea water,41.819,3.04009,102.176
+HOT ALOHA time/depth series,SAMN05991713,999.246,marine biome,marine mesopelagic zone,sea water,42.978,3.05033,114.612
+HOT ALOHA time/depth series,SAMN05991714,25.8352,marine biome,marine wind mixed layer,sea water,1.649,0.040944,0.982656
+HOT ALOHA time/depth series,SAMN05991715,75.509,marine biome,marine wind mixed layer,sea water,1.577,0.0286055,1.0623
+HOT ALOHA time/depth series,SAMN05991716,125.171,marine biome,marine wind mixed layer,sea water,3.195,0.133068,1.63776
+HOT ALOHA time/depth series,SAMN05991717,200.633,marine biome,oceanic zone,sea water,4.309,0.2559,3.5826
+HOT ALOHA time/depth series,SAMN05991718,500.226,marine biome,marine mesopelagic zone,sea water,29.385,2.20074,46.6762
+HOT ALOHA time/depth series,SAMN05991719,769.687,marine biome,marine mesopelagic zone,sea water,41.901,3.0708,99.2483
+HOT ALOHA time/depth series,SAMN05991720,999.246,marine biome,marine mesopelagic zone,sea water,42.838,3.04009,115.82
+HOT ALOHA time/depth series,SAMN05991721,25.8351,marine biome,marine wind mixed layer,sea water,2.877,0.061416,1.01336
+HOT ALOHA time/depth series,SAMN05991722,75.5089,marine biome,marine wind mixed layer,sea water,1.898,0.05118,0.97242
+HOT ALOHA time/depth series,SAMN05991723,125.171,marine biome,marine wind mixed layer,sea water,2.232,0.081888,1.24879
+HOT ALOHA time/depth series,SAMN05991724,200.633,marine biome,oceanic zone,sea water,5.167,0.30708,3.53142
+HOT ALOHA time/depth series,SAMN05991725,500.226,marine biome,marine mesopelagic zone,sea water,29.002,2.05744,44.7108
+HOT ALOHA time/depth series,SAMN05991726,769.687,marine biome,marine mesopelagic zone,sea water,41.405,3.09127,99.3506
+HOT ALOHA time/depth series,SAMN05991727,999.246,marine biome,marine mesopelagic zone,sea water,42.713,3.12198,114.305
+HOT ALOHA time/depth series,SAMN05991728,25.8351,marine biome,marine wind mixed layer,sea water,1.515,0.071652,1.01336
+HOT ALOHA time/depth series,SAMN05991729,75.5089,marine biome,marine wind mixed layer,sea water,1.352,0.071652,1.03384
+HOT ALOHA time/depth series,SAMN05991730,125.171,marine biome,marine wind mixed layer,sea water,0.902,0.092124,1.44328
+HOT ALOHA time/depth series,SAMN05991731,200.634,marine biome,oceanic zone,sea water,2.895,0.235428,2.59994
+HOT ALOHA time/depth series,SAMN05991732,500.226,marine biome,marine mesopelagic zone,sea water,30.956,2.1598,47.3006
+HOT ALOHA time/depth series,SAMN05991733,769.687,marine biome,marine mesopelagic zone,sea water,42.795,3.06056,102.831
+HOT ALOHA time/depth series,SAMN05991734,999.246,marine biome,marine mesopelagic zone,sea water,44.428,3.04009,115.882
+HOT DeLong,SAMN02798443,500.225,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,33.17,2.22121,50.0438
+HOT DeLong,SAMN02798445,500.226,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,27.294,2.12909,42.6739
+HOT DeLong,SAMN02798446,500.225,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,28.255,2.40546,55.1004
+HOT DeLong,SAMN02798447,500.228,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,21.371,2.22121,49.3682
+HOT DeLong,SAMN02798448,500.228,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,28.878,2.01649,41.8345
+HOT DeLong,SAMN02798449,500.224,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,25.666,1.86295,41.333
+HOT DeLong,SAMN02798450,500.227,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,29.369,1.97555,41.9881
+HOT DeLong,SAMN02798451,500.225,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,30.907,2.05744,42.1109
+HOT DeLong,SAMN02798452,500.224,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,28.285,2.08814,45.0077
+HOT DeLong,SAMN02798453,500.225,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,32.111,2.18027,44.0762
+HOT DeLong,SAMN02798454,500.225,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,33.855,2.3031,50.054
+HOT DeLong,SAMN02798455,500.229,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,30.714,2.13932,47.5667
+HOT DeLong,SAMN02798456,500.228,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,33.604,2.23145,47.3108
+HOT DeLong,SAMN02798457,500.227,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,27.85,1.88342,40.2889
+HOT DeLong,SAMN02798458,500.226,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,30.58,2.11885,48.099
+HOT DeLong,SAMN02798459,500.226,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,32.028,1.99602,43.1959
+HOT DeLong,SAMN02798460,500.225,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,30.261,2.20074,46.8604
+HOT DeLong,SAMN02798461,500.227,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,29.124,2.1598,43.6361
+HOT DeLong,SAMN02798462,500.226,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,30.022,2.08814,41.4967
+HOT DeLong,SAMN02798463,500.226,oceanic epipelagic zone biome,marine mesopelagic zone,sea water,32.297,2.25192,52.1831
+OSD,SAMEA3275603,0,mediterranean sea biome,lagoon,brackish water,1.75,0.165,13.37
+OSD,SAMEA3275576,0,mediterranean sea biome,lagoon,brackish water,7.69,0.24,14.07
+OSD,SAMEA3275571,1,estuarine biome,estuary,coastal sea water,12.16,3.52,12.08
+OSD,SAMEA3275570,1,estuarine biome,estuary,coastal sea water,58.92,3.96,21.17
+OSD,SAMEA3275484,2,marine biome,sea,coastal sea water,0.123,4.563,3.83
+OSD,SAMEA3275645,0,neritic epipelagic zone biome,coastal water body,coastal sea water,1.3,0.1,0.9
+OSD,SAMEA3275535,1,marine biome,ocean,mesotrophic water,0.8675,0.1275,1.6225
+OSD,SAMEA3282985,39,marine biome,pelagic isothermal surface,mesotrophic water,1.4225,0.65,6.135
+OSD,SAMEA3275639,75,oceanic epipelagic zone biome,deep chlorophyll maximum layer,oligotrophic water,0.34,0.27,0.74
+OSD,SAMEA3275547,1,oceanic epipelagic zone biome,sea,oligotrophic water,0.05,0.01,0.68
+OSD,SAMEA3275640,1,oceanic epipelagic zone biome,sea,oligotrophic water,0.17,0.07,0.47
+OSD,SAMEA3275600,0,marine biome,bay,sea water,1.6,0.16,1.63
+OSD,SAMEA3275548,20,marine biome,deep chlorophyll maximum layer,sea water,0.16,0.05,0.82
+OSD,SAMEA3275609,1,marine biome,marine algal bloom,sea water,0.3,0.931,37.1
+OSD,SAMEA3275607,0,marine biome,ocean,sea water,0.07,0.18,0.5
+OSD,SAMEA3275506,5,marine biome,sea,sea water,5.4,0.85,3.8
+OSD,SAMEA3275490,2,marine biome,sea,sea water,0.274,0.034,1.664
+OSD,SAMEA3275483,0.1,marine biome,sea,sea water,3.842,1.426,7.554
+OSD,SAMEA3275643,0,marine biome,sea,sea water,2.86,0.1,3.37
+OSD,SAMEA3275579,0,marine biome,sea,sea water,6.17,0.06,5.52
+OSD,SAMEA3275573,0.8,marine biome,sea,sea water,0.03,0.03,5.95
+OSD,SAMEA3275568,0.5,marine biome,sea,sea water,4.8,0.31,3.8
+OSD,SAMEA3275567,0.5,marine biome,sea,sea water,7.4,0.6,4.67
+OSD,SAMEA3275549,1,marine biome,sea,sea water,2.321,0.012,3.496
+OSD,SAMEA3275498,1,marine pelagic biome,bay,sea water,1,0.04,4.8
+OSD,SAMEA3275468,0,marine pelagic biome,ocean,sea water,0.1,0.1,1.7
+OSD,SAMEA3275466,0,marine pelagic biome,ocean,sea water,0.5383,0.123,0.425
+OSD,SAMEA3275619,1,marine pelagic biome,ocean,sea water,0.2451,0.1206,0.3693
+OSD,SAMEA3275618,1,marine pelagic biome,ocean,sea water,0.0665,0.0693,0.2857
+OSD,SAMEA3275617,1,marine pelagic biome,ocean,sea water,3.0343,0.3081,0.6984
+OSD,SAMEA3275467,0,marine pelagic biome,sea,sea water,0.102,0.0539,0.4009
+OSD,SAMEA3275465,0,marine pelagic biome,sea,sea water,0.2596,0.3583,5.1682
+OSD,SAMEA3275575,0,mediterranean sea biome,coastal inlet,sea water,3.81,0.145,12.96
+OSD,SAMEA3275602,0,mediterranean sea biome,coastal water body,sea water,4.89,0.09,6.33
+OSD,SAMEA3275633,2,mediterranean sea biome,sea,sea water,0.02,0.01,0.6
+OSD,SAMEA3275629,75,mediterranean sea biome,sea,sea water,0.2,0.03,1.13
+OSD,SAMEA3275642,0,mediterranean sea biome,sea,sea water,0.59,0.24,1.86
+OSD,SAMEA3275625,1,mediterranean sea biome,sea,sea water,0.026,0.16,1.729
+Tara Oceans,SAMEA2731676,5,marine biome,sea surface layer,particulate matter,2.99923,0.1595,1.236
+Tara Oceans,SAMEA2732078,5,marine biome,sea surface layer,particulate matter,0.992351,0.001,0.797
+Tara Oceans,SAMEA2732322,5,marine biome,sea surface layer,particulate matter,3.61821,0.55525,3.454
+Tara Oceans,SAMEA2732277,5,marine biome,sea surface layer,particulate matter,3.61821,0.55525,3.454
+Tara Oceans,SAMEA2732721,60,marine biome,deep chlorophyll maximum layer,particulate matter,15.325,1.108,8.073
+Tara Oceans,SAMEA2732910,115,marine biome,deep chlorophyll maximum layer,particulate matter,1.8842,0.1252,4.4468
+Tara Oceans,SAMEA2732443,5,marine biome,sea surface layer,particulate matter,-1.89738,0.186,0.645
+Tara Oceans,SAMEA2732442,5,marine biome,sea surface layer,particulate matter,-2.81653,0.186,0.645
+Tara Oceans,SAMEA2732267,80,marine biome,deep chlorophyll maximum layer,particulate matter,-0.499353,0.332,1.448
+Tara Oceans,SAMEA2732208,80,marine biome,deep chlorophyll maximum layer,particulate matter,0.253489,0.332,1.448
+Tara Oceans,SAMEA2732648,5,marine biome,sea surface layer,particulate matter,-0.290769,0.225,1.3695
+Tara Oceans,SAMEA2732644,80,marine biome,deep chlorophyll maximum layer,particulate matter,-0.217565,0.332,1.448
+Tara Oceans,SAMEA2732441,5,marine biome,sea surface layer,particulate matter,-0.290769,0.225,1.3695
+Tara Oceans,SAMEA2622959,5,marine biome,sea surface layer,particulate matter,-2.17599,0.225,1.3695
+Tara Oceans,SAMEA2731578,5,marine biome,sea surface layer,particulate matter,-1.01654,0.19875,0.733333
+Tara Oceans,SAMEA2731531,5,marine biome,sea surface layer,particulate matter,-1.01654,0.19875,0.733333
+Tara Oceans,SAMEA2731721,5,marine biome,sea surface layer,particulate matter,-1.01654,0.19875,0.733333
+Tara Oceans,SAMEA2731720,5,marine biome,sea surface layer,particulate matter,-1.01654,0.19875,0.733333
+Tara Oceans,SAMEA2731658,5,marine biome,sea surface layer,particulate matter,-1.01654,0.20025,0.729625
+Tara Oceans,SAMEA2731626,5,marine biome,sea surface layer,particulate matter,-1.01654,0.20025,0.729625
+Tara Oceans,SAMEA2731525,5,marine biome,sea surface layer,particulate matter,-1.01654,0.191,0.7095
+Tara Oceans,SAMEA2731524,5,marine biome,sea surface layer,particulate matter,-1.01654,0.187833,0.719083
+Tara Oceans,SAMEA2731618,5,marine biome,sea surface layer,particulate matter,-1.01654,0.1815,0.73825
+Tara Oceans,SAMEA2731617,5,marine biome,sea surface layer,particulate matter,-1.01654,0.1815,0.73825
+Tara Oceans,SAMEA2731477,170,marine biome,deep chlorophyll maximum layer,particulate matter,0.295694,0.1175,0.6895
+Tara Oceans,SAMEA2731613,5,marine biome,sea surface layer,particulate matter,1.238,0.14225,0.7425
+Tara Oceans,SAMEA2732026,165,marine biome,deep chlorophyll maximum layer,particulate matter,-0.736328,0.115,0.6795
+Tara Oceans,SAMEA2731973,5,marine biome,sea surface layer,particulate matter,-0.916543,0.14225,0.7425
+Tara Oceans,SAMEA2622538,5,marine biome,sea surface layer,particulate matter,-0.916543,0.14225,0.7425
+Tara Oceans,SAMEA2622419,50,marine biome,deep chlorophyll maximum layer,particulate matter,10.9451,0.9295,5.407
+Tara Oceans,SAMEA2732775,50,marine biome,deep chlorophyll maximum layer,particulate matter,7.82984,0.927625,7.1255
+Tara Oceans,SAMEA2732708,50,marine biome,deep chlorophyll maximum layer,particulate matter,9.92386,0.927625,7.1255
+Tara Oceans,SAMEA2622280,40,marine biome,deep chlorophyll maximum layer,particulate matter,9.68462,0.776625,5.75275
+Tara Oceans,SAMEA2732643,5,marine biome,sea surface layer,particulate matter,6.05863,0.573125,3.59512
+Tara Oceans,SAMEA2732589,5,marine biome,sea surface layer,particulate matter,5.71519,0.573125,3.59512
+Tara Oceans,SAMEA2732548,5,marine biome,sea surface layer,particulate matter,5.71519,0.573125,3.59512
+Tara Oceans,SAMEA2732195,5,marine biome,sea surface layer,particulate matter,1.90892,0.121,0.567
+Tara Oceans,SAMEA2732634,175,marine biome,deep chlorophyll maximum layer,particulate matter,0.439117,0.1725,0.5065
+Tara Oceans,SAMEA2732369,5,marine biome,sea surface layer,particulate matter,0.274433,0.121,0.567
+Tara Oceans,SAMEA2732902,155,marine biome,deep chlorophyll maximum layer,particulate matter,0.706853,0.181,0.5315
+Tara Oceans,SAMEA2732838,5,marine biome,sea surface layer,particulate matter,1.199,0.1575,0.5305
+Tara Oceans,SAMEA2621897,155,marine biome,deep chlorophyll maximum layer,particulate matter,0.110812,0.181,0.5315
+Tara Oceans,SAMEA2732425,5,marine biome,sea surface layer,particulate matter,0.104903,0.1575,0.5305
+Tara Oceans,SAMEA2732363,5,marine biome,sea surface layer,particulate matter,-0.372718,0.1575,0.5305
+Tara Oceans,SAMEA2732120,5,marine biome,sea surface layer,particulate matter,0.556794,0.2235,0.408
+Tara Oceans,SAMEA2732968,5,marine biome,sea surface layer,particulate matter,0.556794,0.2235,0.408
+Tara Oceans,SAMEA2621855,5,marine biome,sea surface layer,particulate matter,-0.399569,0.2235,0.408
+Tara Oceans,SAMEA2621794,5,marine biome,sea surface layer,particulate matter,-1.48507,0.52125,0.1445
+Tara Oceans,SAMEA2732581,35,marine biome,deep chlorophyll maximum layer,particulate matter,20.5226,2.4585,63.035
+Tara Oceans,SAMEA2732543,5,marine biome,sea surface layer,particulate matter,12.5557,1.553,64.01
+Tara Oceans,SAMEA2732484,5,marine biome,sea surface layer,particulate matter,12.5557,1.553,64.01
+Tara Oceans,SAMEA2732419,5,marine biome,sea surface layer,particulate matter,11.9924,1.553,64.01
+Tara Oceans,SAMEA2732412,5,marine biome,sea surface layer,particulate matter,11.0037,1.176,0.936
+Tara Oceans,SAMEA2732895,5,marine biome,sea surface layer,particulate matter,3.14709,0.429,1.173
+Tara Oceans,SAMEA2732891,5,marine biome,sea surface layer,particulate matter,3.14709,0.429,1.173
+Tara Oceans,SAMEA2732530,35,marine biome,deep chlorophyll maximum layer,particulate matter,3.22753,0.412,1.296
+Tara Oceans,SAMEA2732468,35,marine biome,deep chlorophyll maximum layer,particulate matter,3.3458,0.412,1.296
+Tara Oceans,SAMEA2732401,35,marine biome,deep chlorophyll maximum layer,particulate matter,3.41058,0.412,1.296
+Tara Oceans,SAMEA2621364,5,marine biome,sea surface layer,particulate matter,1.85559,0.429,1.173
+Tara Oceans,SAMEA2621339,85,marine biome,deep chlorophyll maximum layer,particulate matter,1.35093,0.357,2.723
+Tara Oceans,SAMEA2732399,85,marine biome,deep chlorophyll maximum layer,particulate matter,1.28531,0.357,2.723
+Tara Oceans,SAMEA2731419,70,marine biome,deep chlorophyll maximum layer,particulate matter,0.820273,0,3.8562
+Tara Oceans,SAMEA2731359,70,marine biome,deep chlorophyll maximum layer,particulate matter,0.820273,0,3.8562
+Tara Oceans,SAMEA2620530,80,marine biome,deep chlorophyll maximum layer,particulate matter,0.244232,0.1035,2.31037
+Tara Oceans,SAMEA2620528,80,marine biome,deep chlorophyll maximum layer,particulate matter,0.244232,0.1035,2.31037
+Tara Oceans,SAMEA2730773,5,marine biome,sea surface layer,particulate matter,0.244232,0.07325,1.8665
+Tara Oceans,SAMEA2620506,5,marine biome,sea surface layer,particulate matter,0.244232,0.07325,1.8665
+Tara Oceans,SAMEA2730847,5,marine biome,sea surface layer,particulate matter,-1.82607,0.093,2.284
+Tara Oceans,SAMEA2730472,5,marine biome,sea surface layer,particulate matter,-0.711536,0.0705,1.8285
+Tara Oceans,SAMEA2620293,5,marine biome,sea surface layer,particulate matter,-0.711536,0.0705,1.8285
+Tara Oceans,SAMEA2730470,5,marine biome,sea surface layer,particulate matter,-0.711536,0.0705,1.8285
+Tara Oceans,SAMEA2620161,75,marine biome,None,particulate matter,19.3895,1.5,9.546
+Tara Oceans,SAMEA2730647,5,marine biome,sea surface layer,particulate matter,-0.323509,0.144,2.6405
+Tara Oceans,SAMEA2624009,100,oceanic epipelagic zone biome,marine wind mixed layer,particulate matter,4.45478,0.249,1.626
+Tara Oceans,SAMEA2731859,5,marine biome,sea surface layer,particulate matter,2.99923,0.1595,1.236
+Tara Oceans,SAMEA2731672,5,marine biome,sea surface layer,particulate matter,1.44846,0.1595,1.236
+Tara Oceans,SAMEA2623899,5,marine biome,sea surface layer,particulate matter,2.99923,0.1595,1.236
+Tara Oceans,SAMEA2623881,80,marine biome,deep chlorophyll maximum layer,particulate matter,1.56535,0.022,0.6335
+Tara Oceans,SAMEA2732056,5,marine biome,sea surface layer,particulate matter,0.334082,0.0125,0.6545
+Tara Oceans,SAMEA2732052,5,marine biome,sea surface layer,particulate matter,0.334082,0.0125,0.6545
+Tara Oceans,SAMEA2623859,5,marine biome,sea surface layer,particulate matter,0.334082,0.0125,0.6545
+Tara Oceans,SAMEA2732073,40,marine biome,deep chlorophyll maximum layer,particulate matter,1.20919,0,0.8423
+Tara Oceans,SAMEA2732005,40,marine biome,deep chlorophyll maximum layer,particulate matter,0.549453,0,0.8423
+Tara Oceans,SAMEA2732095,5,marine biome,sea surface layer,particulate matter,0.605165,0.0055,0.8358
+Tara Oceans,SAMEA2731788,5,marine biome,sea surface layer,particulate matter,-0.328716,0.0055,0.8358
+Tara Oceans,SAMEA2731784,5,marine biome,sea surface layer,particulate matter,-0.328716,0.0055,0.8358
+Tara Oceans,SAMEA2731634,5,marine biome,sea surface layer,particulate matter,-0.149488,0.0015,0.728
+Tara Oceans,SAMEA2732044,5,marine biome,sea surface layer,particulate matter,0.992351,0.001,0.797
+Tara Oceans,SAMEA2731996,5,marine biome,sea surface layer,particulate matter,-0.960636,0.001,0.797
+Tara Oceans,SAMEA2623721,5,marine biome,sea surface layer,particulate matter,-0.960636,0.001,0.797
+Tara Oceans,SAMEA2730594,5,marine biome,sea surface layer,particulate matter,5.03906,0.33275,2.41425
+Tara Oceans,SAMEA2731031,5,marine biome,sea surface layer,particulate matter,5.03906,0.33275,2.41425
+Tara Oceans,SAMEA2623639,5,marine biome,sea surface layer,particulate matter,3.47819,0.33275,2.41425
+Tara Oceans,SAMEA2730691,5,marine biome,sea surface layer,particulate matter,-0.008183,0,1.14325
+Tara Oceans,SAMEA2623601,5,marine biome,sea surface layer,particulate matter,-0.008183,0,1.14325
+Tara Oceans,SAMEA2730839,40,marine biome,deep chlorophyll maximum layer,particulate matter,0.679095,0.001,1.23
+Tara Oceans,SAMEA2730960,40,marine biome,deep chlorophyll maximum layer,particulate matter,0.679095,0.001,1.23
+Tara Oceans,SAMEA2730834,40,marine biome,deep chlorophyll maximum layer,particulate matter,0.417502,0.001,1.23
+Tara Oceans,SAMEA2730956,5,marine biome,sea surface layer,particulate matter,0.448112,0.0065,1.256
+Tara Oceans,SAMEA2730657,5,marine biome,sea surface layer,particulate matter,1.19032,0.0065,1.256
+Tara Oceans,SAMEA2730918,5,marine biome,sea surface layer,particulate matter,-2.2118,0.003,1.218
+Tara Oceans,SAMEA2623477,5,marine biome,sea surface layer,particulate matter,-2.2118,0.003,1.218
+Tara Oceans,SAMEA2732983,5,marine biome,sea surface layer,particulate matter,2.89224,0.55525,3.454
+Tara Oceans,SAMEA2623417,5,marine biome,sea surface layer,particulate matter,2.89224,0.55525,3.454
+Tara Oceans,SAMEA2732716,60,marine biome,deep chlorophyll maximum layer,particulate matter,23.0162,1.108,8.073
+Tara Oceans,SAMEA2732658,5,marine biome,sea surface layer,particulate matter,0.055451,0.1575,1.1855
+Tara Oceans,SAMEA2732654,5,marine biome,sea surface layer,particulate matter,-1.18432,0.1575,1.1855
+Tara Oceans,SAMEA2732866,40,marine biome,deep chlorophyll maximum layer,particulate matter,24.3522,0.884,4.661
+Tara Oceans,SAMEA2732613,40,marine biome,deep chlorophyll maximum layer,particulate matter,23.0993,0.884,4.661
+Tara Oceans,SAMEA2732607,5,marine biome,sea surface layer,particulate matter,2.69352,0.456,2.538
+Tara Oceans,SAMEA2732378,5,marine biome,sea surface layer,particulate matter,2.69352,0.456,2.538
+Tara Oceans,SAMEA2623282,5,marine biome,sea surface layer,particulate matter,3.24131,0.456,2.538
+Tara Oceans,SAMEA2732373,5,marine biome,sea surface layer,particulate matter,0.038247,0.3115,1.7995
+Tara Oceans,SAMEA2732598,5,marine biome,sea surface layer,particulate matter,0.038247,0.3115,1.7995
+Tara Oceans,SAMEA2623264,5,marine biome,sea surface layer,particulate matter,-1.14515,0.3115,1.7995
+Tara Oceans,SAMEA2732994,30,marine biome,deep chlorophyll maximum layer,particulate matter,2.59575,0.370333,1.61517
+Tara Oceans,SAMEA2732990,30,marine biome,deep chlorophyll maximum layer,particulate matter,1.67453,0.370333,1.61517
+Tara Oceans,SAMEA2732986,30,marine biome,deep chlorophyll maximum layer,particulate matter,0.342955,0.370333,1.61517
+Tara Oceans,SAMEA2732214,5,marine biome,sea surface layer,particulate matter,0.132837,0.288583,1.22329
+Tara Oceans,SAMEA2732932,5,marine biome,sea surface layer,particulate matter,0.132837,0.288583,1.22329
+Tara Oceans,SAMEA2732797,115,marine biome,deep chlorophyll maximum layer,particulate matter,0.004868,0.1252,4.4468
+Tara Oceans,SAMEA2732790,5,marine biome,sea surface layer,particulate matter,0.022689,0.0062,2.4278
+Tara Oceans,SAMEA2623070,5,marine biome,sea surface layer,particulate matter,-0.979589,0.0062,2.4278
+Tara Oceans,SAMEA2732139,5,marine biome,sea surface layer,particulate matter,-1.00537,0.0457,1.0473
+Tara Oceans,SAMEA2732906,5,marine biome,sea surface layer,particulate matter,-1.00537,0.0457,1.0473
+Tara Oceans,SAMEA2622934,40,marine biome,deep chlorophyll maximum layer,particulate matter,4.36571,0.54925,2.7405
+Tara Oceans,SAMEA2622912,5,marine biome,sea surface layer,particulate matter,2.46716,0.53975,2.668
+Tara Oceans,SAMEA2731692,50,marine biome,deep chlorophyll maximum layer,particulate matter,10.8009,0.9295,5.407
+Tara Oceans,SAMEA2731795,5,marine biome,sea surface layer,particulate matter,6.72934,0.77275,3.8635
+Tara Oceans,SAMEA2732245,35,marine biome,deep chlorophyll maximum layer,particulate matter,-1.12738,1.08725,0.46
+Tara Oceans,SAMEA2732192,5,marine biome,sea surface layer,particulate matter,-1.39217,0.52125,0.1445
+Tara Oceans,SAMEA2621795,5,marine biome,sea surface layer,particulate matter,-1.48507,0.52125,0.1445
+Tara Oceans,SAMEA2621793,5,marine biome,sea surface layer,particulate matter,-1.48507,0.52125,0.1445
+Tara Oceans,SAMEA2732344,85,marine biome,deep chlorophyll maximum layer,particulate matter,-0.156557,0.357,2.723
+Tara Oceans,SAMEA2732299,5,marine biome,sea surface layer,particulate matter,-1.55607,0,1.039
+Tara Oceans,SAMEA2732231,5,marine biome,sea surface layer,particulate matter,-1.55607,0,1.039
+Tara Oceans,SAMEA2621316,5,marine biome,sea surface layer,particulate matter,-1.55607,0,1.039
+Tara Oceans,SAMEA2620150,50,marine biome,None,particulate matter,0.273168,0.305,1.159
+Tara Oceans,SAMEA2732058,80,marine biome,deep chlorophyll maximum layer,particulate matter,0.462569,0.022,0.6335
+Tara Oceans,SAMEA2732088,80,marine biome,deep chlorophyll maximum layer,particulate matter,0.318508,0.022,0.6335
+Tara Oceans,SAMEA2732085,5,marine biome,sea surface layer,particulate matter,-1.53328,0.0125,0.6545
+Tara Oceans,SAMEA2731999,40,marine biome,deep chlorophyll maximum layer,particulate matter,0.635152,0,0.8423
+Tara Oceans,SAMEA2623815,5,marine biome,sea surface layer,particulate matter,-0.328716,0.0055,0.8358
+Tara Oceans,SAMEA2731821,5,marine biome,sea surface layer,particulate matter,-0.149488,0.0015,0.728
+Tara Oceans,SAMEA2731035,5,marine biome,sea surface layer,particulate matter,5.03906,0.33275,2.41425
+Tara Oceans,SAMEA2730686,5,marine biome,sea surface layer,particulate matter,-0.008183,0,1.14325
+Tara Oceans,SAMEA2730804,5,marine biome,sea surface layer,particulate matter,-2.0956,0.003,1.218
+Tara Oceans,SAMEA2732508,60,marine biome,deep chlorophyll maximum layer,particulate matter,28.0447,1.108,8.073
+Tara Oceans,SAMEA2732863,40,marine biome,deep chlorophyll maximum layer,particulate matter,18.457,0.884,4.661
+Tara Oceans,SAMEA2732604,5,marine biome,sea surface layer,particulate matter,3.24131,0.456,2.538
+Tara Oceans,SAMEA2732594,5,marine biome,sea surface layer,particulate matter,-1.14515,0.3115,1.7995
+Tara Oceans,SAMEA2623226,30,marine biome,deep chlorophyll maximum layer,particulate matter,-0.595237,0.370333,1.61517
+Tara Oceans,SAMEA2732980,5,marine biome,sea surface layer,particulate matter,0.132837,0.288583,1.22329
+Tara Oceans,SAMEA2623204,5,marine biome,sea surface layer,particulate matter,-0.971353,0.288583,1.22329
+Tara Oceans,SAMEA2732914,115,marine biome,deep chlorophyll maximum layer,particulate matter,1.71775,0.1252,4.4468
+Tara Oceans,SAMEA2623090,115,marine biome,deep chlorophyll maximum layer,particulate matter,0.732507,0.1252,4.4468
+Tara Oceans,SAMEA2732843,5,marine biome,sea surface layer,particulate matter,0.022689,0.0062,2.4278
+Tara Oceans,SAMEA2732736,5,marine biome,sea surface layer,particulate matter,0.022689,0.0062,2.4278
+Tara Oceans,SAMEA2732732,110,marine biome,deep chlorophyll maximum layer,particulate matter,0.00013,0.0172,1.6413
+Tara Oceans,SAMEA2732785,110,marine biome,deep chlorophyll maximum layer,particulate matter,-0.19746,0.0172,1.6413
+Tara Oceans,SAMEA2732729,110,marine biome,deep chlorophyll maximum layer,particulate matter,-0.346856,0.0172,1.6413
+Tara Oceans,SAMEA2623035,110,marine biome,deep chlorophyll maximum layer,particulate matter,-0.736436,0.0172,1.6413
+Tara Oceans,SAMEA2732135,5,marine biome,sea surface layer,particulate matter,-1.00537,0.0457,1.0473
+Tara Oceans,SAMEA2623016,5,marine biome,sea surface layer,particulate matter,-2.28321,0.0457,1.0473
+Tara Oceans,SAMEA2732042,40,marine biome,deep chlorophyll maximum layer,particulate matter,4.22679,0.54925,2.7405
+Tara Oceans,SAMEA2731992,5,marine biome,sea surface layer,particulate matter,4.30886,0.53975,2.668
+Tara Oceans,SAMEA2731945,40,marine biome,deep chlorophyll maximum layer,particulate matter,4.23464,0.54925,2.7405
+Tara Oceans,SAMEA2731900,40,marine biome,deep chlorophyll maximum layer,particulate matter,4.23464,0.54925,2.7405
+Tara Oceans,SAMEA2732035,5,marine biome,sea surface layer,particulate matter,4.30886,0.53975,2.668
+Tara Oceans,SAMEA2731987,5,marine biome,sea surface layer,particulate matter,4.30886,0.53975,2.668
+Tara Oceans,SAMEA2622415,50,marine biome,deep chlorophyll maximum layer,particulate matter,10.9451,0.9295,5.407
+Tara Oceans,SAMEA2731833,5,marine biome,sea surface layer,particulate matter,6.72934,0.77275,3.8635
+Tara Oceans,SAMEA2622393,5,marine biome,sea surface layer,particulate matter,6.72934,0.77275,3.8635
+Tara Oceans,SAMEA2622389,5,marine biome,sea surface layer,particulate matter,6.72934,0.77275,3.8635
+Tara Oceans,SAMEA2622159,177,marine biome,marine mesopelagic zone,particulate matter,21.0684,2.68675,20.9015
+Tara Oceans,SAMEA2621789,5,marine biome,sea surface layer,particulate matter,-1.48507,0.52125,0.1445
+Tara Oceans,SAMEA2621468,5,marine biome,sea surface layer,particulate matter,11.0037,1.176,0.936
+Tara Oceans,SAMEA2730995,85,marine biome,deep chlorophyll maximum layer,particulate matter,0.244232,0.1035,2.31037
+Tara Oceans,SAMEA2730769,5,marine biome,sea surface layer,particulate matter,0.244232,0.07325,1.8665
+Tara Oceans,SAMEA2731026,5,marine biome,sea surface layer,particulate matter,0.244232,0.07325,1.8665
+Tara Oceans,SAMEA2730863,5,marine biome,sea surface layer,particulate matter,-1.82607,0.093,2.284
+Tara Oceans,SAMEA2620403,55,marine biome,deep chlorophyll maximum layer,particulate matter,-0.28232,0.199,2.8465
+Tara Oceans,SAMEA2730900,5,marine biome,sea surface layer,particulate matter,0.477267,0.102,1.947
+Tara Oceans,SAMEA2730898,5,marine biome,sea surface layer,particulate matter,0.477267,0.102,1.947
+Tara Oceans,SAMEA2620379,5,marine biome,sea surface layer,particulate matter,0.477267,0.102,1.947
+Tara Oceans,SAMEA2620139,25,marine biome,None,particulate matter,-0.315174,0.235,1.19
+Tara Oceans,SAMEA2731011,5,marine biome,sea surface layer,particulate matter,-0.008183,0,1.14325
+Tara Oceans,SAMEA2730950,5,marine biome,sea surface layer,particulate matter,0.448112,0.0065,1.256
+Tara Oceans,SAMEA2732453,5,marine biome,sea surface layer,particulate matter,0.055451,0.1575,1.1855
+Tara Oceans,SAMEA2621827,35,marine biome,deep chlorophyll maximum layer,particulate matter,0.660123,1.08725,0.46
+Tara Oceans,SAMEA2621474,5,marine biome,sea surface layer,particulate matter,11.0037,1.176,0.936
+Tara Oceans,SAMEA2620172,105,marine biome,None,particulate matter,23.2764,1.998,13.25
+Tara Oceans,SAMEA2623603,5,marine biome,sea surface layer,particulate matter,-0.008183,0,1.14325
+Tara Oceans,SAMEA2624011,100,oceanic epipelagic zone biome,marine wind mixed layer,particulate matter,4.45478,0.249,1.626
+Tara Oceans,SAMEA2623901,5,marine biome,sea surface layer,particulate matter,2.99923,0.1595,1.236
+Tara Oceans,SAMEA2623879,80,marine biome,deep chlorophyll maximum layer,particulate matter,1.56535,0.022,0.6335
+Tara Oceans,SAMEA2623861,5,marine biome,sea surface layer,particulate matter,0.334082,0.0125,0.6545
+Tara Oceans,SAMEA2623839,40,marine biome,deep chlorophyll maximum layer,particulate matter,1.21028,0,0.8423
+Tara Oceans,SAMEA2623817,5,marine biome,sea surface layer,particulate matter,-0.328716,0.0055,0.8358
+Tara Oceans,SAMEA2623763,250,marine biome,marine mesopelagic zone,particulate matter,4.0429,0.179,1.6225
+Tara Oceans,SAMEA2623723,5,marine biome,sea surface layer,particulate matter,-0.960636,0.001,0.797
+Tara Oceans,SAMEA2623703,640,marine biome,marine mesopelagic zone,particulate matter,21.8309,1.3135,13.2415
+Tara Oceans,SAMEA2623641,5,marine biome,sea surface layer,particulate matter,3.47819,0.33275,2.41425
+Tara Oceans,SAMEA2623621,390,marine biome,marine mesopelagic zone,particulate matter,4.69098,0.2385,1.789
+Tara Oceans,SAMEA2623564,40,marine biome,deep chlorophyll maximum layer,particulate matter,0.90708,0.001,1.23
+Tara Oceans,SAMEA2623543,5,marine biome,sea surface layer,particulate matter,1.19032,0.0065,1.256
+Tara Oceans,SAMEA2623523,640,marine biome,marine mesopelagic zone,particulate matter,31.8512,1.2175,8.624
+Tara Oceans,SAMEA2623479,5,marine biome,sea surface layer,particulate matter,-2.2118,0.003,1.218
+Tara Oceans,SAMEA2623419,5,marine biome,sea surface layer,particulate matter,2.89224,0.55525,3.454
+Tara Oceans,SAMEA2623397,450,marine biome,marine mesopelagic zone,particulate matter,36.8861,3.155,52.9225
+Tara Oceans,SAMEA2623379,60,marine biome,deep chlorophyll maximum layer,particulate matter,22.0878,1.108,8.073
+Tara Oceans,SAMEA2623359,5,marine biome,sea surface layer,particulate matter,-1.18432,0.1575,1.1855
+Tara Oceans,SAMEA2623321,375,marine biome,marine mesopelagic zone,particulate matter,35.7167,2.9545,46.6245
+Tara Oceans,SAMEA2623284,5,marine biome,sea surface layer,particulate matter,3.24131,0.456,2.538
+Tara Oceans,SAMEA2623266,5,marine biome,sea surface layer,particulate matter,-1.14515,0.3115,1.7995
+Tara Oceans,SAMEA2623228,30,marine biome,deep chlorophyll maximum layer,particulate matter,-0.595237,0.370333,1.61517
+Tara Oceans,SAMEA2623206,5,marine biome,sea surface layer,particulate matter,-0.971353,0.288583,1.22329
+Tara Oceans,SAMEA2623092,115,marine biome,deep chlorophyll maximum layer,particulate matter,0.732507,0.1252,4.4468
+Tara Oceans,SAMEA2623072,5,marine biome,sea surface layer,particulate matter,-0.979589,0.0062,2.4278
+Tara Oceans,SAMEA2623037,110,marine biome,deep chlorophyll maximum layer,particulate matter,-0.736436,0.0172,1.6413
+Tara Oceans,SAMEA2623018,5,marine biome,sea surface layer,particulate matter,-2.28321,0.0457,1.0473
+Tara Oceans,SAMEA2622997,5,marine biome,sea surface layer,particulate matter,-1.89738,0.186,0.645
+Tara Oceans,SAMEA2622983,85,marine biome,deep chlorophyll maximum layer,particulate matter,0.614344,0.332,1.448
+Tara Oceans,SAMEA2622957,5,marine biome,sea surface layer,particulate matter,-2.17599,0.225,1.3695
+Tara Oceans,SAMEA2622936,40,marine biome,deep chlorophyll maximum layer,particulate matter,4.36571,0.54925,2.7405
+Tara Oceans,SAMEA2622914,5,marine biome,sea surface layer,particulate matter,2.46716,0.53975,2.668
+Tara Oceans,SAMEA2622561,155,marine biome,deep chlorophyll maximum layer,particulate matter,0.476585,0.1145,0.6935
+Tara Oceans,SAMEA2622536,5,marine biome,sea surface layer,particulate matter,-0.916543,0.14225,0.7425
+Tara Oceans,SAMEA2622417,50,marine biome,deep chlorophyll maximum layer,particulate matter,10.9451,0.9295,5.407
+Tara Oceans,SAMEA2622391,5,marine biome,sea surface layer,particulate matter,6.72934,0.77275,3.8635
+Tara Oceans,SAMEA2622305,380,marine biome,marine mesopelagic zone,particulate matter,37.6941,2.66488,37.4515
+Tara Oceans,SAMEA2622278,40,marine biome,deep chlorophyll maximum layer,particulate matter,9.68462,0.776625,5.75275
+Tara Oceans,SAMEA2622258,5,marine biome,sea surface layer,particulate matter,5.71519,0.573125,3.59512
+Tara Oceans,SAMEA2622206,480,marine biome,marine mesopelagic zone,particulate matter,40.009,2.853,40.579
+Tara Oceans,SAMEA2622158,177,marine biome,marine mesopelagic zone,particulate matter,21.0684,2.68675,20.9015
+Tara Oceans,SAMEA2622067,488,marine biome,marine mesopelagic zone,particulate matter,24.644,2.023,12.05
+Tara Oceans,SAMEA2621971,175,marine biome,deep chlorophyll maximum layer,particulate matter,1.20477,0.1725,0.5065
+Tara Oceans,SAMEA2621922,5,marine biome,sea surface layer,particulate matter,-1.01044,0.121,0.567
+Tara Oceans,SAMEA2621894,155,marine biome,deep chlorophyll maximum layer,particulate matter,0.110812,0.181,0.5315
+Tara Oceans,SAMEA2621872,5,marine biome,sea surface layer,particulate matter,-0.372718,0.1575,0.5305
+Tara Oceans,SAMEA2621854,5,marine biome,sea surface layer,particulate matter,-0.399569,0.2235,0.408
+Tara Oceans,SAMEA2621823,35,marine biome,deep chlorophyll maximum layer,particulate matter,0.660123,1.08725,0.46
+Tara Oceans,SAMEA2621791,5,marine biome,sea surface layer,particulate matter,-1.48507,0.52125,0.1445
+Tara Oceans,SAMEA2621609,35,marine biome,deep chlorophyll maximum layer,particulate matter,28.9664,2.4585,63.035
+Tara Oceans,SAMEA2621583,5,marine biome,sea surface layer,particulate matter,11.9924,1.553,64.01
+Tara Oceans,SAMEA2621470,5,marine biome,sea surface layer,particulate matter,11.0037,1.176,0.936
+Tara Oceans,SAMEA2621388,35,marine biome,deep chlorophyll maximum layer,particulate matter,3.68799,0.412,1.296
+Tara Oceans,SAMEA2621362,5,marine biome,sea surface layer,particulate matter,1.85559,0.429,1.173
+Tara Oceans,SAMEA2621337,85,marine biome,deep chlorophyll maximum layer,particulate matter,1.35093,0.357,2.723
+Tara Oceans,SAMEA2621315,5,marine biome,sea surface layer,particulate matter,-1.55607,0,1.039
+Tara Oceans,SAMEA2620527,80,marine biome,deep chlorophyll maximum layer,particulate matter,0.244232,0.1035,2.31037
+Tara Oceans,SAMEA2620503,5,marine biome,sea surface layer,particulate matter,0.244232,0.07325,1.8665
+Tara Oceans,SAMEA2620292,5,marine biome,sea surface layer,particulate matter,-0.711536,0.0705,1.8285
+Tara Oceans,SAMEA2620113,270,marine biome,marine mesopelagic zone,particulate matter,19.5665,2.64,38.62
+Tara Oceans,SAMEA2620089,25,marine biome,deep chlorophyll maximum layer,particulate matter,-0.611888,0.2465,1.2415
+Tara Oceans,SAMEA2620043,340,marine biome,marine mesopelagic zone,particulate matter,22.4446,2.639,38.94
+Tara Oceans,SAMEA2620505,5,marine biome,sea surface layer,particulate matter,0.244232,0.07325,1.8665
+Tara Oceans,SAMEA2620396,5,marine biome,sea surface layer,particulate matter,-1.82607,0.093,2.284
+Tara Oceans,SAMEA2620378,5,marine biome,sea surface layer,particulate matter,0.477267,0.102,1.947
+Tara Oceans,SAMEA2620071,5,marine biome,sea surface layer,particulate matter,-1.41558,0.2335,1.515
+Tara Oceans,SAMEA2621563,790,marine biome,marine mesopelagic zone,particulate matter,38.8212,2.614,83.35
+Tara Oceans,SAMEA2621562,790,marine biome,marine mesopelagic zone,particulate matter,38.8212,2.614,83.35
+Tara Oceans,SAMEA2732536,90,marine biome,deep chlorophyll maximum layer,particulate matter,30.4221,2.309,81.82
+Tara Oceans,SAMEA2732415,5,marine biome,sea surface layer,particulate matter,28.882,2.1055,80.55
+Tara Oceans,SAMEA2621439,40,marine biome,deep chlorophyll maximum layer,particulate matter,17.1118,1.356,2.661
+Tara Oceans,SAMEA2621190,800,marine biome,marine mesopelagic zone,particulate matter,38.4485,2.618,34.44
+Tara Oceans,SAMEA2621189,800,marine biome,marine mesopelagic zone,particulate matter,38.4485,2.618,34.44
+Tara Oceans,SAMEA2621106,800,marine biome,marine mesopelagic zone,particulate matter,37.7793,2.522,44.86
+Tara Oceans,SAMEA2621105,800,marine biome,marine mesopelagic zone,particulate matter,37.7793,2.522,44.86
+Tara Oceans,SAMEA2621007,700,marine biome,marine mesopelagic zone,particulate matter,25.8469,1.529,12.08
+Tara Oceans,SAMEA2621006,700,marine biome,marine mesopelagic zone,particulate matter,25.8469,1.529,12.08
+Tara Oceans,SAMEA2622846,140,oceanic epipelagic zone biome,marine wind mixed layer,particulate matter,3.67243,0.566,1.24575
+Tara Oceans,SAMEA2656982,5,marine biome,sea surface layer,particulate matter,6.03141,0.55725,1.80475
+Tara Oceans,SAMEA2657032,5,marine biome,sea surface layer,particulate matter,6.03141,0.55725,1.80475
+Tara Oceans,SAMEA2657071,5,marine biome,sea surface layer,particulate matter,6.03141,0.55725,1.80475
+Tara Oceans,SAMEA2622826,5,marine biome,sea surface layer,particulate matter,4.98594,0.55725,1.80475
+Tara Oceans,SAMEA2622824,5,marine biome,sea surface layer,particulate matter,4.98594,0.55725,1.80475
+Tara Oceans,SAMEA2622804,120,oceanic epipelagic zone biome,marine wind mixed layer,particulate matter,4.45868,0.4885,1.469
+Tara Oceans,SAMEA2657085,5,marine biome,sea surface layer,particulate matter,6.68578,0.63025,2.53325
+Tara Oceans,SAMEA2656986,5,marine biome,sea surface layer,particulate matter,5.05319,0.63025,2.53325
+Tara Oceans,SAMEA2622774,5,marine biome,sea surface layer,particulate matter,5.11186,0.63025,2.53325
+Tara Oceans,SAMEA2622770,5,marine biome,sea surface layer,particulate matter,5.11186,0.63025,2.53325
+Tara Oceans,SAMEA2622769,5,marine biome,sea surface layer,particulate matter,5.11186,0.63025,2.53325
+Tara Oceans,SAMEA2622766,5,marine biome,sea surface layer,particulate matter,5.11186,0.63025,2.53325
+Tara Oceans,SAMEA2622744,150,oceanic epipelagic zone biome,marine wind mixed layer,particulate matter,5.02326,0.6607,1.18375
+Tara Oceans,SAMEA2656975,5,marine biome,sea surface layer,particulate matter,5.321,0.53495,2.2205
+Tara Oceans,SAMEA2657005,5,marine biome,sea surface layer,particulate matter,5.321,0.53495,2.2205
+Tara Oceans,SAMEA2657109,5,marine biome,sea surface layer,particulate matter,5.321,0.53495,2.2205
+Tara Oceans,SAMEA2622719,5,marine biome,sea surface layer,particulate matter,3.86841,0.53495,2.2205
+Tara Oceans,SAMEA2622717,5,marine biome,sea surface layer,particulate matter,3.86841,0.53495,2.2205
+Tara Oceans,SAMEA2657075,115,marine biome,deep chlorophyll maximum layer,particulate matter,3.87394,0.582933,1.90704
+Tara Oceans,SAMEA2622699,115,marine biome,deep chlorophyll maximum layer,particulate matter,2.33358,0.582933,1.90704
+Tara Oceans,SAMEA2657070,5,marine biome,sea surface layer,particulate matter,5.94839,0.56795,2.1905
+Tara Oceans,SAMEA2657094,5,marine biome,sea surface layer,particulate matter,5.94839,0.56795,2.1905
+Tara Oceans,SAMEA2657010,5,marine biome,sea surface layer,particulate matter,5.94839,0.56795,2.1905
+Tara Oceans,SAMEA2622661,5,marine biome,sea surface layer,particulate matter,3.98636,0.56795,2.1905
+Tara Oceans,SAMEA2622660,5,marine biome,sea surface layer,particulate matter,3.98636,0.56795,2.1905
+Tara Oceans,SAMEA2656980,90,marine biome,deep chlorophyll maximum layer,particulate matter,2.41002,0.443,0.9285
+Tara Oceans,SAMEA2657019,90,marine biome,deep chlorophyll maximum layer,particulate matter,2.41002,0.443,0.9285
+Tara Oceans,SAMEA2622490,90,marine biome,deep chlorophyll maximum layer,particulate matter,1.41152,0.443,0.9285
+Tara Oceans,SAMEA2622489,90,marine biome,deep chlorophyll maximum layer,particulate matter,1.41152,0.443,0.9285
+Tara Oceans,SAMEA2622487,90,marine biome,deep chlorophyll maximum layer,particulate matter,1.41152,0.443,0.9285
+Tara Oceans,SAMEA2656988,5,marine biome,sea surface layer,particulate matter,2.59718,0.5,1.0325
+Tara Oceans,SAMEA2657036,5,marine biome,sea surface layer,particulate matter,2.56873,0.5,1.0325
+Tara Oceans,SAMEA2622465,5,marine biome,sea surface layer,particulate matter,2.56873,0.5,1.0325
+Tara Oceans,SAMEA2622463,5,marine biome,sea surface layer,particulate matter,2.56873,0.5,1.0325
+Tara Oceans,SAMEA2622461,5,marine biome,sea surface layer,particulate matter,2.56873,0.5,1.0325
+Tara Oceans,SAMEA2657076,40,marine biome,deep chlorophyll maximum layer,particulate matter,1.07291,0.56725,3.661
+Tara Oceans,SAMEA2657103,40,marine biome,deep chlorophyll maximum layer,particulate matter,1.07291,0.56725,3.661
+Tara Oceans,SAMEA2622347,30,marine biome,deep chlorophyll maximum layer,particulate matter,3.88661,0.50475,3.225
+Tara Oceans,SAMEA2622345,30,marine biome,deep chlorophyll maximum layer,particulate matter,3.88661,0.50475,3.225
+Tara Oceans,SAMEA2622343,30,marine biome,deep chlorophyll maximum layer,particulate matter,3.88661,0.50475,3.225
+Tara Oceans,SAMEA2657088,5,marine biome,sea surface layer,particulate matter,0.451517,0.2865,1.7085
+Tara Oceans,SAMEA2657063,5,marine biome,sea surface layer,particulate matter,0.451517,0.2865,1.7085
+Tara Oceans,SAMEA2622325,5,marine biome,sea surface layer,particulate matter,1.21011,0.2865,1.7085
+Tara Oceans,SAMEA2622324,5,marine biome,sea surface layer,particulate matter,1.21011,0.2865,1.7085
+Tara Oceans,SAMEA2657008,5,marine biome,sea surface layer,particulate matter,1.21011,0.2865,1.7085
+Tara Oceans,SAMEA2622232,40,marine biome,deep chlorophyll maximum layer,particulate matter,20.3283,1.8615,10.5045
+Tara Oceans,SAMEA2622230,40,marine biome,deep chlorophyll maximum layer,particulate matter,20.3283,1.8615,10.5045
+Tara Oceans,SAMEA2622228,40,marine biome,deep chlorophyll maximum layer,particulate matter,20.3283,1.8615,10.5045
+Tara Oceans,SAMEA2657087,40,marine biome,deep chlorophyll maximum layer,particulate matter,13.402,1.8615,10.5045
+Tara Oceans,SAMEA2657097,40,marine biome,deep chlorophyll maximum layer,particulate matter,14.6539,1.8615,10.5045
+Tara Oceans,SAMEA2657072,5,marine biome,sea surface layer,particulate matter,12.4153,1.02575,5.04425
+Tara Oceans,SAMEA2656991,5,marine biome,sea surface layer,particulate matter,11.689,1.02575,5.04425
+Tara Oceans,SAMEA2657092,5,marine biome,sea surface layer,particulate matter,11.689,1.02575,5.04425
+Tara Oceans,SAMEA2622184,5,marine biome,sea surface layer,particulate matter,11.689,1.02575,5.04425
+Tara Oceans,SAMEA2622182,5,marine biome,sea surface layer,particulate matter,11.689,1.02575,5.04425
+Tara Oceans,SAMEA2657077,50,marine biome,deep chlorophyll maximum layer,particulate matter,3.35077,0.7785,1.8815
+Tara Oceans,SAMEA2657044,50,marine biome,deep chlorophyll maximum layer,particulate matter,0.369746,0.7785,1.8815
+Tara Oceans,SAMEA2622132,50,marine biome,deep chlorophyll maximum layer,particulate matter,1.50198,0.7785,1.8815
+Tara Oceans,SAMEA2622130,50,marine biome,deep chlorophyll maximum layer,particulate matter,1.50198,0.7785,1.8815
+Tara Oceans,SAMEA2622128,50,marine biome,deep chlorophyll maximum layer,particulate matter,1.50198,0.7785,1.8815
+Tara Oceans,SAMEA2657000,5,marine biome,sea surface layer,particulate matter,4.59074,0.67725,1.15025
+Tara Oceans,SAMEA2656973,5,marine biome,sea surface layer,particulate matter,4.59074,0.67725,1.15025
+Tara Oceans,SAMEA2657086,5,marine biome,sea surface layer,particulate matter,4.59074,0.67725,1.15025
+Tara Oceans,SAMEA2622106,5,marine biome,sea surface layer,particulate matter,4.59074,0.67725,1.15025
+Tara Oceans,SAMEA2622104,5,marine biome,sea surface layer,particulate matter,4.59074,0.67725,1.15025
+Tara Oceans,SAMEA2657023,180,marine biome,deep chlorophyll maximum layer,particulate matter,0.178539,0.0965,0.35
+Tara Oceans,SAMEA2657031,180,marine biome,deep chlorophyll maximum layer,particulate matter,0.178539,0.0965,0.35
+Tara Oceans,SAMEA2656984,5,marine biome,sea surface layer,particulate matter,-1.56749,0.1815,0.385875
+Tara Oceans,SAMEA2656959,5,marine biome,sea surface layer,particulate matter,-1.56749,0.1815,0.385875
+Tara Oceans,SAMEA2622012,5,marine biome,sea surface layer,particulate matter,-1.56749,0.1815,0.385875
+Tara Oceans,SAMEA2622010,5,marine biome,sea surface layer,particulate matter,-1.56749,0.1815,0.385875
+Tara Oceans,SAMEA2621544,90,marine biome,deep chlorophyll maximum layer,particulate matter,33.1092,2.309,81.82
+Tara Oceans,SAMEA2621542,90,marine biome,deep chlorophyll maximum layer,particulate matter,33.1092,2.309,81.82
+Tara Oceans,SAMEA2656966,90,marine biome,deep chlorophyll maximum layer,particulate matter,32.6209,2.309,81.82
+Tara Oceans,SAMEA2657068,90,marine biome,deep chlorophyll maximum layer,particulate matter,30.5177,2.309,81.82
+Tara Oceans,SAMEA2656979,5,marine biome,sea surface layer,particulate matter,27.5012,2.1055,80.55
+Tara Oceans,SAMEA2621524,5,marine biome,sea surface layer,particulate matter,27.5012,2.1055,80.55
+Tara Oceans,SAMEA2621522,5,marine biome,sea surface layer,particulate matter,27.5012,2.1055,80.55
+Tara Oceans,SAMEA2621520,5,marine biome,sea surface layer,particulate matter,27.5012,2.1055,80.55
+Tara Oceans,SAMEA2657096,5,marine biome,sea surface layer,particulate matter,25.5345,1.723,16.55
+Tara Oceans,SAMEA2657033,5,marine biome,sea surface layer,particulate matter,24.423,1.723,16.55
+Tara Oceans,SAMEA2657049,5,marine biome,sea surface layer,particulate matter,24.423,1.723,16.55
+Tara Oceans,SAMEA2621498,5,marine biome,sea surface layer,particulate matter,24.423,1.723,16.55
+Tara Oceans,SAMEA2621496,5,marine biome,sea surface layer,particulate matter,24.423,1.723,16.55
+Tara Oceans,SAMEA2621442,40,marine biome,deep chlorophyll maximum layer,particulate matter,17.1118,1.356,2.661
+Tara Oceans,SAMEA2621440,40,marine biome,deep chlorophyll maximum layer,particulate matter,17.1118,1.356,2.661
+Tara Oceans,SAMEA2621436,40,marine biome,deep chlorophyll maximum layer,particulate matter,17.1118,1.356,2.661
+Tara Oceans,SAMEA2657035,30,marine biome,deep chlorophyll maximum layer,particulate matter,17.1193,1.296,2.244
+Tara Oceans,SAMEA2657104,5,marine biome,sea surface layer,particulate matter,17.0911,1.302,1.945
+Tara Oceans,SAMEA2657078,5,marine biome,sea surface layer,particulate matter,17.0911,1.302,1.945
+Tara Oceans,SAMEA2656994,5,marine biome,sea surface layer,particulate matter,17.0911,1.302,1.945
+Tara Oceans,SAMEA2621412,5,marine biome,sea surface layer,particulate matter,17.0911,1.302,1.945
+Tara Oceans,SAMEA2621410,5,marine biome,sea surface layer,particulate matter,17.0911,1.302,1.945
+Tara Oceans,SAMEA2657102,120,marine biome,deep chlorophyll maximum layer,particulate matter,-0.409573,0,0.319
+Tara Oceans,SAMEA2657042,120,marine biome,deep chlorophyll maximum layer,particulate matter,-0.043465,0,0.319
+Tara Oceans,SAMEA2621282,120,marine biome,deep chlorophyll maximum layer,particulate matter,0.478929,0,0.319
+Tara Oceans,SAMEA2621280,120,marine biome,deep chlorophyll maximum layer,particulate matter,0.478929,0,0.319
+Tara Oceans,SAMEA2657029,5,marine biome,sea surface layer,particulate matter,-0.415012,0,0.749
+Tara Oceans,SAMEA2657067,5,marine biome,sea surface layer,particulate matter,-0.385346,0,0.749
+Tara Oceans,SAMEA2656977,5,marine biome,sea surface layer,particulate matter,-0.385346,0,0.749
+Tara Oceans,SAMEA2621265,5,marine biome,sea surface layer,particulate matter,-0.385346,0,0.749
+Tara Oceans,SAMEA2621263,5,marine biome,sea surface layer,particulate matter,-0.385346,0,0.749
+Tara Oceans,SAMEA2657101,150,marine biome,deep chlorophyll maximum layer,particulate matter,0.669548,0.051522,0.712116
+Tara Oceans,SAMEA2656998,150,marine biome,deep chlorophyll maximum layer,particulate matter,0.642162,0.051522,0.712116
+Tara Oceans,SAMEA2621226,150,marine biome,deep chlorophyll maximum layer,particulate matter,0.580918,0.051522,0.712116
+Tara Oceans,SAMEA2621225,150,marine biome,deep chlorophyll maximum layer,particulate matter,0.580918,0.051522,0.712116
+Tara Oceans,SAMEA2656962,150,marine biome,deep chlorophyll maximum layer,particulate matter,0.056847,0.051522,0.712116
+Tara Oceans,SAMEA2657095,5,marine biome,sea surface layer,particulate matter,0.030608,0.055883,0.814172
+Tara Oceans,SAMEA2657030,5,marine biome,sea surface layer,particulate matter,0.030608,0.055883,0.814172
+Tara Oceans,SAMEA2657091,5,marine biome,sea surface layer,particulate matter,0.030608,0.055883,0.814172
+Tara Oceans,SAMEA2621209,5,marine biome,sea surface layer,particulate matter,0.030608,0.055883,0.814172
+Tara Oceans,SAMEA2621208,5,marine biome,sea surface layer,particulate matter,0.030608,0.055883,0.814172
+Tara Oceans,SAMEA2657100,100,marine biome,deep chlorophyll maximum layer,particulate matter,0.315989,0.143,1.284
+Tara Oceans,SAMEA2656972,100,marine biome,deep chlorophyll maximum layer,particulate matter,0.159226,0.143,1.284
+Tara Oceans,SAMEA2621169,100,marine biome,deep chlorophyll maximum layer,particulate matter,0.241265,0.143,1.284
+Tara Oceans,SAMEA2621167,100,marine biome,deep chlorophyll maximum layer,particulate matter,0.241265,0.143,1.284
+Tara Oceans,SAMEA2657053,100,marine biome,deep chlorophyll maximum layer,particulate matter,0.180999,0.143,1.284
+Tara Oceans,SAMEA2656989,5,marine biome,sea surface layer,particulate matter,0.196821,0.104,0.868
+Tara Oceans,SAMEA2656961,5,marine biome,sea surface layer,particulate matter,0.263475,0.104,0.868
+Tara Oceans,SAMEA2657090,5,marine biome,sea surface layer,particulate matter,0.263475,0.104,0.868
+Tara Oceans,SAMEA2621147,5,marine biome,sea surface layer,particulate matter,0.263475,0.104,0.868
+Tara Oceans,SAMEA2621145,5,marine biome,sea surface layer,particulate matter,0.263475,0.104,0.868
+Tara Oceans,SAMEA2656958,5,marine biome,sea surface layer,particulate matter,0.947728,0.309,1.1485
+Tara Oceans,SAMEA2656971,5,marine biome,sea surface layer,particulate matter,0.168013,0.309,1.1485
+Tara Oceans,SAMEA2657034,5,marine biome,sea surface layer,particulate matter,0.168013,0.309,1.1485
+Tara Oceans,SAMEA2621082,5,marine biome,sea surface layer,particulate matter,0.168013,0.309,1.1485
+Tara Oceans,SAMEA2621080,5,marine biome,sea surface layer,particulate matter,0.168013,0.309,1.1485
+Tara Oceans,SAMEA2657009,5,marine biome,sea surface layer,particulate matter,2.09631,0.1455,1.9865
+Tara Oceans,SAMEA2657082,5,marine biome,sea surface layer,particulate matter,2.09631,0.1455,1.9865
+Tara Oceans,SAMEA2657073,5,marine biome,sea surface layer,particulate matter,2.09631,0.1455,1.9865
+Tara Oceans,SAMEA2656956,5,marine biome,sea surface layer,particulate matter,2.45099,0.343,2.7435
+Tara Oceans,SAMEA2620941,5,marine biome,sea surface layer,particulate matter,2.45099,0.343,2.7435
+Tara Oceans,SAMEA2620939,5,marine biome,sea surface layer,particulate matter,2.45099,0.343,2.7435
+Tara Oceans,SAMEA2620847,65,marine biome,deep chlorophyll maximum layer,particulate matter,-0.112031,0.08325,1.7355
+Tara Oceans,SAMEA2620845,65,marine biome,deep chlorophyll maximum layer,particulate matter,-0.112031,0.08325,1.7355
+Tara Oceans,SAMEA2657013,60,marine biome,deep chlorophyll maximum layer,particulate matter,-0.166794,0.0815,1.7455
+Tara Oceans,SAMEA2656968,5,marine biome,sea surface layer,particulate matter,-0.166794,0.084,1.7665
+Tara Oceans,SAMEA2657040,5,marine biome,sea surface layer,particulate matter,-0.166794,0.084,1.7665
+Tara Oceans,SAMEA2620583,75,marine biome,deep chlorophyll maximum layer,particulate matter,0.244232,0.159,2.824
+Tara Oceans,SAMEA2620581,75,marine biome,deep chlorophyll maximum layer,particulate matter,0.244232,0.159,2.824
+Tara Oceans,SAMEA2657079,70,marine biome,deep chlorophyll maximum layer,particulate matter,0.244232,0.159,2.824
+Tara Oceans,SAMEA2657020,75,marine biome,deep chlorophyll maximum layer,particulate matter,0.244232,0.159,2.824
+Tara Oceans,SAMEA2656997,5,marine biome,sea surface layer,particulate matter,0.244232,0.119,2.666
+Tara Oceans,SAMEA2657050,5,marine biome,sea surface layer,particulate matter,-1.60849,0.0825,2.22425
+Tara Oceans,SAMEA2620418,5,marine biome,sea surface layer,particulate matter,-2.20176,0.0825,2.22425
+Tara Oceans,SAMEA2620267,80,marine biome,deep chlorophyll maximum layer,particulate matter,0.569531,0.2505,2.7335
+Tara Oceans,SAMEA2656974,80,marine biome,deep chlorophyll maximum layer,particulate matter,0.890848,0.2505,2.7335
+Tara Oceans,SAMEA2657004,80,marine biome,deep chlorophyll maximum layer,particulate matter,0.788282,0.2505,2.7335
+Tara Oceans,SAMEA2657056,5,marine biome,sea surface layer,particulate matter,-1.47882,0.0765,2.171
+Tara Oceans,SAMEA2657089,5,marine biome,sea surface layer,particulate matter,-1.47882,0.0765,2.171
+Tara Oceans,SAMEA2620249,5,marine biome,sea surface layer,particulate matter,-1.47882,0.0765,2.171
+Tara Oceans,SAMEA2620222,60,marine biome,deep chlorophyll maximum layer,particulate matter,-0.224514,0.846,3.5765
+Tara Oceans,SAMEA2620221,60,marine biome,deep chlorophyll maximum layer,particulate matter,-0.224514,0.846,3.5765
+Tara Oceans,SAMEA2657052,70,marine biome,deep chlorophyll maximum layer,particulate matter,12.5707,1.348,5.774
+Tara Oceans,SAMEA2656995,70,marine biome,deep chlorophyll maximum layer,particulate matter,10.3726,1.348,5.774
+Tara Oceans,SAMEA2657016,5,marine biome,sea surface layer,particulate matter,-0.301436,0.1565,1.3865
+Tara Oceans,SAMEA2620205,5,marine biome,sea surface layer,particulate matter,-1.34315,0.1565,1.3865
+Tara Oceans,SAMEA2620204,5,marine biome,sea surface layer,particulate matter,-1.34315,0.1565,1.3865
+Tara Oceans,SAMEA2657106,5,marine biome,sea surface layer,particulate matter,-1.34315,0.1565,1.3865
+Tara Oceans,SAMEA2656964,25,marine biome,deep chlorophyll maximum layer,particulate matter,-0.737324,0.2465,1.2415
+Tara Oceans,SAMEA2656967,25,marine biome,deep chlorophyll maximum layer,particulate matter,-1.00636,0.2465,1.2415
+Tara Oceans,SAMEA2656965,5,marine biome,sea surface layer,particulate matter,-0.306531,0.2335,1.515
+Tara Oceans,SAMEA2657110,5,marine biome,sea surface layer,particulate matter,-1.41558,0.2335,1.515
+Tara Oceans,SAMEA2620072,5,marine biome,sea surface layer,particulate matter,-1.41558,0.2335,1.515
+Tara Oceans,SAMEA2620023,25,marine biome,deep chlorophyll maximum layer,particulate matter,1.23012,0.417,1.625
+Tara Oceans,SAMEA2657069,25,marine biome,deep chlorophyll maximum layer,particulate matter,1.05666,0.417,1.625
+Tara Oceans,SAMEA2657041,25,marine biome,deep chlorophyll maximum layer,particulate matter,1.28298,0.417,1.625
+Tara Oceans,SAMEA2657022,5,marine biome,sea surface layer,particulate matter,-0.139576,0.337,1.278
+Tara Oceans,SAMEA2656981,5,marine biome,sea surface layer,particulate matter,0.889376,0.337,1.278
+Tara Oceans,SAMEA2620010,5,marine biome,sea surface layer,particulate matter,0.889376,0.337,1.278
+Tara Oceans,SAMEA2619959,17,marine biome,deep chlorophyll maximum layer,particulate matter,0.367767,0.431,1.4395
+Tara Oceans,SAMEA2619958,17,marine biome,deep chlorophyll maximum layer,particulate matter,0.367767,0.431,1.4395
+Tara Oceans,SAMEA2657098,20,marine biome,deep chlorophyll maximum layer,particulate matter,0.387014,0.431,1.4395
+Tara Oceans,SAMEA2657080,20,marine biome,deep chlorophyll maximum layer,particulate matter,0.387014,0.431,1.4395
+Tara Oceans,SAMEA2657060,5,marine biome,sea surface layer,particulate matter,0.343943,0.3575,1.143
+Tara Oceans,SAMEA2657099,60,marine biome,deep chlorophyll maximum layer,particulate matter,-0.148095,0.0885,1.3525
+Tara Oceans,SAMEA2619918,60,marine biome,deep chlorophyll maximum layer,particulate matter,0.08645,0.0885,1.3525
+Tara Oceans,SAMEA2619917,5,marine biome,deep chlorophyll maximum layer,particulate matter,0.08645,0.144,2.6405
+Tara Oceans,SAMEA2619916,60,marine biome,deep chlorophyll maximum layer,particulate matter,0.08645,0.0885,1.3525
+Tara Oceans,SAMEA2657039,60,marine biome,deep chlorophyll maximum layer,particulate matter,-0.067251,0.0885,1.3525
+Tara Oceans,SAMEA2656985,5,marine biome,sea surface layer,particulate matter,-0.927087,0.144,2.6405
+Tara Oceans,SAMEA2657012,5,marine biome,sea surface layer,particulate matter,0.24404,0.04575,1.12025
+Tara Oceans,SAMEA2657055,5,marine biome,sea surface layer,particulate matter,-0.000271,0.04575,1.12025
+Tara Oceans,SAMEA2619869,5,marine biome,sea surface layer,particulate matter,-0.000271,0.04575,1.12025
+Tara Oceans,SAMEA2619850,80,marine biome,deep chlorophyll maximum layer,particulate matter,1.20106,0.025,0.85
+Tara Oceans,SAMEA2656993,80,marine biome,deep chlorophyll maximum layer,particulate matter,0.465984,0.025,0.85
+Tara Oceans,SAMEA2656987,80,marine biome,deep chlorophyll maximum layer,particulate matter,0.218477,0.025,0.85
+Tara Oceans,SAMEA2656970,5,marine biome,sea surface layer,particulate matter,0.241845,0.00875,0.8775
+Tara Oceans,SAMEA2619832,5,marine biome,sea surface layer,particulate matter,-0.541919,0.00875,0.8775
+Tara Oceans,SAMEA2656957,5,marine biome,sea surface layer,particulate matter,-0.541919,0.00875,0.8775
+Tara Oceans,SAMEA2657017,5,marine biome,sea surface layer,particulate matter,-0.007566,0.01225,0.8825
+Tara Oceans,SAMEA2657001,5,marine biome,sea surface layer,particulate matter,-0.137284,0.01225,0.8825
+Tara Oceans,SAMEA2619811,5,marine biome,sea surface layer,particulate matter,-0.137284,0.01225,0.8825
+Tara Oceans,SAMEA2591129,70,marine biome,deep chlorophyll maximum layer,saline water,0.254406,0,0.6655
+Tara Oceans,SAMEA2591128,70,marine biome,deep chlorophyll maximum layer,saline water,0.254406,0,0.6655
+Tara Oceans,SAMEA2611384,5,marine biome,sea surface layer,particulate matter,-0.74885,0.00025,0.816
+Tara Oceans,SAMEA2591116,5,marine biome,sea surface layer,particulate matter,-0.447961,0.00025,0.816
+Tara Oceans,SAMEA2591115,5,marine biome,sea surface layer,particulate matter,-0.447961,0.00025,0.816
+Tara Oceans,SAMEA2622843,140,oceanic epipelagic zone biome,marine wind mixed layer,saline water,3.67243,0.566,1.24575
+Tara Oceans,SAMEA2622842,140,oceanic epipelagic zone biome,marine wind mixed layer,saline water,3.67243,0.566,1.24575
+Tara Oceans,SAMEA2622841,140,oceanic epipelagic zone biome,marine wind mixed layer,saline water,3.67243,0.566,1.24575
+Tara Oceans,SAMEA2622823,5,marine biome,sea surface layer,saline water,4.98594,0.55725,1.80475
+Tara Oceans,SAMEA2622822,5,marine biome,sea surface layer,saline water,4.98594,0.55725,1.80475
+Tara Oceans,SAMEA2622821,5,marine biome,sea surface layer,saline water,4.98594,0.55725,1.80475
+Tara Oceans,SAMEA2622801,120,oceanic epipelagic zone biome,marine wind mixed layer,saline water,4.45868,0.4885,1.469
+Tara Oceans,SAMEA2622800,120,oceanic epipelagic zone biome,marine wind mixed layer,saline water,4.45868,0.4885,1.469
+Tara Oceans,SAMEA2622799,120,oceanic epipelagic zone biome,marine wind mixed layer,saline water,4.45868,0.4885,1.469
+Tara Oceans,SAMEA2622765,5,marine biome,sea surface layer,saline water,5.11186,0.63025,2.53325
+Tara Oceans,SAMEA2622764,5,marine biome,sea surface layer,saline water,5.11186,0.63025,2.53325
+Tara Oceans,SAMEA2622763,5,marine biome,sea surface layer,saline water,5.11186,0.63025,2.53325
+Tara Oceans,SAMEA2622738,150,oceanic epipelagic zone biome,marine wind mixed layer,saline water,5.02326,0.6607,1.18375
+Tara Oceans,SAMEA2622737,150,oceanic epipelagic zone biome,marine wind mixed layer,saline water,5.02326,0.6607,1.18375
+Tara Oceans,SAMEA2622736,150,oceanic epipelagic zone biome,marine wind mixed layer,saline water,5.02326,0.6607,1.18375
+Tara Oceans,SAMEA2622716,5,marine biome,sea surface layer,saline water,3.86841,0.53495,2.2205
+Tara Oceans,SAMEA2622715,5,marine biome,sea surface layer,saline water,3.86841,0.53495,2.2205
+Tara Oceans,SAMEA2622696,115,marine biome,deep chlorophyll maximum layer,saline water,2.33358,0.582933,1.90704
+Tara Oceans,SAMEA2622695,115,marine biome,deep chlorophyll maximum layer,saline water,2.33358,0.582933,1.90704
+Tara Oceans,SAMEA2622694,115,marine biome,deep chlorophyll maximum layer,saline water,2.33358,0.582933,1.90704
+Tara Oceans,SAMEA2622658,5,marine biome,sea surface layer,saline water,3.98636,0.56795,2.1905
+Tara Oceans,SAMEA2622657,5,marine biome,sea surface layer,saline water,3.98636,0.56795,2.1905
+Tara Oceans,SAMEA2622656,5,marine biome,sea surface layer,saline water,3.98636,0.56795,2.1905
+Tara Oceans,SAMEA2621278,120,marine biome,deep chlorophyll maximum layer,saline water,0.478929,0,0.319
+Tara Oceans,SAMEA2621277,120,marine biome,deep chlorophyll maximum layer,saline water,0.478929,0,0.319
+Tara Oceans,SAMEA2621260,5,marine biome,sea surface layer,saline water,-0.385346,0,0.749
+Tara Oceans,SAMEA2621259,5,marine biome,sea surface layer,saline water,-0.385346,0,0.749
+Tara Oceans,SAMEA2621222,150,marine biome,deep chlorophyll maximum layer,saline water,0.580918,0.051522,0.712116
+Tara Oceans,SAMEA2621221,150,marine biome,deep chlorophyll maximum layer,saline water,0.580918,0.051522,0.712116
+Tara Oceans,SAMEA2621204,5,marine biome,sea surface layer,saline water,0.030608,0.055883,0.814172
+Tara Oceans,SAMEA2621203,5,marine biome,sea surface layer,saline water,0.030608,0.055883,0.814172
+Tara Oceans,SAMEA2621101,800,marine biome,marine mesopelagic zone,saline water,37.7793,2.522,44.86
+Tara Oceans,SAMEA2621099,800,marine biome,marine mesopelagic zone,saline water,37.7793,2.522,44.86
+Tara Oceans,SAMEA2621076,5,marine biome,sea surface layer,saline water,0.168013,0.309,1.1485
+Tara Oceans,SAMEA2621075,5,marine biome,sea surface layer,saline water,0.168013,0.309,1.1485
+Tara Oceans,SAMEA2621003,700,marine biome,marine mesopelagic zone,saline water,25.8469,1.529,12.08
+Tara Oceans,SAMEA2620836,65,marine biome,deep chlorophyll maximum layer,saline water,-0.112031,0.08325,1.7355
+Tara Oceans,SAMEA2620413,5,marine biome,sea surface layer,saline water,-2.20176,0.0825,2.22425
+Tara Oceans,SAMEA2620198,5,marine biome,sea surface layer,saline water,-1.34315,0.1565,1.3865
+Tara Oceans,SAMEA2620106,270,marine biome,marine mesopelagic zone,saline water,19.5665,2.64,38.62
+Tara Oceans,SAMEA2620065,5,marine biome,sea surface layer,saline water,-1.41558,0.2335,1.515
+Tara Oceans,SAMEA2620039,340,marine biome,marine mesopelagic zone,saline water,22.4446,2.639,38.94
+Tara Oceans,SAMEA2620004,5,marine biome,sea surface layer,saline water,0.889376,0.337,1.278
+Tara Oceans,SAMEA2619888,5,marine biome,sea surface layer,saline water,-0.927087,0.144,2.6405
+Tara Oceans,SAMEA2620428,5,marine biome,sea surface layer,saline water,-2.20176,0.096,2.436
+Tara Oceans,SAMEA2620373,5,marine biome,sea surface layer,saline water,0.477267,0.102,1.947
+Tara Oceans,SAMEA2620286,5,marine biome,sea surface layer,saline water,-0.711536,0.0705,1.8285
+Tara Oceans,SAMEA2620107,270,marine biome,marine mesopelagic zone,saline water,19.5665,2.64,38.62
+Tara Oceans,SAMEA2620066,5,marine biome,sea surface layer,saline water,-1.41558,0.2335,1.515
+Tara Oceans,SAMEA2620040,340,marine biome,marine mesopelagic zone,saline water,22.4446,2.639,38.94
+Tara Oceans,SAMEA2620005,5,marine biome,sea surface layer,saline water,0.889376,0.337,1.278
+Tara Oceans,SAMEA2619808,5,marine biome,sea surface layer,saline water,-0.137284,0.01225,0.8825
+Tara Oceans,SAMEA2623403,450,marine biome,marine mesopelagic zone,saline water,36.8861,3.155,52.9225
+Tara Oceans,SAMEA2623385,60,marine biome,deep chlorophyll maximum layer,saline water,22.0878,1.108,8.073
+Tara Oceans,SAMEA2623365,5,marine biome,sea surface layer,saline water,-1.18432,0.1575,1.1855
+Tara Oceans,SAMEA2623327,375,marine biome,marine mesopelagic zone,saline water,35.7167,2.9545,46.6245
+Tara Oceans,SAMEA2623290,5,marine biome,sea surface layer,saline water,3.24131,0.456,2.538
+Tara Oceans,SAMEA2622852,140,oceanic epipelagic zone biome,marine wind mixed layer,saline water,3.67243,0.566,1.24575
+Tara Oceans,SAMEA2622832,5,marine biome,sea surface layer,saline water,4.98594,0.55725,1.80475
+Tara Oceans,SAMEA2622810,120,oceanic epipelagic zone biome,marine wind mixed layer,saline water,4.45868,0.4885,1.469
+Tara Oceans,SAMEA2622788,5,marine biome,sea surface layer,saline water,5.11186,0.63025,2.53325
+Tara Oceans,SAMEA2622752,150,oceanic epipelagic zone biome,marine wind mixed layer,saline water,5.02326,0.6607,1.18375
+Tara Oceans,SAMEA2622725,5,marine biome,sea surface layer,saline water,3.86841,0.53495,2.2205
+Tara Oceans,SAMEA2622705,115,marine biome,deep chlorophyll maximum layer,saline water,2.33358,0.582933,1.90704
+Tara Oceans,SAMEA2622667,5,marine biome,sea surface layer,saline water,3.98636,0.56795,2.1905
+Tara Oceans,SAMEA2622497,90,marine biome,deep chlorophyll maximum layer,saline water,1.41152,0.443,0.9285
+Tara Oceans,SAMEA2622473,5,marine biome,sea surface layer,saline water,2.56873,0.5,1.0325
+Tara Oceans,SAMEA2622242,40,marine biome,deep chlorophyll maximum layer,saline water,20.3283,1.8615,10.5045
+Tara Oceans,SAMEA2622212,480,marine biome,marine mesopelagic zone,saline water,40.009,2.853,40.579
+Tara Oceans,SAMEA2622190,5,marine biome,sea surface layer,saline water,11.689,1.02575,5.04425
+Tara Oceans,SAMEA2622166,177,marine biome,marine mesopelagic zone,saline water,21.0684,2.68675,20.9015
+Tara Oceans,SAMEA2622142,50,marine biome,deep chlorophyll maximum layer,saline water,1.50198,0.7785,1.8815
+Tara Oceans,SAMEA2622112,5,marine biome,sea surface layer,saline water,4.59074,0.67725,1.15025
+Tara Oceans,SAMEA2621564,790,marine biome,marine mesopelagic zone,saline water,38.8212,2.614,83.35
+Tara Oceans,SAMEA2621528,5,marine biome,sea surface layer,saline water,27.5012,2.1055,80.55
+Tara Oceans,SAMEA2621502,5,marine biome,sea surface layer,saline water,24.423,1.723,16.55
+Tara Oceans,SAMEA2621416,5,marine biome,sea surface layer,saline water,17.0911,1.302,1.945
+Tara Oceans,SAMEA2621285,120,marine biome,deep chlorophyll maximum layer,saline water,0.478929,0,0.319
+Tara Oceans,SAMEA2621010,700,marine biome,marine mesopelagic zone,saline water,25.8469,1.529,12.08
+Tara Oceans,SAMEA2620421,5,marine biome,sea surface layer,saline water,-2.20176,0.0825,2.22425
+Tara Oceans,SAMEA2620120,270,marine biome,marine mesopelagic zone,saline water,19.5665,2.64,38.62
+Tara Oceans,SAMEA2620053,340,marine biome,marine mesopelagic zone,saline water,22.4446,2.639,38.94
+Tara Oceans,SAMEA2619872,5,marine biome,sea surface layer,saline water,-0.000271,0.04575,1.12025
+Tara Oceans,SAMEA2622357,30,marine biome,deep chlorophyll maximum layer,saline water,3.88661,0.50475,3.225
+Tara Oceans,SAMEA2622331,5,marine biome,sea surface layer,saline water,1.21011,0.2865,1.7085
+Tara Oceans,SAMEA2621548,90,marine biome,deep chlorophyll maximum layer,saline water,33.1092,2.309,81.82
+Tara Oceans,SAMEA2621448,40,marine biome,deep chlorophyll maximum layer,saline water,17.1118,1.356,2.661
+Tara Oceans,SAMEA2621271,5,marine biome,sea surface layer,saline water,-0.385346,0,0.749
+Tara Oceans,SAMEA2621229,150,marine biome,deep chlorophyll maximum layer,saline water,0.580918,0.051522,0.712116
+Tara Oceans,SAMEA2621213,5,marine biome,sea surface layer,saline water,0.030608,0.055883,0.814172
+Tara Oceans,SAMEA2621191,800,marine biome,marine mesopelagic zone,saline water,38.4485,2.618,34.44
+Tara Oceans,SAMEA2621173,100,marine biome,deep chlorophyll maximum layer,saline water,0.241265,0.143,1.284
+Tara Oceans,SAMEA2621151,5,marine biome,sea surface layer,saline water,0.263475,0.104,0.868
+Tara Oceans,SAMEA2621107,800,marine biome,marine mesopelagic zone,saline water,37.7793,2.522,44.86
+Tara Oceans,SAMEA2621085,5,marine biome,sea surface layer,saline water,0.168013,0.309,1.1485
+Tara Oceans,SAMEA2620947,5,marine biome,sea surface layer,saline water,2.45099,0.343,2.7435
+Tara Oceans,SAMEA2620852,65,marine biome,deep chlorophyll maximum layer,saline water,-0.112031,0.08325,1.7355
+Tara Oceans,SAMEA2620588,75,marine biome,deep chlorophyll maximum layer,saline water,0.244232,0.159,2.824
+Tara Oceans,SAMEA2620384,5,marine biome,sea surface layer,saline water,0.477267,0.102,1.947
+Tara Oceans,SAMEA2620273,80,marine biome,deep chlorophyll maximum layer,saline water,0.569531,0.2505,2.7335
+Tara Oceans,SAMEA2620256,5,marine biome,sea surface layer,saline water,-1.47882,0.0765,2.171
+Tara Oceans,SAMEA2620227,60,marine biome,deep chlorophyll maximum layer,saline water,-0.224514,0.846,3.5765
+Tara Oceans,SAMEA2620210,5,marine biome,sea surface layer,saline water,-1.34315,0.1565,1.3865
+Tara Oceans,SAMEA2620094,25,marine biome,deep chlorophyll maximum layer,saline water,-0.611888,0.2465,1.2415
+Tara Oceans,SAMEA2620078,5,marine biome,sea surface layer,saline water,-1.41558,0.2335,1.515
+Tara Oceans,SAMEA2620027,25,marine biome,deep chlorophyll maximum layer,saline water,1.23012,0.417,1.625
+Tara Oceans,SAMEA2620014,5,marine biome,sea surface layer,saline water,0.889376,0.337,1.278
+Tara Oceans,SAMEA2619962,17,marine biome,deep chlorophyll maximum layer,saline water,0.367767,0.431,1.4395
+Tara Oceans,SAMEA2619923,60,marine biome,deep chlorophyll maximum layer,saline water,0.08645,0.0885,1.3525
+Tara Oceans,SAMEA2619903,5,marine biome,sea surface layer,saline water,-0.927087,0.144,2.6405
+Tara Oceans,SAMEA2619854,80,marine biome,deep chlorophyll maximum layer,saline water,1.20106,0.025,0.85
+Tara Oceans,SAMEA2619838,5,marine biome,sea surface layer,saline water,-0.541919,0.00875,0.8775
+Tara Oceans,SAMEA2619815,5,marine biome,sea surface layer,saline water,-0.137284,0.01225,0.8825
+Tara Oceans,SAMEA2591132,70,marine biome,deep chlorophyll maximum layer,saline water,0.254406,0,0.6655
+Tara Oceans,SAMEA2591119,5,marine biome,sea surface layer,saline water,-0.447961,0.00025,0.816
+Tara Oceans,SAMEA2620084,25,marine biome,deep chlorophyll maximum layer,saline water,-0.611888,0.2465,1.2415
+Tara Oceans,SAMEA2623886,5,marine biome,sea surface layer,saline water,2.99923,0.1595,1.236
+Tara Oceans,SAMEA2623868,80,marine biome,deep chlorophyll maximum layer,saline water,1.56535,0.022,0.6335
+Tara Oceans,SAMEA2623850,5,marine biome,sea surface layer,saline water,0.334082,0.0125,0.6545
+Tara Oceans,SAMEA2623826,40,marine biome,deep chlorophyll maximum layer,saline water,1.21028,0,0.8423
+Tara Oceans,SAMEA2623808,5,marine biome,sea surface layer,saline water,-0.328716,0.0055,0.8358
+Tara Oceans,SAMEA2623756,250,marine biome,marine mesopelagic zone,saline water,4.0429,0.179,1.6225
+Tara Oceans,SAMEA2623693,640,marine biome,marine mesopelagic zone,saline water,21.8309,1.3135,13.2415
+Tara Oceans,SAMEA2623627,5,marine biome,sea surface layer,saline water,3.47819,0.33275,2.41425
+Tara Oceans,SAMEA2623513,640,marine biome,marine mesopelagic zone,saline water,31.8512,1.2175,8.624
+Tara Oceans,SAMEA2623463,5,marine biome,sea surface layer,saline water,-2.2118,0.003,1.218
+Tara Oceans,SAMEA2623446,5,marine biome,sea surface layer,saline water,-1.72396,0.0132,1.1195
+Tara Oceans,SAMEA2623426,5,marine biome,sea surface layer,saline water,-3.79669,0.09345,0.63375
+Tara Oceans,SAMEA2623390,450,marine biome,marine mesopelagic zone,saline water,36.8861,3.155,52.9225
+Tara Oceans,SAMEA2623370,60,marine biome,deep chlorophyll maximum layer,saline water,22.0878,1.108,8.073
+Tara Oceans,SAMEA2623350,5,marine biome,sea surface layer,saline water,-1.18432,0.1575,1.1855
+Tara Oceans,SAMEA2623314,375,marine biome,marine mesopelagic zone,saline water,35.7167,2.9545,46.6245
+Tara Oceans,SAMEA2623275,5,marine biome,sea surface layer,saline water,3.24131,0.456,2.538
+Tara Oceans,SAMEA2623135,45,marine biome,deep chlorophyll maximum layer,saline water,4.83272,0.43225,2.65725
+Tara Oceans,SAMEA2623116,5,marine biome,sea surface layer,saline water,-0.673592,0.2925,1.95475
+Tara Oceans,SAMEA2623079,115,marine biome,deep chlorophyll maximum layer,saline water,0.732507,0.1252,4.4468
+Tara Oceans,SAMEA2623059,5,marine biome,sea surface layer,saline water,-0.979589,0.0062,2.4278
+Tara Oceans,SAMEA2622923,40,marine biome,deep chlorophyll maximum layer,saline water,4.36571,0.54925,2.7405
+Tara Oceans,SAMEA2622901,5,marine biome,sea surface layer,saline water,2.46716,0.53975,2.668
+Tara Oceans,SAMEA2622837,140,oceanic epipelagic zone biome,marine wind mixed layer,saline water,3.67243,0.566,1.24575
+Tara Oceans,SAMEA2622817,5,marine biome,sea surface layer,saline water,4.98594,0.55725,1.80475
+Tara Oceans,SAMEA2622796,120,oceanic epipelagic zone biome,marine wind mixed layer,saline water,4.45868,0.4885,1.469
+Tara Oceans,SAMEA2622759,5,marine biome,sea surface layer,saline water,5.11186,0.63025,2.53325
+Tara Oceans,SAMEA2622733,150,oceanic epipelagic zone biome,marine wind mixed layer,saline water,5.02326,0.6607,1.18375
+Tara Oceans,SAMEA2622710,5,marine biome,sea surface layer,saline water,3.86841,0.53495,2.2205
+Tara Oceans,SAMEA2622690,115,marine biome,deep chlorophyll maximum layer,saline water,2.33358,0.582933,1.90704
+Tara Oceans,SAMEA2622652,5,marine biome,sea surface layer,saline water,3.98636,0.56795,2.1905
+Tara Oceans,SAMEA2622545,155,marine biome,deep chlorophyll maximum layer,saline water,0.476585,0.1145,0.6935
+Tara Oceans,SAMEA2622518,5,marine biome,sea surface layer,saline water,-0.916543,0.14225,0.7425
+Tara Oceans,SAMEA2622478,90,marine biome,deep chlorophyll maximum layer,saline water,1.41152,0.443,0.9285
+Tara Oceans,SAMEA2622452,5,marine biome,sea surface layer,saline water,2.56873,0.5,1.0325
+Tara Oceans,SAMEA2622402,50,marine biome,deep chlorophyll maximum layer,saline water,10.9451,0.9295,5.407
+Tara Oceans,SAMEA2622376,5,marine biome,sea surface layer,saline water,6.72934,0.77275,3.8635
+Tara Oceans,SAMEA2622336,30,marine biome,deep chlorophyll maximum layer,saline water,3.88661,0.50475,3.225
+Tara Oceans,SAMEA2622316,5,marine biome,sea surface layer,saline water,1.21011,0.2865,1.7085
+Tara Oceans,SAMEA2622219,40,marine biome,deep chlorophyll maximum layer,saline water,20.3283,1.8615,10.5045
+Tara Oceans,SAMEA2622197,480,marine biome,marine mesopelagic zone,saline water,40.009,2.853,40.579
+Tara Oceans,SAMEA2622173,5,marine biome,sea surface layer,saline water,11.689,1.02575,5.04425
+Tara Oceans,SAMEA2622149,177,marine biome,marine mesopelagic zone,saline water,21.0684,2.68675,20.9015
+Tara Oceans,SAMEA2622119,50,marine biome,deep chlorophyll maximum layer,saline water,1.50198,0.7785,1.8815
+Tara Oceans,SAMEA2622097,5,marine biome,sea surface layer,saline water,4.59074,0.67725,1.15025
+Tara Oceans,SAMEA2622074,5,marine biome,sea surface layer,saline water,-1.7374,0.2975,0.558
+Tara Oceans,SAMEA2622048,488,marine biome,marine mesopelagic zone,saline water,24.644,2.023,12.05
+Tara Oceans,SAMEA2621990,5,marine biome,sea surface layer,saline water,-1.56749,0.1815,0.385875
+Tara Oceans,SAMEA2621859,5,marine biome,sea surface layer,saline water,-0.372718,0.1575,0.5305
+Tara Oceans,SAMEA2621839,5,marine biome,sea surface layer,saline water,-0.39754,0.2425,0.103
+Tara Oceans,SAMEA2621812,35,marine biome,deep chlorophyll maximum layer,saline water,0.660123,1.08725,0.46
+Tara Oceans,SAMEA2621779,5,marine biome,sea surface layer,saline water,-1.48507,0.52125,0.1445
+Tara Oceans,SAMEA2621551,790,marine biome,marine mesopelagic zone,saline water,38.8212,2.614,83.35
+Tara Oceans,SAMEA2621536,90,marine biome,deep chlorophyll maximum layer,saline water,33.1092,2.309,81.82
+Tara Oceans,SAMEA2621509,5,marine biome,sea surface layer,saline water,27.5012,2.1055,80.55
+Tara Oceans,SAMEA2621487,5,marine biome,sea surface layer,saline water,24.423,1.723,16.55
+Tara Oceans,SAMEA2621423,40,marine biome,deep chlorophyll maximum layer,saline water,17.1118,1.356,2.661
+Tara Oceans,SAMEA2621401,5,marine biome,sea surface layer,saline water,17.0911,1.302,1.945
+Tara Oceans,SAMEA2621272,120,marine biome,deep chlorophyll maximum layer,saline water,0.478929,0,0.319
+Tara Oceans,SAMEA2621254,5,marine biome,sea surface layer,saline water,-0.385346,0,0.749
+Tara Oceans,SAMEA2621216,150,marine biome,deep chlorophyll maximum layer,saline water,0.580918,0.051522,0.712116
+Tara Oceans,SAMEA2621198,5,marine biome,sea surface layer,saline water,0.030608,0.055883,0.814172
+Tara Oceans,SAMEA2621176,800,marine biome,marine mesopelagic zone,saline water,38.4485,2.618,34.44
+Tara Oceans,SAMEA2621155,100,marine biome,deep chlorophyll maximum layer,saline water,0.241265,0.143,1.284
+Tara Oceans,SAMEA2621132,5,marine biome,sea surface layer,saline water,0.263475,0.104,0.868
+Tara Oceans,SAMEA2621092,800,marine biome,marine mesopelagic zone,saline water,37.7793,2.522,44.86
+Tara Oceans,SAMEA2621066,5,marine biome,sea surface layer,saline water,0.168013,0.309,1.1485
+Tara Oceans,SAMEA2620995,700,marine biome,marine mesopelagic zone,saline water,25.8469,1.529,12.08
+Tara Oceans,SAMEA2620929,5,marine biome,sea surface layer,saline water,2.45099,0.343,2.7435
+Tara Oceans,SAMEA2620828,65,marine biome,deep chlorophyll maximum layer,saline water,-0.112031,0.08325,1.7355
+Tara Oceans,SAMEA2620570,75,marine biome,deep chlorophyll maximum layer,saline water,0.244232,0.159,2.824
+Tara Oceans,SAMEA2620404,5,marine biome,sea surface layer,saline water,-2.20176,0.0825,2.22425
+Tara Oceans,SAMEA2620259,80,marine biome,deep chlorophyll maximum layer,saline water,0.569531,0.2505,2.7335
+Tara Oceans,SAMEA2620230,5,marine biome,sea surface layer,saline water,-1.47882,0.0765,2.171
+Tara Oceans,SAMEA2620217,60,marine biome,deep chlorophyll maximum layer,saline water,-0.224514,0.846,3.5765
+Tara Oceans,SAMEA2620194,5,marine biome,sea surface layer,saline water,-1.34315,0.1565,1.3865
+Tara Oceans,SAMEA2620097,270,marine biome,marine mesopelagic zone,saline water,19.5665,2.64,38.62
+Tara Oceans,SAMEA2620081,25,marine biome,deep chlorophyll maximum layer,saline water,-0.611888,0.2465,1.2415
+Tara Oceans,SAMEA2620035,340,marine biome,marine mesopelagic zone,saline water,22.4446,2.639,38.94
+Tara Oceans,SAMEA2620021,25,marine biome,deep chlorophyll maximum layer,saline water,1.23012,0.417,1.625
+Tara Oceans,SAMEA2620000,5,marine biome,sea surface layer,saline water,0.889376,0.337,1.278
+Tara Oceans,SAMEA2619952,17,marine biome,deep chlorophyll maximum layer,saline water,0.367767,0.431,1.4395
+Tara Oceans,SAMEA2619907,60,marine biome,deep chlorophyll maximum layer,saline water,0.08645,0.0885,1.3525
+Tara Oceans,SAMEA2619879,5,marine biome,sea surface layer,saline water,-0.927087,0.144,2.6405
+Tara Oceans,SAMEA2619857,5,marine biome,sea surface layer,saline water,-0.000271,0.04575,1.12025
+Tara Oceans,SAMEA2619840,80,marine biome,deep chlorophyll maximum layer,saline water,1.20106,0.025,0.85
+Tara Oceans,SAMEA2619818,5,marine biome,sea surface layer,saline water,-0.541919,0.00875,0.8775
+Tara Oceans,SAMEA2619802,5,marine biome,sea surface layer,saline water,-0.137284,0.01225,0.8825
+Tara Oceans,SAMEA2591122,70,marine biome,deep chlorophyll maximum layer,saline water,0.254406,0,0.6655
+Tara Oceans,SAMEA2591108,5,marine biome,sea surface layer,saline water,-0.447961,0.00025,0.816
+Tara Oceans,SAMEA2591131,70,marine biome,deep chlorophyll maximum layer,saline water,0.254406,0,0.6655
+Tara Oceans,SAMEA2591130,70,marine biome,deep chlorophyll maximum layer,saline water,0.254406,0,0.6655
+Tara Oceans,SAMEA2624977,70,marine biome,deep chlorophyll maximum layer,particulate matter,-0.887964,0,0.6655
+Tara Oceans,SAMEA2625587,70,marine biome,deep chlorophyll maximum layer,particulate matter,-0.887964,0,0.6655
+Tara Oceans,SAMEA2624978,5,marine biome,sea surface layer,particulate matter,-0.147072,0.00025,0.816
+Tara Oceans,SAMEA2624980,5,marine biome,sea surface layer,particulate matter,-0.147072,0.00025,0.816
+Tara Oceans,SAMEA2624983,5,marine biome,sea surface layer,particulate matter,-0.74885,0.00025,0.816
+Tara Oceans,SAMEA2591118,5,marine biome,sea surface layer,particulate matter,-0.447961,0.00025,0.816
+Tara Oceans,SAMEA2591117,5,marine biome,sea surface layer,particulate matter,-0.447961,0.00025,0.816
+Tara Oceans,SAMEA2621523,5,marine biome,sea surface layer,particulate matter,27.5012,2.1055,80.55
+Tara Oceans,SAMEA2732321,5,marine biome,sea surface layer,particulate matter,3.61821,0.55525,3.454
+Tara Oceans,SAMEA2620025,25,marine biome,deep chlorophyll maximum layer,particulate matter,1.23012,0.417,1.625
+Tara Oceans,SAMEA2730588,5,marine biome,sea surface layer,particulate matter,-0.139576,0.337,1.278
+Tara Oceans,SAMEA2730547,5,marine biome,sea surface layer,particulate matter,0.889376,0.337,1.278
+Tara Oceans,SAMEA2731674,5,marine biome,sea surface layer,particulate matter,2.99923,0.1595,1.236
+Tara Oceans,SAMEA2732077,5,marine biome,sea surface layer,particulate matter,0.992351,0.001,0.797
+Tara Oceans,SAMEA2621832,35,marine biome,deep chlorophyll maximum layer,particulate matter,0.660123,1.08725,0.46
+Tara Oceans,SAMEA2621475,5,marine biome,sea surface layer,particulate matter,11.0037,1.176,0.936
+Tara Oceans,SAMEA2732954,5,marine biome,sea surface layer,particulate matter,0.030608,0.055883,0.814172
+Tara Oceans,SAMEA2731714,5,marine biome,sea surface layer,particulate matter,0.196821,0.104,0.868
+Tara Oceans,SAMEA2620846,65,marine biome,deep chlorophyll maximum layer,particulate matter,-0.112031,0.08325,1.7355
+Tara Oceans,SAMEA2731338,5,marine biome,sea surface layer,particulate matter,-0.166794,0.084,1.7665
+Tara Oceans,SAMEA2620526,80,marine biome,deep chlorophyll maximum layer,particulate matter,0.244232,0.1035,2.31037
+Tara Oceans,SAMEA2620523,80,marine biome,deep chlorophyll maximum layer,particulate matter,0.244232,0.1035,2.31037
+Tara Oceans,SAMEA2730799,5,marine biome,sea surface layer,particulate matter,0.244232,0.07325,1.8665
+Tara Oceans,SAMEA2620500,5,marine biome,sea surface layer,particulate matter,0.244232,0.07325,1.8665
+Tara Oceans,SAMEA2623541,5,marine biome,sea surface layer,particulate matter,1.19032,0.0065,1.256
+Tara Oceans,SAMEA2623481,5,marine biome,sea surface layer,particulate matter,-2.2118,0.003,1.218
+Tara Oceans,SAMEA2623459,5,marine biome,sea surface layer,particulate matter,-1.72396,0.0132,1.1195
+Tara Oceans,SAMEA2623458,5,marine biome,sea surface layer,particulate matter,-1.72396,0.0132,1.1195
+Tara Oceans,SAMEA2623437,5,marine biome,sea surface layer,particulate matter,-3.79669,0.09345,0.63375
+Tara Oceans,SAMEA2623357,5,marine biome,sea surface layer,particulate matter,-1.18432,0.1575,1.1855
+Tara Oceans,SAMEA2623184,5,marine biome,sea surface layer,particulate matter,-1.65127,0.288583,1.22329
+Tara Oceans,SAMEA2623126,5,marine biome,sea surface layer,particulate matter,-0.673592,0.2925,1.95475
+Tara Oceans,SAMEA2622995,5,marine biome,sea surface layer,particulate matter,-1.89738,0.186,0.645
+Tara Oceans,SAMEA2622955,5,marine biome,sea surface layer,particulate matter,-2.17599,0.225,1.3695
+Tara Oceans,SAMEA2622873,5,marine biome,sea surface layer,particulate matter,4.95364,0.56525,1.932
+Tara Oceans,SAMEA2622856,5,marine biome,sea surface layer,particulate matter,-1.05626,0.3585,1.262
+Tara Oceans,SAMEA2622646,5,marine biome,sea surface layer,particulate matter,-0.910661,0.169,0.714
+Tara Oceans,SAMEA2622641,5,marine biome,sea surface layer,particulate matter,-1.01654,0.176125,0.69175
+Tara Oceans,SAMEA2622637,5,marine biome,sea surface layer,particulate matter,-1.01654,0.176125,0.69175
+Tara Oceans,SAMEA2622632,5,marine biome,sea surface layer,particulate matter,-1.01654,0.19875,0.733333
+Tara Oceans,SAMEA2622628,5,marine biome,sea surface layer,particulate matter,-1.01654,0.19875,0.733333
+Tara Oceans,SAMEA2622624,5,marine biome,sea surface layer,particulate matter,-1.01654,0.20025,0.729625
+Tara Oceans,SAMEA2622619,5,marine biome,sea surface layer,particulate matter,-1.01654,0.187833,0.719083
+Tara Oceans,SAMEA2622614,5,marine biome,sea surface layer,particulate matter,-1.01654,0.1815,0.73825
+Tara Oceans,SAMEA2622256,5,marine biome,sea surface layer,particulate matter,5.71519,0.573125,3.59512
+Tara Oceans,SAMEA2622084,5,marine biome,sea surface layer,particulate matter,-1.7374,0.2975,0.558
+Tara Oceans,SAMEA2621924,5,marine biome,sea surface layer,particulate matter,-1.01044,0.121,0.567
+Tara Oceans,SAMEA2621920,5,marine biome,sea surface layer,particulate matter,-1.01044,0.121,0.567
+Tara Oceans,SAMEA2621581,5,marine biome,sea surface layer,particulate matter,11.9924,1.553,64.01
+Tara Oceans,SAMEA2621472,5,marine biome,sea surface layer,particulate matter,11.0037,1.176,0.936
+Tara Oceans,SAMEA2621124,5,marine biome,sea surface layer,particulate matter,-3.46895,0.127,1.473
+Tara Oceans,SAMEA2620459,5,marine biome,sea surface layer,particulate matter,0.244232,0.076,2.256
+Tara Oceans,SAMEA2620431,5,marine biome,sea surface layer,particulate matter,-2.20176,0.096,2.436
+Tara Oceans,SAMEA2730915,5,marine biome,sea surface layer,particulate matter,-0.543904,0.0132,1.1195
+Tara Oceans,SAMEA2730914,5,marine biome,sea surface layer,particulate matter,-1.72396,0.0132,1.1195
+Tara Oceans,SAMEA2623457,5,marine biome,sea surface layer,particulate matter,-1.72396,0.0132,1.1195
+Tara Oceans,SAMEA2730625,5,marine biome,sea surface layer,particulate matter,-0.287067,0.09345,0.63375
+Tara Oceans,SAMEA2730909,5,marine biome,sea surface layer,particulate matter,-0.287067,0.09345,0.63375
+Tara Oceans,SAMEA2730908,5,marine biome,sea surface layer,particulate matter,-3.79669,0.09345,0.63375
+Tara Oceans,SAMEA2623439,5,marine biome,sea surface layer,particulate matter,-3.79669,0.09345,0.63375
+Tara Oceans,SAMEA2732557,5,marine biome,sea surface layer,particulate matter,-1.65127,0.288583,1.22329
+Tara Oceans,SAMEA2623186,5,marine biome,sea surface layer,particulate matter,-1.65127,0.288583,1.22329
+Tara Oceans,SAMEA2732974,5,marine biome,sea surface layer,particulate matter,-0.673592,0.2925,1.95475
+Tara Oceans,SAMEA2732917,5,marine biome,sea surface layer,particulate matter,-0.673592,0.2925,1.95475
+Tara Oceans,SAMEA2732853,5,marine biome,sea surface layer,particulate matter,-0.673592,0.2925,1.95475
+Tara Oceans,SAMEA2623128,5,marine biome,sea surface layer,particulate matter,-0.673592,0.2925,1.95475
+Tara Oceans,SAMEA2731974,5,marine biome,sea surface layer,particulate matter,4.78483,0.56525,1.932
+Tara Oceans,SAMEA2731923,5,marine biome,sea surface layer,particulate matter,4.78483,0.56525,1.932
+Tara Oceans,SAMEA2731883,5,marine biome,sea surface layer,particulate matter,4.78483,0.56525,1.932
+Tara Oceans,SAMEA2622875,5,marine biome,sea surface layer,particulate matter,4.95364,0.56525,1.932
+Tara Oceans,SAMEA2731706,5,marine biome,sea surface layer,particulate matter,1.79573,0.3585,1.262
+Tara Oceans,SAMEA2731705,5,marine biome,sea surface layer,particulate matter,1.79573,0.3585,1.262
+Tara Oceans,SAMEA2731669,5,marine biome,sea surface layer,particulate matter,-0.483111,0.3585,1.262
+Tara Oceans,SAMEA2622858,5,marine biome,sea surface layer,particulate matter,-1.05626,0.3585,1.262
+Tara Oceans,SAMEA2731583,5,marine biome,sea surface layer,particulate matter,-0.910661,0.169,0.714
+Tara Oceans,SAMEA2731582,5,marine biome,sea surface layer,particulate matter,-0.910661,0.169,0.714
+Tara Oceans,SAMEA2731724,5,marine biome,sea surface layer,particulate matter,-1.01654,0.176125,0.69175
+Tara Oceans,SAMEA2731702,5,marine biome,sea surface layer,particulate matter,-1.01654,0.176125,0.69175
+Tara Oceans,SAMEA2731665,5,marine biome,sea surface layer,particulate matter,-1.01654,0.176125,0.69175
+Tara Oceans,SAMEA2731664,5,marine biome,sea surface layer,particulate matter,-1.01654,0.176125,0.69175
+Tara Oceans,SAMEA2732203,5,marine biome,sea surface layer,particulate matter,-1.7374,0.2975,0.558
+Tara Oceans,SAMEA2732202,5,marine biome,sea surface layer,particulate matter,-1.7374,0.2975,0.558
+Tara Oceans,SAMEA2732201,5,marine biome,sea surface layer,particulate matter,-1.50103,0.2975,0.558
+Tara Oceans,SAMEA2622086,5,marine biome,sea surface layer,particulate matter,-1.7374,0.2975,0.558
+Tara Oceans,SAMEA2732834,5,marine biome,sea surface layer,particulate matter,-0.760199,0.2425,0.103
+Tara Oceans,SAMEA2732773,5,marine biome,sea surface layer,particulate matter,-0.760199,0.2425,0.103
+Tara Oceans,SAMEA2732772,5,marine biome,sea surface layer,particulate matter,-0.760199,0.2425,0.103
+Tara Oceans,SAMEA2621844,5,marine biome,sea surface layer,particulate matter,-0.39754,0.2425,0.103
+Tara Oceans,SAMEA2731966,5,marine biome,sea surface layer,particulate matter,-3.12198,0.127,1.473
+Tara Oceans,SAMEA2731962,5,marine biome,sea surface layer,particulate matter,-3.46895,0.127,1.473
+Tara Oceans,SAMEA2731877,5,marine biome,sea surface layer,particulate matter,-3.46895,0.127,1.473
+Tara Oceans,SAMEA2621126,5,marine biome,sea surface layer,particulate matter,-3.46895,0.127,1.473
+Tara Oceans,SAMEA2731264,5,marine biome,sea surface layer,particulate matter,2.14933,0,2.46408
+Tara Oceans,SAMEA2620504,5,marine biome,sea surface layer,particulate matter,0.244232,0.07325,1.8665
+Tara Oceans,SAMEA2730982,5,marine biome,sea surface layer,particulate matter,0.244232,0.076,2.256
+Tara Oceans,SAMEA2730728,5,marine biome,sea surface layer,particulate matter,0.244232,0.076,2.256
+Tara Oceans,SAMEA2620457,5,marine biome,sea surface layer,particulate matter,0.244232,0.076,2.256
+Tara Oceans,SAMEA2730866,5,marine biome,sea surface layer,particulate matter,-2.20176,0.096,2.436
+Tara Oceans,SAMEA2730864,5,marine biome,sea surface layer,particulate matter,-2.20176,0.096,2.436
+Tara Oceans,SAMEA2622772,5,marine biome,sea surface layer,particulate matter,5.11186,0.63025,2.53325
+Tara Oceans,SAMEA2657105,5,marine biome,sea surface layer,particulate matter,28.882,2.1055,80.55
+Tara Oceans,SAMEA2620251,5,marine biome,sea surface layer,particulate matter,-1.47882,0.0765,2.171
+Tara Oceans,SAMEA2620011,5,marine biome,sea surface layer,particulate matter,0.889376,0.337,1.278
+Tara Oceans,SAMEA2657058,5,marine biome,sea surface layer,particulate matter,-0.323509,0.144,2.6405
+Tara Oceans,SAMEA2619898,5,marine biome,sea surface layer,particulate matter,-0.927087,0.144,2.6405
+Tara Oceans,SAMEA2619833,5,marine biome,sea surface layer,particulate matter,-0.541919,0.00875,0.8775
+Tara Oceans,SAMEA2620090,25,marine biome,deep chlorophyll maximum layer,particulate matter,-0.611888,0.2465,1.2415
+Tara Oceans,SAMEA2620024,25,marine biome,deep chlorophyll maximum layer,particulate matter,1.23012,0.417,1.625
+Tara Oceans,SAMEA2621825,35,marine biome,deep chlorophyll maximum layer,particulate matter,0.660123,1.08725,0.46
+Tara Oceans,SAMEA2621611,35,marine biome,deep chlorophyll maximum layer,particulate matter,28.9664,2.4585,63.035
+Tara Oceans,SAMEA2621607,35,marine biome,deep chlorophyll maximum layer,particulate matter,28.9664,2.4585,63.035
+Tara Oceans,SAMEA2623837,40,marine biome,deep chlorophyll maximum layer,particulate matter,1.21028,0,0.8423
+Tara Oceans,SAMEA2623562,40,marine biome,deep chlorophyll maximum layer,particulate matter,0.90708,0.001,1.23
+Tara Oceans,SAMEA2622276,40,marine biome,deep chlorophyll maximum layer,particulate matter,9.68462,0.776625,5.75275
+Tara Oceans,SAMEA2621438,40,marine biome,deep chlorophyll maximum layer,particulate matter,17.1118,1.356,2.661
+Tara Oceans,SAMEA2619878,40,marine biome,None,particulate matter,0.04326,0.107,1.14175
+Tara Oceans,SAMEA2623146,45,marine biome,deep chlorophyll maximum layer,particulate matter,4.83272,0.43225,2.65725
+Tara Oceans,SAMEA2732923,45,marine biome,deep chlorophyll maximum layer,particulate matter,5.63849,0.43225,2.65725
+Tara Oceans,SAMEA2623148,45,marine biome,deep chlorophyll maximum layer,particulate matter,4.83272,0.43225,2.65725
+Tara Oceans,SAMEA2732861,45,marine biome,deep chlorophyll maximum layer,particulate matter,4.30864,0.43225,2.65725
+Tara Oceans,SAMEA2732857,45,marine biome,deep chlorophyll maximum layer,particulate matter,7.01682,0.43225,2.65725
+Tara Oceans,SAMEA2731693,50,marine biome,deep chlorophyll maximum layer,particulate matter,10.8009,0.9295,5.407
+Tara Oceans,SAMEA2623377,60,marine biome,deep chlorophyll maximum layer,particulate matter,22.0878,1.108,8.073
+Tara Oceans,SAMEA2619876,70,marine biome,None,particulate matter,2.51791,0.2655,2.377
+Tara Oceans,SAMEA2620529,80,marine biome,deep chlorophyll maximum layer,particulate matter,0.244232,0.1035,2.31037
+Tara Oceans,SAMEA2620268,80,marine biome,deep chlorophyll maximum layer,particulate matter,0.569531,0.2505,2.7335
+Tara Oceans,SAMEA2619851,80,marine biome,deep chlorophyll maximum layer,particulate matter,1.20106,0.025,0.85
+Tara Oceans,SAMEA2622981,85,marine biome,deep chlorophyll maximum layer,particulate matter,0.614344,0.332,1.448
+Tara Oceans,SAMEA2656990,90,marine biome,deep chlorophyll maximum layer,particulate matter,30.4221,2.309,81.82
+Tara Oceans,SAMEA2622893,100,marine biome,deep chlorophyll maximum layer,particulate matter,3.98389,0.56825,1.5525
+Tara Oceans,SAMEA2731982,100,marine biome,deep chlorophyll maximum layer,particulate matter,3.82977,0.56825,1.5525
+Tara Oceans,SAMEA2731938,100,marine biome,deep chlorophyll maximum layer,particulate matter,4.42606,0.56825,1.5525
+Tara Oceans,SAMEA2731979,100,marine biome,deep chlorophyll maximum layer,particulate matter,4.46534,0.56825,1.5525
+Tara Oceans,SAMEA2622894,100,marine biome,deep chlorophyll maximum layer,particulate matter,3.98389,0.56825,1.5525
+Tara Oceans,SAMEA2622697,115,marine biome,deep chlorophyll maximum layer,particulate matter,2.33358,0.582933,1.90704
+Tara Oceans,SAMEA2620484,120,marine biome,deep chlorophyll maximum layer,particulate matter,0.269786,0.136,2.436
+Tara Oceans,SAMEA2620477,120,marine biome,deep chlorophyll maximum layer,particulate matter,0.269786,0.136,2.436
+Tara Oceans,SAMEA2730766,120,marine biome,deep chlorophyll maximum layer,particulate matter,0.244232,0.136,2.436
+Tara Oceans,SAMEA2622803,120,oceanic epipelagic zone biome,marine wind mixed layer,particulate matter,4.45868,0.4885,1.469
+Tara Oceans,SAMEA2657006,140,oceanic epipelagic zone biome,marine wind mixed layer,particulate matter,4.26365,0.566,1.24575
+Tara Oceans,SAMEA2657066,140,oceanic epipelagic zone biome,marine wind mixed layer,particulate matter,3.43205,0.566,1.24575
+Tara Oceans,SAMEA2622844,140,oceanic epipelagic zone biome,marine wind mixed layer,particulate matter,3.67243,0.566,1.24575
+Tara Oceans,SAMEA2622743,150,oceanic epipelagic zone biome,marine wind mixed layer,particulate matter,5.02326,0.6607,1.18375
+Tara Oceans,SAMEA2622742,150,oceanic epipelagic zone biome,marine wind mixed layer,particulate matter,5.02326,0.6607,1.18375
+Tara Oceans,SAMEA2622741,150,oceanic epipelagic zone biome,marine wind mixed layer,particulate matter,5.02326,0.6607,1.18375
+Tara Oceans,SAMEA2622740,150,oceanic epipelagic zone biome,marine wind mixed layer,particulate matter,5.02326,0.6607,1.18375
+Tara Oceans,SAMEA2622739,150,oceanic epipelagic zone biome,marine wind mixed layer,particulate matter,5.02326,0.6607,1.18375
+Tara Oceans,SAMEA2657043,150,oceanic epipelagic zone biome,marine wind mixed layer,particulate matter,5.30541,0.57375,1.32075
+Tara Oceans,SAMEA2622746,150,oceanic epipelagic zone biome,marine wind mixed layer,particulate matter,5.02326,0.6607,1.18375
+Tara Oceans,SAMEA2622563,155,marine biome,deep chlorophyll maximum layer,particulate matter,0.476585,0.1145,0.6935
+Tara Oceans,SAMEA2621892,155,marine biome,deep chlorophyll maximum layer,particulate matter,0.110812,0.181,0.5315
+Tara Oceans,SAMEA2621975,175,marine biome,deep chlorophyll maximum layer,particulate matter,1.20477,0.1725,0.5065
+Tara Oceans,SAMEA2621970,175,marine biome,deep chlorophyll maximum layer,particulate matter,1.20477,0.1725,0.5065
+Tara Oceans,SAMEA2621968,175,marine biome,deep chlorophyll maximum layer,particulate matter,1.20477,0.1725,0.5065
+Tara Oceans,SAMEA2623764,250,marine biome,marine mesopelagic zone,particulate matter,4.0429,0.179,1.6225
+Tara Oceans,SAMEA2620115,270,marine biome,marine mesopelagic zone,particulate matter,19.5665,2.64,38.62
+Tara Oceans,SAMEA2620114,270,marine biome,marine mesopelagic zone,particulate matter,19.5665,2.64,38.62
+Tara Oceans,SAMEA2620183,285,marine biome,marine mesopelagic zone,particulate matter,21.9004,2.666,40.6
+Tara Oceans,SAMEA2620045,340,marine biome,marine mesopelagic zone,particulate matter,22.4446,2.639,38.94
+Tara Oceans,SAMEA2620044,340,marine biome,marine mesopelagic zone,particulate matter,22.4446,2.639,38.94
+Tara Oceans,SAMEA2623322,375,marine biome,marine mesopelagic zone,particulate matter,35.7167,2.9545,46.6245
+Tara Oceans,SAMEA2622306,380,marine biome,marine mesopelagic zone,particulate matter,37.6941,2.66488,37.4515
+Tara Oceans,SAMEA2623622,390,marine biome,marine mesopelagic zone,particulate matter,4.69098,0.2385,1.789
+Tara Oceans,SAMEA2623398,450,marine biome,marine mesopelagic zone,particulate matter,36.8861,3.155,52.9225
+Tara Oceans,SAMEA2622207,480,marine biome,marine mesopelagic zone,particulate matter,40.009,2.853,40.579
+Tara Oceans,SAMEA2622068,488,marine biome,marine mesopelagic zone,particulate matter,24.644,2.023,12.05
+Tara Oceans,SAMEA2623704,640,marine biome,marine mesopelagic zone,particulate matter,21.8309,1.3135,13.2415
+Tara Oceans,SAMEA2623524,640,marine biome,marine mesopelagic zone,particulate matter,31.8512,1.2175,8.624
+Tara Oceans,SAMEA2620377,5,marine biome,sea surface layer,particulate matter,0.477267,0.102,1.947
+Tara Oceans,SAMEA2620220,60,marine biome,deep chlorophyll maximum layer,particulate matter,-0.224514,0.846,3.5765
+Tara Oceans,SAMEA2620070,5,marine biome,sea surface layer,particulate matter,-1.41558,0.2335,1.515
+Tara Oceans,SAMEA2591109,5,marine biome,sea surface layer,saline water,-0.447961,0.00025,0.816
+Tara Oceans,SAMEA2620932,5,marine biome,sea surface layer,saline water,2.45099,0.343,2.7435
+Tara Oceans,SAMEA2620372,5,marine biome,sea surface layer,saline water,0.477267,0.102,1.947
+Tara Oceans,SAMEA2623851,5,marine biome,sea surface layer,saline water,0.334082,0.0125,0.6545
+Tara Oceans,SAMEA2620085,25,marine biome,deep chlorophyll maximum layer,saline water,-0.611888,0.2465,1.2415
+Tara Polar Circle Expedition,SAMEA4398432,391,polar biome,marine mesopelagic zone,liquid water,16.0176,0.851461,4.07817
+Tara Polar Circle Expedition,SAMEA4398387,5,polar biome,marine layer,liquid water,8.29159,0.511975,2.25258
+Tara Polar Circle Expedition,SAMEA4398266,5,polar biome,marine layer,liquid water,1.69963,0.312072,0.819597
+Tara Polar Circle Expedition,SAMEA4398193,5,polar biome,marine layer,liquid water,3.50262,0.220883,1.04231
+Tara Polar Circle Expedition,SAMEA4398111,5,polar biome,marine layer,liquid water,3.89125,0.560568,0.298067
+Tara Polar Circle Expedition,SAMEA4398083,36,polar biome,deep chlorophyll maximum layer,liquid water,5.35593,0.6443,4.0872
+Tara Polar Circle Expedition,SAMEA4398027,5,polar biome,marine layer,liquid water,3.71585,0.526245,2.06205
+Tara Polar Circle Expedition,SAMEA4397948,5,polar biome,marine layer,liquid water,1.63299,0.430504,2.82291
+Tara Polar Circle Expedition,SAMEA4397920,35,polar biome,deep chlorophyll maximum layer,liquid water,-2.6478,0.866194,5.56684
+Tara Polar Circle Expedition,SAMEA4397859,5,polar biome,marine layer,liquid water,-3.14775,0.361653,1.42426
+Tara Polar Circle Expedition,SAMEA4397363,199,polar biome,marine layer,liquid water,11.6916,0.730535,4.9946
+Tara Polar Circle Expedition,SAMEA4397330,5,polar biome,marine layer,liquid water,2.06044,0.063634,0.523062
+Tara Polar Circle Expedition,SAMEA4397295,35,polar biome,deep chlorophyll maximum layer,liquid water,4.75227,0.209065,0.231772
+Tara Polar Circle Expedition,SAMEA4397255,5,polar biome,marine layer,liquid water,2.40637,0.056871,0.273079
+Tara Polar Circle Expedition,SAMEA4397174,40,polar biome,deep chlorophyll maximum layer,liquid water,-3.88873,0.098435,1.13533
+Tara Polar Circle Expedition,SAMEA4397051,5,polar biome,marine layer,liquid water,4.72754,0.290483,4.18531
+Tara Polar Circle Expedition,SAMEA4396988,25,polar biome,deep chlorophyll maximum layer,liquid water,7.94716,0.709183,4.95809
+Tara Polar Circle Expedition,SAMEA4396941,5,polar biome,marine layer,liquid water,5.21995,0.356899,4.01207
+Tara Polar Circle Expedition,SAMEA4396515,40,marine biome,deep chlorophyll maximum layer,liquid water,6.95124,0.566253,3.55436
+Tara Polar Circle Expedition,SAMEA4396441,5,marine biome,marine layer,liquid water,4.34829,0.401861,0.967928
